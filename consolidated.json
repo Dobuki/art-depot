@@ -1,0 +1,20 @@
+{
+  "/data/dir-json.json": {
+    "md5": "99914b932bd37a50b983c5e7c90ae93b"
+  },
+  "/data/dir.json": {
+    "image/9b89199f46d4d195769a5fef8d09ce1c.png": {
+      "sha": "04fa39491c8722519fbb63a55c1c64002174f5bb"
+    },
+    "image/example/6b6df808be08be62a8107d154a31f5f2.png": {
+      "sha": "04fa39491c8722519fbb63a55c1c64002174f5bb"
+    },
+    "image/example/9b89199f46d4d195769a5fef8d09ce1c.png": {
+      "sha": "04fa39491c8722519fbb63a55c1c64002174f5bb"
+    },
+    "image/example/dobuki-logo.png": {
+      "sha": "04fa39491c8722519fbb63a55c1c64002174f5bb"
+    },
+    "md5": "168aaf4d1fe9e76e7b843625f9d409c9"
+  }
+}
