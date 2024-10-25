@@ -60,7 +60,7 @@
     "example/subgroup/dobuki-logo.png": {
       "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
     },
-    "md5": "f2aac52ac1f73da01c971bbb9e1b086c",
+    "md5": "19bdb222c1a8a5ec6ef391c303e01afc",
     "power-troll/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
       "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
     },
@@ -75,6 +75,9 @@
     },
     "power-troll/91RYko3oOoL._AC_UF1000,1000_QL80_.jpg": {
       "sha": "28b20dddaae5b6c30c35b7e640188b6935ae3380"
+    },
+    "power-troll/Twitter-X-Icon-PNG.png": {
+      "sha": "9a60975841a1438b4f9f7d628a04f86be12a71c1"
     }
   },
   "/data/image/example/dir.json": {
@@ -117,6 +120,9 @@
     "91RYko3oOoL._AC_UF1000,1000_QL80_.jpg": {
       "sha": "28b20dddaae5b6c30c35b7e640188b6935ae3380"
     },
-    "md5": "1be6e1dc41b706d3c09fb81ed4e3a906"
+    "Twitter-X-Icon-PNG.png": {
+      "sha": "9a60975841a1438b4f9f7d628a04f86be12a71c1"
+    },
+    "md5": "e9f58c6595bda80631de051be02c6b23"
   }
 }
