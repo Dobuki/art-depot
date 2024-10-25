@@ -20,7 +20,7 @@
   "example/subgroup/dobuki-logo.png": {
     "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
   },
-  "md5": "50c58089d017165398e746036e46e358",
+  "md5": "a22d229a567cc8c979831f3c5dfaab9a",
   "power-troll/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
     "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
   },
@@ -41,5 +41,8 @@
   },
   "power-troll/newgrounds/jacklehamster/QAIbWh.png": {
     "sha": "6be15fae5f8dd06a6f3b1805e51ad7108be361c7"
+  },
+  "power-troll/newgrounds/jacklehamster/dobuki-logo.png": {
+    "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
   }
 }
