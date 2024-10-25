@@ -17,7 +17,10 @@
   "example/dobuki-logo.png": {
     "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
   },
-  "md5": "a316d160a88c8bc5a22eb078a86133a6",
+  "example/subgroup/dobuki-logo.png": {
+    "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
+  },
+  "md5": "f2aac52ac1f73da01c971bbb9e1b086c",
   "power-troll/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
     "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
   },
