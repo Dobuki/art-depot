@@ -1,14 +1,15 @@
 {
-  "image/example/6b6df808be08be62a8107d154a31f5f2.png": {
-    "sha": "b842bbb6961181e4450b2e194e1b618cb6dc4005"
+  "6b6df808be08be62a8107d154a31f5f2.png": {
+    "sha": "b3c9a0aa21d49201b733ac105b6e51cf436ec94e"
   },
-  "image/example/9b89199f46d4d195769a5fef8d09ce1c.png": {
-    "sha": "b842bbb6961181e4450b2e194e1b618cb6dc4005"
+  "9b89199f46d4d195769a5fef8d09ce1c.png": {
+    "sha": "2036bebfb530dddf55204941953520ad9c58a2f9"
   },
-  "image/example/__big.jpg": {
-    "sha": "b842bbb6961181e4450b2e194e1b618cb6dc4005"
+  "__big.jpg": {
+    "sha": "cb51699fc148292fe007c378981f2239624a02be"
   },
-  "image/example/dobuki-logo.png": {
-    "sha": "b842bbb6961181e4450b2e194e1b618cb6dc4005"
-  }
+  "dobuki-logo.png": {
+    "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
+  },
+  "md5": "57b39bf1a9b23260729a2334d8b7e8cd"
 }
