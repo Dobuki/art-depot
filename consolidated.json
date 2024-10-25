@@ -4,38 +4,77 @@
   },
   "/data/dir.json": {
     "image/9b89199f46d4d195769a5fef8d09ce1c.png": {
-      "sha": "dd8d6699691ed8354e62e2eb7e4d11adb0ff20a4"
+      "sha": "b842bbb6961181e4450b2e194e1b618cb6dc4005"
     },
     "image/QAIbWh.png": {
-      "sha": "dd8d6699691ed8354e62e2eb7e4d11adb0ff20a4"
+      "sha": "b842bbb6961181e4450b2e194e1b618cb6dc4005"
     },
     "image/example/6b6df808be08be62a8107d154a31f5f2.png": {
-      "sha": "dd8d6699691ed8354e62e2eb7e4d11adb0ff20a4"
+      "sha": "b842bbb6961181e4450b2e194e1b618cb6dc4005"
     },
     "image/example/9b89199f46d4d195769a5fef8d09ce1c.png": {
-      "sha": "dd8d6699691ed8354e62e2eb7e4d11adb0ff20a4"
+      "sha": "b842bbb6961181e4450b2e194e1b618cb6dc4005"
     },
     "image/example/__big.jpg": {
-      "sha": "dd8d6699691ed8354e62e2eb7e4d11adb0ff20a4"
+      "sha": "b842bbb6961181e4450b2e194e1b618cb6dc4005"
     },
     "image/example/dobuki-logo.png": {
-      "sha": "dd8d6699691ed8354e62e2eb7e4d11adb0ff20a4"
+      "sha": "b842bbb6961181e4450b2e194e1b618cb6dc4005"
     },
     "image/power-troll/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
-      "sha": "dd8d6699691ed8354e62e2eb7e4d11adb0ff20a4"
+      "sha": "b842bbb6961181e4450b2e194e1b618cb6dc4005"
     },
     "image/power-troll/1_Pdruq8I_PxVwEOJQ-mHJHA.0.jpeg": {
-      "sha": "dd8d6699691ed8354e62e2eb7e4d11adb0ff20a4"
+      "sha": "b842bbb6961181e4450b2e194e1b618cb6dc4005"
     },
     "image/power-troll/360_F_693448215_Mwvg3QPwI7O8LQRWMm8QDjjsp2DasA9J.jpg": {
-      "sha": "dd8d6699691ed8354e62e2eb7e4d11adb0ff20a4"
+      "sha": "b842bbb6961181e4450b2e194e1b618cb6dc4005"
     },
     "image/power-troll/71Qe7bz5bPL.jpg": {
-      "sha": "dd8d6699691ed8354e62e2eb7e4d11adb0ff20a4"
+      "sha": "b842bbb6961181e4450b2e194e1b618cb6dc4005"
     },
     "image/power-troll/91RYko3oOoL._AC_UF1000,1000_QL80_.jpg": {
-      "sha": "dd8d6699691ed8354e62e2eb7e4d11adb0ff20a4"
+      "sha": "b842bbb6961181e4450b2e194e1b618cb6dc4005"
     },
-    "md5": "a89f48ed2c4edcf70b4a88497a1bb3b0"
+    "md5": "4b13d305d463da9eb9cf349bbfe1f78a"
+  },
+  "/data/image/dir.json": {
+    "image/9b89199f46d4d195769a5fef8d09ce1c.png": {
+      "sha": "b842bbb6961181e4450b2e194e1b618cb6dc4005"
+    },
+    "image/QAIbWh.png": {
+      "sha": "b842bbb6961181e4450b2e194e1b618cb6dc4005"
+    }
+  },
+  "/data/image/example/dir.json": {
+    "image/example/6b6df808be08be62a8107d154a31f5f2.png": {
+      "sha": "b842bbb6961181e4450b2e194e1b618cb6dc4005"
+    },
+    "image/example/9b89199f46d4d195769a5fef8d09ce1c.png": {
+      "sha": "b842bbb6961181e4450b2e194e1b618cb6dc4005"
+    },
+    "image/example/__big.jpg": {
+      "sha": "b842bbb6961181e4450b2e194e1b618cb6dc4005"
+    },
+    "image/example/dobuki-logo.png": {
+      "sha": "b842bbb6961181e4450b2e194e1b618cb6dc4005"
+    }
+  },
+  "/data/image/power-troll/dir.json": {
+    "image/power-troll/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
+      "sha": "b842bbb6961181e4450b2e194e1b618cb6dc4005"
+    },
+    "image/power-troll/1_Pdruq8I_PxVwEOJQ-mHJHA.0.jpeg": {
+      "sha": "b842bbb6961181e4450b2e194e1b618cb6dc4005"
+    },
+    "image/power-troll/360_F_693448215_Mwvg3QPwI7O8LQRWMm8QDjjsp2DasA9J.jpg": {
+      "sha": "b842bbb6961181e4450b2e194e1b618cb6dc4005"
+    },
+    "image/power-troll/71Qe7bz5bPL.jpg": {
+      "sha": "b842bbb6961181e4450b2e194e1b618cb6dc4005"
+    },
+    "image/power-troll/91RYko3oOoL._AC_UF1000,1000_QL80_.jpg": {
+      "sha": "b842bbb6961181e4450b2e194e1b618cb6dc4005"
+    }
   }
 }
