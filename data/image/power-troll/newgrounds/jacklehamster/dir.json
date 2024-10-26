@@ -20,7 +20,10 @@
   "dobuki-logo.png": {
     "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
   },
-  "md5": "83ac40f9ddea629de6d64cc16b222d2a",
+  "icon.png": {
+    "sha": "d505c9e2bb6e42d4baba8c82dcbefe27f2c4ee0f"
+  },
+  "md5": "1d07839422bd786c622c452ac936992e",
   "ninja.png": {
     "sha": "4866d784e0d46cad95bcd0e3e6fe30f36bc39c63"
   }
