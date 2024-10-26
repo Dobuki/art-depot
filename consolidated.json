@@ -60,7 +60,7 @@
     "example/subgroup/dobuki-logo.png": {
       "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
     },
-    "md5": "c713c5262e9bfd570c1763f656890884",
+    "md5": "885018e1ff45524cd9641e85a2d86b89",
     "power-troll/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
       "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
     },
@@ -105,6 +105,9 @@
     },
     "power-troll/newgrounds/jacklehamster/ninja.png": {
       "sha": "4866d784e0d46cad95bcd0e3e6fe30f36bc39c63"
+    },
+    "power-troll/newgrounds/jacklehamster/robots.png": {
+      "sha": "7a585860690795042c0218419bbccfce250e2788"
     }
   },
   "/data/image/example/dir.json": {
@@ -150,7 +153,7 @@
     "Twitter-X-Icon-PNG.png": {
       "sha": "9a60975841a1438b4f9f7d628a04f86be12a71c1"
     },
-    "md5": "c63543923b2041aa0661c11015c6250e",
+    "md5": "b9b977b6c05d8ee89d32b53d802ecb31",
     "newgrounds/jacklehamster/6124023_1312101_mich-spich_untitled-6124023.57be97c0e157ff2e7a9c5e097c2c4e19.png": {
       "sha": "1fafd251fef6759464ae77b4faa756da789b3579"
     },
@@ -177,6 +180,9 @@
     },
     "newgrounds/jacklehamster/ninja.png": {
       "sha": "4866d784e0d46cad95bcd0e3e6fe30f36bc39c63"
+    },
+    "newgrounds/jacklehamster/robots.png": {
+      "sha": "7a585860690795042c0218419bbccfce250e2788"
     }
   },
   "/data/image/power-troll/newgrounds/dir.json": {
@@ -207,7 +213,10 @@
     "jacklehamster/ninja.png": {
       "sha": "4866d784e0d46cad95bcd0e3e6fe30f36bc39c63"
     },
-    "md5": "c6a40b9f5123a565f8548afbd3dcb722"
+    "jacklehamster/robots.png": {
+      "sha": "7a585860690795042c0218419bbccfce250e2788"
+    },
+    "md5": "e553f9e4faa08412e07e5e18fe1e69ed"
   },
   "/data/image/power-troll/newgrounds/jacklehamster/dir.json": {
     "6124023_1312101_mich-spich_untitled-6124023.57be97c0e157ff2e7a9c5e097c2c4e19.png": {
@@ -234,9 +243,12 @@
     "icon.png": {
       "sha": "d505c9e2bb6e42d4baba8c82dcbefe27f2c4ee0f"
     },
-    "md5": "1d07839422bd786c622c452ac936992e",
+    "md5": "e17cb3e1a2fb02286ffbc857cf6a259a",
     "ninja.png": {
       "sha": "4866d784e0d46cad95bcd0e3e6fe30f36bc39c63"
+    },
+    "robots.png": {
+      "sha": "7a585860690795042c0218419bbccfce250e2788"
     }
   }
 }
