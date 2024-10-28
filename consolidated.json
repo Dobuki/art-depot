@@ -38,7 +38,34 @@
     },
     "md5": "4b13d305d463da9eb9cf349bbfe1f78a"
   },
+  "/data/image/cutscene/dir.json": {
+    "images/newgrounds/jacklehamster/Gemini_Generated_Image_wmy37cwmy37cwmy3.jpeg": {
+      "sha": "18f0747900e6eadb72c8433c9baa5a4f09e0712d"
+    },
+    "md5": "707fdd52513798f0c69cd2944820bc07"
+  },
+  "/data/image/cutscene/images/dir.json": {
+    "md5": "780ec3b852dd1b2f5d68869d139002e8",
+    "newgrounds/jacklehamster/Gemini_Generated_Image_wmy37cwmy37cwmy3.jpeg": {
+      "sha": "18f0747900e6eadb72c8433c9baa5a4f09e0712d"
+    }
+  },
+  "/data/image/cutscene/images/newgrounds/dir.json": {
+    "jacklehamster/Gemini_Generated_Image_wmy37cwmy37cwmy3.jpeg": {
+      "sha": "18f0747900e6eadb72c8433c9baa5a4f09e0712d"
+    },
+    "md5": "ef141528fc9b4c59884e712df977a03f"
+  },
+  "/data/image/cutscene/images/newgrounds/jacklehamster/dir.json": {
+    "Gemini_Generated_Image_wmy37cwmy37cwmy3.jpeg": {
+      "sha": "18f0747900e6eadb72c8433c9baa5a4f09e0712d"
+    },
+    "md5": "11b594d6547edbfc2a694c538be27302"
+  },
   "/data/image/dir.json": {
+    "cutscene/images/newgrounds/jacklehamster/Gemini_Generated_Image_wmy37cwmy37cwmy3.jpeg": {
+      "sha": "18f0747900e6eadb72c8433c9baa5a4f09e0712d"
+    },
     "example/6b6df808be08be62a8107d154a31f5f2.png": {
       "sha": "b3c9a0aa21d49201b733ac105b6e51cf436ec94e"
     },
@@ -54,7 +81,7 @@
     "example/subgroup/dobuki-logo.png": {
       "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
     },
-    "md5": "91711f3109cb48741fa1e4daee47fa61"
+    "md5": "41ee96c45143f550c2ff7418e65cff82"
   },
   "/data/image/example/dir.json": {
     "6b6df808be08be62a8107d154a31f5f2.png": {
