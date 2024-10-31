@@ -2,6 +2,9 @@
   "cutscene/images/newgrounds/jacklehamster/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
     "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
   },
+  "cutscene/images/newgrounds/jacklehamster/360_F_36911792_z31hfN8ZgBriAsgGSDYnOhdB5sSGfXcU.png": {
+    "sha": "273de6a912dfd7da0ebdef4d0496b80347be1927"
+  },
   "cutscene/images/newgrounds/jacklehamster/6b6df808be08be62a8107d154a31f5f2.png": {
     "sha": "b3c9a0aa21d49201b733ac105b6e51cf436ec94e"
   },
@@ -35,5 +38,5 @@
   "example/subgroup/dobuki-logo.png": {
     "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
   },
-  "md5": "081d9240b586c7f7f02c8cbf762fe3b5"
+  "md5": "f9cdaec9bf0c2ba17d2dd7c0b5d8106d"
 }
