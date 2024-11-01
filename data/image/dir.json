@@ -35,6 +35,9 @@
   "cutscene/images/newgrounds/jacklehamster/—Pngtree—black lock icon_4421935.png": {
     "sha": "402d4dd52f37b9e3892f266831c7e6fff3c5c436"
   },
+  "cutscene/images/unknown/unknown/__big.jpg": {
+    "sha": "cb51699fc148292fe007c378981f2239624a02be"
+  },
   "example/6b6df808be08be62a8107d154a31f5f2.png": {
     "sha": "b3c9a0aa21d49201b733ac105b6e51cf436ec94e"
   },
@@ -50,5 +53,5 @@
   "example/subgroup/dobuki-logo.png": {
     "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
   },
-  "md5": "38f2580a3d077e653c33b9958c9829db"
+  "md5": "d5b43b6e0fd152721eea6d792beab439"
 }
