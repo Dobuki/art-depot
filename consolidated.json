@@ -78,10 +78,13 @@
     "images/unknown/unknown/__big.jpg": {
       "sha": "cb51699fc148292fe007c378981f2239624a02be"
     },
-    "md5": "e96cda9ffcb034da0e29f78fbc543b6f"
+    "images/unknown/unknown/dobuki.png": {
+      "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
+    },
+    "md5": "ee129f82fb17f3181ce6f78fadd8de25"
   },
   "/data/image/cutscene/images/dir.json": {
-    "md5": "8b57c2b9cf7bc5235523f6285ebba83c",
+    "md5": "10438d0769ff735a2d3d39ba62e94fba",
     "newgrounds/jacklehamster/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
       "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
     },
@@ -120,6 +123,9 @@
     },
     "unknown/unknown/__big.jpg": {
       "sha": "cb51699fc148292fe007c378981f2239624a02be"
+    },
+    "unknown/unknown/dobuki.png": {
+      "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
     }
   },
   "/data/image/cutscene/images/newgrounds/dir.json": {
@@ -201,16 +207,22 @@
     }
   },
   "/data/image/cutscene/images/unknown/dir.json": {
-    "md5": "f6134bce406b0ca3d158d15fc38d1387",
+    "md5": "039e1142e57082d97b43b6a3c1297ce1",
     "unknown/__big.jpg": {
       "sha": "cb51699fc148292fe007c378981f2239624a02be"
+    },
+    "unknown/dobuki.png": {
+      "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
     }
   },
   "/data/image/cutscene/images/unknown/unknown/dir.json": {
     "__big.jpg": {
       "sha": "cb51699fc148292fe007c378981f2239624a02be"
     },
-    "md5": "cef4113594b7585e5efea4395527a60b"
+    "dobuki.png": {
+      "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
+    },
+    "md5": "7207472174b1468b58f43c14f16bc1f5"
   },
   "/data/image/dir.json": {
     "cutscene/images/newgrounds/jacklehamster/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
@@ -252,6 +264,9 @@
     "cutscene/images/unknown/unknown/__big.jpg": {
       "sha": "cb51699fc148292fe007c378981f2239624a02be"
     },
+    "cutscene/images/unknown/unknown/dobuki.png": {
+      "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
+    },
     "example/6b6df808be08be62a8107d154a31f5f2.png": {
       "sha": "b3c9a0aa21d49201b733ac105b6e51cf436ec94e"
     },
@@ -267,7 +282,7 @@
     "example/subgroup/dobuki-logo.png": {
       "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
     },
-    "md5": "d5b43b6e0fd152721eea6d792beab439"
+    "md5": "4ff97155bb3c77a82afaae766cb190ad"
   },
   "/data/image/example/dir.json": {
     "6b6df808be08be62a8107d154a31f5f2.png": {

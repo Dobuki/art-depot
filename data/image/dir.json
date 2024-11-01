@@ -38,6 +38,9 @@
   "cutscene/images/unknown/unknown/__big.jpg": {
     "sha": "cb51699fc148292fe007c378981f2239624a02be"
   },
+  "cutscene/images/unknown/unknown/dobuki.png": {
+    "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
+  },
   "example/6b6df808be08be62a8107d154a31f5f2.png": {
     "sha": "b3c9a0aa21d49201b733ac105b6e51cf436ec94e"
   },
@@ -53,5 +56,5 @@
   "example/subgroup/dobuki-logo.png": {
     "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
   },
-  "md5": "d5b43b6e0fd152721eea6d792beab439"
+  "md5": "4ff97155bb3c77a82afaae766cb190ad"
 }

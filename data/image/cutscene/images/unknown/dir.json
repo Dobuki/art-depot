@@ -1,6 +1,9 @@
 {
-  "md5": "f6134bce406b0ca3d158d15fc38d1387",
+  "md5": "039e1142e57082d97b43b6a3c1297ce1",
   "unknown/__big.jpg": {
     "sha": "cb51699fc148292fe007c378981f2239624a02be"
+  },
+  "unknown/dobuki.png": {
+    "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "md5": "8b57c2b9cf7bc5235523f6285ebba83c",
+  "md5": "10438d0769ff735a2d3d39ba62e94fba",
   "newgrounds/jacklehamster/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
     "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
   },
@@ -38,5 +38,8 @@
   },
   "unknown/unknown/__big.jpg": {
     "sha": "cb51699fc148292fe007c378981f2239624a02be"
+  },
+  "unknown/unknown/dobuki.png": {
+    "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
   }
 }
