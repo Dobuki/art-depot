@@ -379,5 +379,59 @@
       "sha": "7a585860690795042c0218419bbccfce250e2788"
     },
     "md5": "4068b82414a20e954dbf5dbcff35619f"
+  },
+  "/power-troll/cutscene/dir.json": {
+    "cutscene1.png": {
+      "sha": "8917a9d445b414692dd70914a3180ec3495634b5"
+    },
+    "cutscene10.png": {
+      "sha": "19a686f9a8263a6a15e26c738fec5d9c38b3035c"
+    },
+    "cutscene11.png": {
+      "sha": "74c261d2f2a0f4dd4cbad171ba5a52a69d333217"
+    },
+    "cutscene12.png": {
+      "sha": "f3dfd777dbf01c5ecda47c318ab68794d115e46c"
+    },
+    "cutscene13.png": {
+      "sha": "25c061ab21f96301c83c4e73c5ba945e962063ab"
+    },
+    "cutscene14.png": {
+      "sha": "cc38924211ec4aecc73555d68dc096077440b761"
+    },
+    "cutscene15.png": {
+      "sha": "a9cf2e329015cac0b895c14cdabc0ab76be576b0"
+    },
+    "cutscene16.png": {
+      "sha": "0433f3a72c496c7d125e4ff51dd45062d811b0c8"
+    },
+    "cutscene17.png": {
+      "sha": "a5e4d8c910f9703511f9e6e814eb16f46ad31b97"
+    },
+    "cutscene2.png": {
+      "sha": "22798fbbf39b5ba2b9bc77f9ef6f36e59c58d20f"
+    },
+    "cutscene3.png": {
+      "sha": "b17553dd16f6ec80c8e710e8b1819cb9ffb075e9"
+    },
+    "cutscene4.png": {
+      "sha": "bd3004b7785217b72133dc5fe1b4ae36ba82532b"
+    },
+    "cutscene5.png": {
+      "sha": "041f52661c45a690b34664f60c2c0b3199e9b9e8"
+    },
+    "cutscene6.png": {
+      "sha": "e1d0b457fe487fa1db8e1f2f542c3a44e0748e38"
+    },
+    "cutscene7.png": {
+      "sha": "8fffe5d951046adc7837046b82e7600ceb12dac8"
+    },
+    "cutscene8.png": {
+      "sha": "21ba2d49685760634fc43a064eccfaafe69805f6"
+    },
+    "cutscene9.png": {
+      "sha": "2ada41caf68e96896e271c7205ca91a02ed4f176"
+    },
+    "md5": "c63d3ab004a13422c726107f05717551"
   }
 }
