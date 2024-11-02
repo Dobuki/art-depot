@@ -42,6 +42,9 @@
     "images/default/user/5171849.jpeg": {
       "sha": "9d4959594e1cb92f70381f272e4c934e79783502"
     },
+    "images/default/user/71Qe7bz5bPL.jpg": {
+      "sha": "d56b42a324365b7a7604ac741ea53f93990a5277"
+    },
     "images/default/user/alien.jpeg": {
       "sha": "d4c765060db7c1744c02358fb0e15af49cd0b79f"
     },
@@ -87,12 +90,15 @@
     "images/unknown/unknown/dobuki.png": {
       "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
     },
-    "md5": "b9461ddef84ab1ded3a9964bdbc6bc82"
+    "md5": "561eddcd4bd0acdbe822edf82ab217df"
   },
   "/data/image/cutscene/images/default/dir.json": {
-    "md5": "88828b64a68dc6de1b760ef841afc7ed",
+    "md5": "d60bf2236ee260b369a7fb6a3c284e75",
     "user/5171849.jpeg": {
       "sha": "9d4959594e1cb92f70381f272e4c934e79783502"
+    },
+    "user/71Qe7bz5bPL.jpg": {
+      "sha": "d56b42a324365b7a7604ac741ea53f93990a5277"
     },
     "user/alien.jpeg": {
       "sha": "d4c765060db7c1744c02358fb0e15af49cd0b79f"
@@ -102,19 +108,25 @@
     "5171849.jpeg": {
       "sha": "9d4959594e1cb92f70381f272e4c934e79783502"
     },
+    "71Qe7bz5bPL.jpg": {
+      "sha": "d56b42a324365b7a7604ac741ea53f93990a5277"
+    },
     "alien.jpeg": {
       "sha": "d4c765060db7c1744c02358fb0e15af49cd0b79f"
     },
-    "md5": "33a32079063bdc307f5aa450c00b470e"
+    "md5": "c8634c7bd9e776b6e97fcd4f299dd134"
   },
   "/data/image/cutscene/images/dir.json": {
     "default/user/5171849.jpeg": {
       "sha": "9d4959594e1cb92f70381f272e4c934e79783502"
     },
+    "default/user/71Qe7bz5bPL.jpg": {
+      "sha": "d56b42a324365b7a7604ac741ea53f93990a5277"
+    },
     "default/user/alien.jpeg": {
       "sha": "d4c765060db7c1744c02358fb0e15af49cd0b79f"
     },
-    "md5": "ef979ed7e9ecf89dfb92e524088b7a29",
+    "md5": "4dd78f0960c1bffcc906efaac9b34111",
     "newgrounds/jacklehamster/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
       "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
     },
@@ -258,6 +270,9 @@
     "cutscene/images/default/user/5171849.jpeg": {
       "sha": "9d4959594e1cb92f70381f272e4c934e79783502"
     },
+    "cutscene/images/default/user/71Qe7bz5bPL.jpg": {
+      "sha": "d56b42a324365b7a7604ac741ea53f93990a5277"
+    },
     "cutscene/images/default/user/alien.jpeg": {
       "sha": "d4c765060db7c1744c02358fb0e15af49cd0b79f"
     },
@@ -318,7 +333,7 @@
     "example/subgroup/dobuki-logo.png": {
       "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
     },
-    "md5": "083f4fd83169976f925fba694e71c7fa"
+    "md5": "0b26eeec953c0d35c13178ed7d4e77c8"
   },
   "/data/image/example/dir.json": {
     "6b6df808be08be62a8107d154a31f5f2.png": {

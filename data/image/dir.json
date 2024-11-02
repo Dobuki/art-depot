@@ -2,6 +2,9 @@
   "cutscene/images/default/user/5171849.jpeg": {
     "sha": "9d4959594e1cb92f70381f272e4c934e79783502"
   },
+  "cutscene/images/default/user/71Qe7bz5bPL.jpg": {
+    "sha": "d56b42a324365b7a7604ac741ea53f93990a5277"
+  },
   "cutscene/images/default/user/alien.jpeg": {
     "sha": "d4c765060db7c1744c02358fb0e15af49cd0b79f"
   },
@@ -62,5 +65,5 @@
   "example/subgroup/dobuki-logo.png": {
     "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
   },
-  "md5": "083f4fd83169976f925fba694e71c7fa"
+  "md5": "0b26eeec953c0d35c13178ed7d4e77c8"
 }
