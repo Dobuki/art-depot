@@ -11,6 +11,9 @@
   "images/default/user/s-l1200.png": {
     "sha": "ebc30d242a58a9b4c937c9f85450a1744b581d81"
   },
+  "images/default/user/trump.jpeg": {
+    "sha": "382d7a992ea3fecdf51319fd3d0a3c2a97c7f90a"
+  },
   "images/newgrounds/jacklehamster/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
     "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
   },
@@ -53,5 +56,5 @@
   "images/unknown/unknown/dobuki.png": {
     "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
   },
-  "md5": "a48221dd95bd711e53be37aaa17a9b71"
+  "md5": "3053e58a579d2133a831b0253247dcb0"
 }

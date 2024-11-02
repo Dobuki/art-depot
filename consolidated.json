@@ -51,6 +51,9 @@
     "images/default/user/s-l1200.png": {
       "sha": "ebc30d242a58a9b4c937c9f85450a1744b581d81"
     },
+    "images/default/user/trump.jpeg": {
+      "sha": "382d7a992ea3fecdf51319fd3d0a3c2a97c7f90a"
+    },
     "images/newgrounds/jacklehamster/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
       "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
     },
@@ -93,10 +96,10 @@
     "images/unknown/unknown/dobuki.png": {
       "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
     },
-    "md5": "a48221dd95bd711e53be37aaa17a9b71"
+    "md5": "3053e58a579d2133a831b0253247dcb0"
   },
   "/data/image/cutscene/images/default/dir.json": {
-    "md5": "7e273dc4878f2c65359edbf28e093ea3",
+    "md5": "508a8e7538ed3054dbd227bfeb746c4c",
     "user/5171849.jpeg": {
       "sha": "9d4959594e1cb92f70381f272e4c934e79783502"
     },
@@ -108,6 +111,9 @@
     },
     "user/s-l1200.png": {
       "sha": "ebc30d242a58a9b4c937c9f85450a1744b581d81"
+    },
+    "user/trump.jpeg": {
+      "sha": "382d7a992ea3fecdf51319fd3d0a3c2a97c7f90a"
     }
   },
   "/data/image/cutscene/images/default/user/dir.json": {
@@ -120,9 +126,12 @@
     "alien.jpeg": {
       "sha": "d4c765060db7c1744c02358fb0e15af49cd0b79f"
     },
-    "md5": "cc574d0d8411ec6a90f2b5ca9203701e",
+    "md5": "589cc760587c30f54ebf58cb273be2c8",
     "s-l1200.png": {
       "sha": "ebc30d242a58a9b4c937c9f85450a1744b581d81"
+    },
+    "trump.jpeg": {
+      "sha": "382d7a992ea3fecdf51319fd3d0a3c2a97c7f90a"
     }
   },
   "/data/image/cutscene/images/dir.json": {
@@ -138,7 +147,10 @@
     "default/user/s-l1200.png": {
       "sha": "ebc30d242a58a9b4c937c9f85450a1744b581d81"
     },
-    "md5": "dfcab68a2ec4ec508b18560e7936a7d1",
+    "default/user/trump.jpeg": {
+      "sha": "382d7a992ea3fecdf51319fd3d0a3c2a97c7f90a"
+    },
+    "md5": "1a52890cc87d7b105ba0ad3d6b5f79cb",
     "newgrounds/jacklehamster/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
       "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
     },
@@ -291,6 +303,9 @@
     "cutscene/images/default/user/s-l1200.png": {
       "sha": "ebc30d242a58a9b4c937c9f85450a1744b581d81"
     },
+    "cutscene/images/default/user/trump.jpeg": {
+      "sha": "382d7a992ea3fecdf51319fd3d0a3c2a97c7f90a"
+    },
     "cutscene/images/newgrounds/jacklehamster/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
       "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
     },
@@ -348,7 +363,7 @@
     "example/subgroup/dobuki-logo.png": {
       "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
     },
-    "md5": "0a951803cb7334f9f746a035c8c27bb0"
+    "md5": "bd3e3df8003cb81f650d34e261e455e0"
   },
   "/data/image/example/dir.json": {
     "6b6df808be08be62a8107d154a31f5f2.png": {
