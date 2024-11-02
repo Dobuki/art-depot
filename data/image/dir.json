@@ -8,6 +8,9 @@
   "cutscene/images/default/user/alien.jpeg": {
     "sha": "d4c765060db7c1744c02358fb0e15af49cd0b79f"
   },
+  "cutscene/images/default/user/s-l1200.png": {
+    "sha": "ebc30d242a58a9b4c937c9f85450a1744b581d81"
+  },
   "cutscene/images/newgrounds/jacklehamster/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
     "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
   },
@@ -65,5 +68,5 @@
   "example/subgroup/dobuki-logo.png": {
     "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
   },
-  "md5": "0b26eeec953c0d35c13178ed7d4e77c8"
+  "md5": "0a951803cb7334f9f746a035c8c27bb0"
 }
