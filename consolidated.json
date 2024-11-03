@@ -514,42 +514,5 @@
       "sha": "2ada41caf68e96896e271c7205ca91a02ed4f176"
     },
     "md5": "c63d3ab004a13422c726107f05717551"
-  },
-  "/social-media/icons.json": [
-    {
-      "text": "patreon",
-      "link": "https://www.patreon.com/dobuki",
-      "image": "https://art.dobuki.net/social-media/patreon.png"
-    },
-    {
-      "text": "x",
-      "link": "https://x.com/jacklehamster",
-      "image": "https://art.dobuki.net/social-media/x-icon.png"
-    },
-    {
-      "text": "reddit",
-      "link": "https://www.reddit.com/r/DobukiGames/",
-      "image": "https://art.dobuki.net/social-media/reddit.png"
-    },
-    {
-      "text": "discord",
-      "link": "https://discord.gg/wxWbJsMQ",
-      "image": "https://art.dobuki.net/social-media/discord.png"
-    },
-    {
-      "text": "newgrounds",
-      "link": "https://jacklehamster.newgrounds.com/games",
-      "image": "https://art.dobuki.net/social-media/newgrounds.png"
-    },
-    {
-      "text": "big nuts",
-      "link": "https://bignutsgames.com",
-      "image": "https://art.dobuki.net/social-media/bignuts.png"
-    },
-    {
-      "text": "dobuki",
-      "link": "https://dobuki.net",
-      "image": "https://art.dobuki.net/social-media/dobuki.png"
-    }
-  ]
+  }
 }
