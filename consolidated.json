@@ -48,6 +48,9 @@
     "images/default/user/alien.jpeg": {
       "sha": "d4c765060db7c1744c02358fb0e15af49cd0b79f"
     },
+    "images/default/user/cutscene-cover.png": {
+      "sha": "3b6d5198bec56a3f76fe218636ec9990dc6b44d9"
+    },
     "images/default/user/cutscene-tool1.png": {
       "sha": "baccb4b4570cdd7fec73c59f7dc628cb0194dd8c"
     },
@@ -108,10 +111,10 @@
     "images/unknown/unknown/dobuki.png": {
       "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
     },
-    "md5": "81915f299163c33c58ff5cd1895e3db7"
+    "md5": "e1058e5bc9a9d7d483973227a00ae8f9"
   },
   "/data/image/cutscene/images/default/dir.json": {
-    "md5": "9428f54253e7b4ea87304cf91604d8e3",
+    "md5": "9e41899feb2abbbcc5674cc96ae838af",
     "user/5171849.jpeg": {
       "sha": "9d4959594e1cb92f70381f272e4c934e79783502"
     },
@@ -120,6 +123,9 @@
     },
     "user/alien.jpeg": {
       "sha": "d4c765060db7c1744c02358fb0e15af49cd0b79f"
+    },
+    "user/cutscene-cover.png": {
+      "sha": "3b6d5198bec56a3f76fe218636ec9990dc6b44d9"
     },
     "user/cutscene-tool1.png": {
       "sha": "baccb4b4570cdd7fec73c59f7dc628cb0194dd8c"
@@ -150,6 +156,9 @@
     "alien.jpeg": {
       "sha": "d4c765060db7c1744c02358fb0e15af49cd0b79f"
     },
+    "cutscene-cover.png": {
+      "sha": "3b6d5198bec56a3f76fe218636ec9990dc6b44d9"
+    },
     "cutscene-tool1.png": {
       "sha": "baccb4b4570cdd7fec73c59f7dc628cb0194dd8c"
     },
@@ -162,7 +171,7 @@
     "cutscene-tool4.png": {
       "sha": "001e3213a58b97dfadf8c0994f982f100d71b39d"
     },
-    "md5": "83b49c53c4edaf538b1ff8be589004ea",
+    "md5": "64b16e848cfce42ed5697f43ba63d8d3",
     "s-l1200.png": {
       "sha": "ebc30d242a58a9b4c937c9f85450a1744b581d81"
     },
@@ -179,6 +188,9 @@
     },
     "default/user/alien.jpeg": {
       "sha": "d4c765060db7c1744c02358fb0e15af49cd0b79f"
+    },
+    "default/user/cutscene-cover.png": {
+      "sha": "3b6d5198bec56a3f76fe218636ec9990dc6b44d9"
     },
     "default/user/cutscene-tool1.png": {
       "sha": "baccb4b4570cdd7fec73c59f7dc628cb0194dd8c"
@@ -198,7 +210,7 @@
     "default/user/trump.jpeg": {
       "sha": "382d7a992ea3fecdf51319fd3d0a3c2a97c7f90a"
     },
-    "md5": "d641f0c78eff36cf6aaaa7a760196490",
+    "md5": "5d093e2dc947d7a7e9f4c71f3e7fd9f5",
     "newgrounds/jacklehamster/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
       "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
     },
@@ -348,6 +360,9 @@
     "cutscene/images/default/user/alien.jpeg": {
       "sha": "d4c765060db7c1744c02358fb0e15af49cd0b79f"
     },
+    "cutscene/images/default/user/cutscene-cover.png": {
+      "sha": "3b6d5198bec56a3f76fe218636ec9990dc6b44d9"
+    },
     "cutscene/images/default/user/cutscene-tool1.png": {
       "sha": "baccb4b4570cdd7fec73c59f7dc628cb0194dd8c"
     },
@@ -423,7 +438,7 @@
     "example/subgroup/dobuki-logo.png": {
       "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
     },
-    "md5": "3bb61f4311d0262abcb1f170386b3eee"
+    "md5": "0b85b360998f8ade9d90d9e446344ac5"
   },
   "/data/image/example/dir.json": {
     "6b6df808be08be62a8107d154a31f5f2.png": {

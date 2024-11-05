@@ -8,6 +8,9 @@
   "images/default/user/alien.jpeg": {
     "sha": "d4c765060db7c1744c02358fb0e15af49cd0b79f"
   },
+  "images/default/user/cutscene-cover.png": {
+    "sha": "3b6d5198bec56a3f76fe218636ec9990dc6b44d9"
+  },
   "images/default/user/cutscene-tool1.png": {
     "sha": "baccb4b4570cdd7fec73c59f7dc628cb0194dd8c"
   },
@@ -68,5 +71,5 @@
   "images/unknown/unknown/dobuki.png": {
     "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
   },
-  "md5": "81915f299163c33c58ff5cd1895e3db7"
+  "md5": "e1058e5bc9a9d7d483973227a00ae8f9"
 }

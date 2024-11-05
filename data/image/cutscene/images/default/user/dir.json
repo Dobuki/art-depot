@@ -8,6 +8,9 @@
   "alien.jpeg": {
     "sha": "d4c765060db7c1744c02358fb0e15af49cd0b79f"
   },
+  "cutscene-cover.png": {
+    "sha": "3b6d5198bec56a3f76fe218636ec9990dc6b44d9"
+  },
   "cutscene-tool1.png": {
     "sha": "baccb4b4570cdd7fec73c59f7dc628cb0194dd8c"
   },
@@ -20,7 +23,7 @@
   "cutscene-tool4.png": {
     "sha": "001e3213a58b97dfadf8c0994f982f100d71b39d"
   },
-  "md5": "83b49c53c4edaf538b1ff8be589004ea",
+  "md5": "64b16e848cfce42ed5697f43ba63d8d3",
   "s-l1200.png": {
     "sha": "ebc30d242a58a9b4c937c9f85450a1744b581d81"
   },
