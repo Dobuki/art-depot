@@ -14,6 +14,9 @@
   "default/user/cutscene-tool1.png": {
     "sha": "baccb4b4570cdd7fec73c59f7dc628cb0194dd8c"
   },
+  "default/user/cutscene-tool10.png": {
+    "sha": "2a9424bc5321cfeb763785a16ad2b01c1ab47597"
+  },
   "default/user/cutscene-tool2.png": {
     "sha": "1f718dd7d8880683a03f48444282f31c3b237aa7"
   },
@@ -44,7 +47,7 @@
   "default/user/trump.jpeg": {
     "sha": "382d7a992ea3fecdf51319fd3d0a3c2a97c7f90a"
   },
-  "md5": "ea0fe6cf0061831697e542dbf0eb7bc1",
+  "md5": "eda802991bd3969a0d77e99dc3303bba",
   "newgrounds/jacklehamster/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
     "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
   },

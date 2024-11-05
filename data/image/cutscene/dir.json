@@ -14,6 +14,9 @@
   "images/default/user/cutscene-tool1.png": {
     "sha": "baccb4b4570cdd7fec73c59f7dc628cb0194dd8c"
   },
+  "images/default/user/cutscene-tool10.png": {
+    "sha": "2a9424bc5321cfeb763785a16ad2b01c1ab47597"
+  },
   "images/default/user/cutscene-tool2.png": {
     "sha": "1f718dd7d8880683a03f48444282f31c3b237aa7"
   },
@@ -86,5 +89,5 @@
   "images/unknown/unknown/dobuki.png": {
     "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
   },
-  "md5": "d20b627e0d54f8e60241b1829885bbc3"
+  "md5": "982dd0ca2a8bdb83e16e4e78527413ea"
 }

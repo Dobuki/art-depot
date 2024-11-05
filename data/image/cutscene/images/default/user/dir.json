@@ -14,6 +14,9 @@
   "cutscene-tool1.png": {
     "sha": "baccb4b4570cdd7fec73c59f7dc628cb0194dd8c"
   },
+  "cutscene-tool10.png": {
+    "sha": "2a9424bc5321cfeb763785a16ad2b01c1ab47597"
+  },
   "cutscene-tool2.png": {
     "sha": "1f718dd7d8880683a03f48444282f31c3b237aa7"
   },
@@ -38,7 +41,7 @@
   "cutscene-tool9.png": {
     "sha": "14b0f471a1d89ee83ff3e7d1dd5eeface014af8b"
   },
-  "md5": "f9495feb478c5dfa852a39ca887f857a",
+  "md5": "bcc708df10d81ba539283ac02460f9be",
   "s-l1200.png": {
     "sha": "ebc30d242a58a9b4c937c9f85450a1744b581d81"
   },

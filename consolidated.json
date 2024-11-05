@@ -54,6 +54,9 @@
     "images/default/user/cutscene-tool1.png": {
       "sha": "baccb4b4570cdd7fec73c59f7dc628cb0194dd8c"
     },
+    "images/default/user/cutscene-tool10.png": {
+      "sha": "2a9424bc5321cfeb763785a16ad2b01c1ab47597"
+    },
     "images/default/user/cutscene-tool2.png": {
       "sha": "1f718dd7d8880683a03f48444282f31c3b237aa7"
     },
@@ -126,10 +129,10 @@
     "images/unknown/unknown/dobuki.png": {
       "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
     },
-    "md5": "d20b627e0d54f8e60241b1829885bbc3"
+    "md5": "982dd0ca2a8bdb83e16e4e78527413ea"
   },
   "/data/image/cutscene/images/default/dir.json": {
-    "md5": "fa59bb31ee6acafbc9e7d2ca02774409",
+    "md5": "1a56113ced25cf06e5ca258006a398ce",
     "user/5171849.jpeg": {
       "sha": "9d4959594e1cb92f70381f272e4c934e79783502"
     },
@@ -144,6 +147,9 @@
     },
     "user/cutscene-tool1.png": {
       "sha": "baccb4b4570cdd7fec73c59f7dc628cb0194dd8c"
+    },
+    "user/cutscene-tool10.png": {
+      "sha": "2a9424bc5321cfeb763785a16ad2b01c1ab47597"
     },
     "user/cutscene-tool2.png": {
       "sha": "1f718dd7d8880683a03f48444282f31c3b237aa7"
@@ -192,6 +198,9 @@
     "cutscene-tool1.png": {
       "sha": "baccb4b4570cdd7fec73c59f7dc628cb0194dd8c"
     },
+    "cutscene-tool10.png": {
+      "sha": "2a9424bc5321cfeb763785a16ad2b01c1ab47597"
+    },
     "cutscene-tool2.png": {
       "sha": "1f718dd7d8880683a03f48444282f31c3b237aa7"
     },
@@ -216,7 +225,7 @@
     "cutscene-tool9.png": {
       "sha": "14b0f471a1d89ee83ff3e7d1dd5eeface014af8b"
     },
-    "md5": "f9495feb478c5dfa852a39ca887f857a",
+    "md5": "bcc708df10d81ba539283ac02460f9be",
     "s-l1200.png": {
       "sha": "ebc30d242a58a9b4c937c9f85450a1744b581d81"
     },
@@ -239,6 +248,9 @@
     },
     "default/user/cutscene-tool1.png": {
       "sha": "baccb4b4570cdd7fec73c59f7dc628cb0194dd8c"
+    },
+    "default/user/cutscene-tool10.png": {
+      "sha": "2a9424bc5321cfeb763785a16ad2b01c1ab47597"
     },
     "default/user/cutscene-tool2.png": {
       "sha": "1f718dd7d8880683a03f48444282f31c3b237aa7"
@@ -270,7 +282,7 @@
     "default/user/trump.jpeg": {
       "sha": "382d7a992ea3fecdf51319fd3d0a3c2a97c7f90a"
     },
-    "md5": "ea0fe6cf0061831697e542dbf0eb7bc1",
+    "md5": "eda802991bd3969a0d77e99dc3303bba",
     "newgrounds/jacklehamster/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
       "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
     },
@@ -426,6 +438,9 @@
     "cutscene/images/default/user/cutscene-tool1.png": {
       "sha": "baccb4b4570cdd7fec73c59f7dc628cb0194dd8c"
     },
+    "cutscene/images/default/user/cutscene-tool10.png": {
+      "sha": "2a9424bc5321cfeb763785a16ad2b01c1ab47597"
+    },
     "cutscene/images/default/user/cutscene-tool2.png": {
       "sha": "1f718dd7d8880683a03f48444282f31c3b237aa7"
     },
@@ -513,7 +528,7 @@
     "example/subgroup/dobuki-logo.png": {
       "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
     },
-    "md5": "c25082ebbc25a00512e41c8f7c7171b3"
+    "md5": "8ab404496beb06ab00e86a710e4897b1"
   },
   "/data/image/example/dir.json": {
     "6b6df808be08be62a8107d154a31f5f2.png": {
