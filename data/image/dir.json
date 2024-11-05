@@ -11,6 +11,9 @@
   "cutscene/images/default/user/cutscene-tool1.png": {
     "sha": "baccb4b4570cdd7fec73c59f7dc628cb0194dd8c"
   },
+  "cutscene/images/default/user/cutscene-tool2.png": {
+    "sha": "1f718dd7d8880683a03f48444282f31c3b237aa7"
+  },
   "cutscene/images/default/user/s-l1200.png": {
     "sha": "ebc30d242a58a9b4c937c9f85450a1744b581d81"
   },
@@ -74,5 +77,5 @@
   "example/subgroup/dobuki-logo.png": {
     "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
   },
-  "md5": "9b03af558dd53369a4a1106d7b3b469b"
+  "md5": "379173e98b8be91b11e67e3fbb36ed17"
 }

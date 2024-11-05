@@ -1,5 +1,5 @@
 {
-  "md5": "fef3ee97baef8a4a6cfbd8c7e95d321d",
+  "md5": "77d656e4216c954cf9e3222e69849a08",
   "user/5171849.jpeg": {
     "sha": "9d4959594e1cb92f70381f272e4c934e79783502"
   },
@@ -11,6 +11,9 @@
   },
   "user/cutscene-tool1.png": {
     "sha": "baccb4b4570cdd7fec73c59f7dc628cb0194dd8c"
+  },
+  "user/cutscene-tool2.png": {
+    "sha": "1f718dd7d8880683a03f48444282f31c3b237aa7"
   },
   "user/s-l1200.png": {
     "sha": "ebc30d242a58a9b4c937c9f85450a1744b581d81"
