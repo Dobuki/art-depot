@@ -14,7 +14,13 @@
   "cutscene-tool2.png": {
     "sha": "1f718dd7d8880683a03f48444282f31c3b237aa7"
   },
-  "md5": "4edae2a05498a214ac0f2f8a1c483386",
+  "cutscene-tool3.png": {
+    "sha": "fd2a1b20cc7f9f448f461e98dcb6073395b5775c"
+  },
+  "cutscene-tool4.png": {
+    "sha": "001e3213a58b97dfadf8c0994f982f100d71b39d"
+  },
+  "md5": "83b49c53c4edaf538b1ff8be589004ea",
   "s-l1200.png": {
     "sha": "ebc30d242a58a9b4c937c9f85450a1744b581d81"
   },
