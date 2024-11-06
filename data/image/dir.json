@@ -8,6 +8,9 @@
   "cutscene/images/d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/default/user/Screenshot 2024-11-06 at 6.31.24 AM.png": {
     "sha": "d4dbc0e901ca73a77214e89b309299ccf110957d"
   },
+  "cutscene/images/d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/default/user/Screenshot 2024-11-06 at 6.36.37 AM.png": {
+    "sha": "dc89ded30569327d5e1e7c581e548e6ef48f4cc1"
+  },
   "cutscene/images/d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/default/user/maxresdefault (55).jpg": {
     "sha": "5b747ea95b692b1d45528351c382794140951f82"
   },
@@ -125,5 +128,5 @@
   "example/subgroup/dobuki-logo.png": {
     "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
   },
-  "md5": "3f29dc62d2f30d8726bea913e3978071"
+  "md5": "368f3515da4145d8bbd14d45e0c94e74"
 }

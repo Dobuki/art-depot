@@ -48,6 +48,9 @@
     "images/d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/default/user/Screenshot 2024-11-06 at 6.31.24 AM.png": {
       "sha": "d4dbc0e901ca73a77214e89b309299ccf110957d"
     },
+    "images/d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/default/user/Screenshot 2024-11-06 at 6.36.37 AM.png": {
+      "sha": "dc89ded30569327d5e1e7c581e548e6ef48f4cc1"
+    },
     "images/d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/default/user/maxresdefault (55).jpg": {
       "sha": "5b747ea95b692b1d45528351c382794140951f82"
     },
@@ -150,7 +153,7 @@
     "images/unknown/unknown/dobuki.png": {
       "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
     },
-    "md5": "339a561867b19190f9787509072beba7"
+    "md5": "f1de5ab2efaa62f35c1c7102dd858594"
   },
   "/data/image/cutscene/images/2457d197-bc78-413c-bdfb-fc210c2ba3e7/default/dir.json": {
     "md5": "382e330513efbce2ab0e0fc957facc95",
@@ -171,12 +174,15 @@
     "md5": "f7619d1fa02f4d3f8e34d56c5b8b3f36"
   },
   "/data/image/cutscene/images/d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/default/dir.json": {
-    "md5": "3737667d1469ff72a1676f90926a7f57",
+    "md5": "7606570528b4e92d2cc9ce83ef0e5745",
     "user/JOiEy9.png": {
       "sha": "c76f1f9ca31de9582617c82e83dc97c3af659449"
     },
     "user/Screenshot 2024-11-06 at 6.31.24 AM.png": {
       "sha": "d4dbc0e901ca73a77214e89b309299ccf110957d"
+    },
+    "user/Screenshot 2024-11-06 at 6.36.37 AM.png": {
+      "sha": "dc89ded30569327d5e1e7c581e548e6ef48f4cc1"
     },
     "user/maxresdefault (55).jpg": {
       "sha": "5b747ea95b692b1d45528351c382794140951f82"
@@ -189,10 +195,13 @@
     "Screenshot 2024-11-06 at 6.31.24 AM.png": {
       "sha": "d4dbc0e901ca73a77214e89b309299ccf110957d"
     },
+    "Screenshot 2024-11-06 at 6.36.37 AM.png": {
+      "sha": "dc89ded30569327d5e1e7c581e548e6ef48f4cc1"
+    },
     "maxresdefault (55).jpg": {
       "sha": "5b747ea95b692b1d45528351c382794140951f82"
     },
-    "md5": "e60d2f69e50f2a9dc30efee049574e39"
+    "md5": "4f6892d8cc14b42674c907262fb73e34"
   },
   "/data/image/cutscene/images/d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/dir.json": {
     "default/user/JOiEy9.png": {
@@ -201,10 +210,13 @@
     "default/user/Screenshot 2024-11-06 at 6.31.24 AM.png": {
       "sha": "d4dbc0e901ca73a77214e89b309299ccf110957d"
     },
+    "default/user/Screenshot 2024-11-06 at 6.36.37 AM.png": {
+      "sha": "dc89ded30569327d5e1e7c581e548e6ef48f4cc1"
+    },
     "default/user/maxresdefault (55).jpg": {
       "sha": "5b747ea95b692b1d45528351c382794140951f82"
     },
-    "md5": "35a0ace99d7b4053a90f72dba8ef5b72"
+    "md5": "c85ae75f0f011fb215790118dbf60f7a"
   },
   "/data/image/cutscene/images/default/dir.json": {
     "md5": "559c719cdec12d495fcaebedfa26220a",
@@ -318,6 +330,9 @@
     "d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/default/user/Screenshot 2024-11-06 at 6.31.24 AM.png": {
       "sha": "d4dbc0e901ca73a77214e89b309299ccf110957d"
     },
+    "d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/default/user/Screenshot 2024-11-06 at 6.36.37 AM.png": {
+      "sha": "dc89ded30569327d5e1e7c581e548e6ef48f4cc1"
+    },
     "d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/default/user/maxresdefault (55).jpg": {
       "sha": "5b747ea95b692b1d45528351c382794140951f82"
     },
@@ -372,7 +387,7 @@
     "e282ad40-cc95-4639-b8ec-859896f077d6/default/user/1_Pdruq8I_PxVwEOJQ-mHJHA.0.jpeg": {
       "sha": "69487880b32be1fbc2de105076c893941e959e08"
     },
-    "md5": "97d2b6a6ba3c1724a31fd5b5b15cc248",
+    "md5": "e2bc807b7c05f4c85e58420f4053de7d",
     "newgrounds/jacklehamster/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
       "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
     },
@@ -558,6 +573,9 @@
     "cutscene/images/d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/default/user/Screenshot 2024-11-06 at 6.31.24 AM.png": {
       "sha": "d4dbc0e901ca73a77214e89b309299ccf110957d"
     },
+    "cutscene/images/d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/default/user/Screenshot 2024-11-06 at 6.36.37 AM.png": {
+      "sha": "dc89ded30569327d5e1e7c581e548e6ef48f4cc1"
+    },
     "cutscene/images/d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/default/user/maxresdefault (55).jpg": {
       "sha": "5b747ea95b692b1d45528351c382794140951f82"
     },
@@ -675,7 +693,7 @@
     "example/subgroup/dobuki-logo.png": {
       "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
     },
-    "md5": "3f29dc62d2f30d8726bea913e3978071"
+    "md5": "368f3515da4145d8bbd14d45e0c94e74"
   },
   "/data/image/example/dir.json": {
     "6b6df808be08be62a8107d154a31f5f2.png": {
