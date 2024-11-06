@@ -45,6 +45,9 @@
     "images/042c78ad-804f-4fca-81f1-19d1bc5aa72d/default/user/Screenshot 2024-11-06 at 6.31.24 AM.png": {
       "sha": "d4dbc0e901ca73a77214e89b309299ccf110957d"
     },
+    "images/042c78ad-804f-4fca-81f1-19d1bc5aa72d/default/user/Screenshot 2024-11-06 at 6.36.37 AM.png": {
+      "sha": "dc89ded30569327d5e1e7c581e548e6ef48f4cc1"
+    },
     "images/042c78ad-804f-4fca-81f1-19d1bc5aa72d/default/user/maxresdefault (55).jpg": {
       "sha": "5b747ea95b692b1d45528351c382794140951f82"
     },
@@ -174,15 +177,18 @@
     "images/unknown/unknown/dobuki.png": {
       "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
     },
-    "md5": "054a0b485b0192166f043ad4a825a845"
+    "md5": "1f03cfe2dd9446120f5bf2cab1694569"
   },
   "/data/image/cutscene/images/042c78ad-804f-4fca-81f1-19d1bc5aa72d/default/dir.json": {
-    "md5": "3737667d1469ff72a1676f90926a7f57",
+    "md5": "7606570528b4e92d2cc9ce83ef0e5745",
     "user/JOiEy9.png": {
       "sha": "c76f1f9ca31de9582617c82e83dc97c3af659449"
     },
     "user/Screenshot 2024-11-06 at 6.31.24 AM.png": {
       "sha": "d4dbc0e901ca73a77214e89b309299ccf110957d"
+    },
+    "user/Screenshot 2024-11-06 at 6.36.37 AM.png": {
+      "sha": "dc89ded30569327d5e1e7c581e548e6ef48f4cc1"
     },
     "user/maxresdefault (55).jpg": {
       "sha": "5b747ea95b692b1d45528351c382794140951f82"
@@ -195,10 +201,13 @@
     "Screenshot 2024-11-06 at 6.31.24 AM.png": {
       "sha": "d4dbc0e901ca73a77214e89b309299ccf110957d"
     },
+    "Screenshot 2024-11-06 at 6.36.37 AM.png": {
+      "sha": "dc89ded30569327d5e1e7c581e548e6ef48f4cc1"
+    },
     "maxresdefault (55).jpg": {
       "sha": "5b747ea95b692b1d45528351c382794140951f82"
     },
-    "md5": "e60d2f69e50f2a9dc30efee049574e39"
+    "md5": "4f6892d8cc14b42674c907262fb73e34"
   },
   "/data/image/cutscene/images/042c78ad-804f-4fca-81f1-19d1bc5aa72d/dir.json": {
     "default/user/JOiEy9.png": {
@@ -207,10 +216,13 @@
     "default/user/Screenshot 2024-11-06 at 6.31.24 AM.png": {
       "sha": "d4dbc0e901ca73a77214e89b309299ccf110957d"
     },
+    "default/user/Screenshot 2024-11-06 at 6.36.37 AM.png": {
+      "sha": "dc89ded30569327d5e1e7c581e548e6ef48f4cc1"
+    },
     "default/user/maxresdefault (55).jpg": {
       "sha": "5b747ea95b692b1d45528351c382794140951f82"
     },
-    "md5": "35a0ace99d7b4053a90f72dba8ef5b72"
+    "md5": "c85ae75f0f011fb215790118dbf60f7a"
   },
   "/data/image/cutscene/images/2457d197-bc78-413c-bdfb-fc210c2ba3e7/default/dir.json": {
     "md5": "382e330513efbce2ab0e0fc957facc95",
@@ -429,6 +441,9 @@
     "042c78ad-804f-4fca-81f1-19d1bc5aa72d/default/user/Screenshot 2024-11-06 at 6.31.24 AM.png": {
       "sha": "d4dbc0e901ca73a77214e89b309299ccf110957d"
     },
+    "042c78ad-804f-4fca-81f1-19d1bc5aa72d/default/user/Screenshot 2024-11-06 at 6.36.37 AM.png": {
+      "sha": "dc89ded30569327d5e1e7c581e548e6ef48f4cc1"
+    },
     "042c78ad-804f-4fca-81f1-19d1bc5aa72d/default/user/maxresdefault (55).jpg": {
       "sha": "5b747ea95b692b1d45528351c382794140951f82"
     },
@@ -510,7 +525,7 @@
     "e282ad40-cc95-4639-b8ec-859896f077d6/default/user/1_Pdruq8I_PxVwEOJQ-mHJHA.0.jpeg": {
       "sha": "69487880b32be1fbc2de105076c893941e959e08"
     },
-    "md5": "2720ebc99e3ecc1a933508fa6035667d",
+    "md5": "fc27ba3d8265260139d658464448a81e",
     "newgrounds/jacklehamster/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
       "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
     },
@@ -693,6 +708,9 @@
     "cutscene/images/042c78ad-804f-4fca-81f1-19d1bc5aa72d/default/user/Screenshot 2024-11-06 at 6.31.24 AM.png": {
       "sha": "d4dbc0e901ca73a77214e89b309299ccf110957d"
     },
+    "cutscene/images/042c78ad-804f-4fca-81f1-19d1bc5aa72d/default/user/Screenshot 2024-11-06 at 6.36.37 AM.png": {
+      "sha": "dc89ded30569327d5e1e7c581e548e6ef48f4cc1"
+    },
     "cutscene/images/042c78ad-804f-4fca-81f1-19d1bc5aa72d/default/user/maxresdefault (55).jpg": {
       "sha": "5b747ea95b692b1d45528351c382794140951f82"
     },
@@ -837,7 +855,7 @@
     "example/subgroup/dobuki-logo.png": {
       "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
     },
-    "md5": "eceb981d2b4817d4da3fe32f975dbe24"
+    "md5": "a753df8bf22d229721030ef70d908b08"
   },
   "/data/image/example/dir.json": {
     "6b6df808be08be62a8107d154a31f5f2.png": {
