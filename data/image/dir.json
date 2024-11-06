@@ -50,6 +50,9 @@
   "cutscene/images/default/user/trump.jpeg": {
     "sha": "382d7a992ea3fecdf51319fd3d0a3c2a97c7f90a"
   },
+  "cutscene/images/e282ad40-cc95-4639-b8ec-859896f077d6/default/user/1_Pdruq8I_PxVwEOJQ-mHJHA.0.jpeg": {
+    "sha": "69487880b32be1fbc2de105076c893941e959e08"
+  },
   "cutscene/images/newgrounds/jacklehamster/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
     "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
   },
@@ -113,5 +116,5 @@
   "example/subgroup/dobuki-logo.png": {
     "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
   },
-  "md5": "c8072ea4ed526f2c8f859bb98d55c556"
+  "md5": "05f5b8a3067a8fbd5e12edbe4a5795b0"
 }
