@@ -45,6 +45,9 @@
     "images/5b87fbf0-760d-4837-80b4-3b6ba07f467a/default/user/1000000612.jpg": {
       "sha": "0fc7cf6b68b95febb8ac403040aaff20f781be3a"
     },
+    "images/d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/default/user/20241025_182107.jpg": {
+      "sha": "5fd6a6f78cdac89ddbec0ce467f330815a807d41"
+    },
     "images/d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/default/user/Bonita_2520Taqueria_2520Exterior.png": {
       "sha": "cb12bdca75a8148940f6a7c87c4b5de0717f0fd1"
     },
@@ -159,7 +162,7 @@
     "images/unknown/unknown/dobuki.png": {
       "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
     },
-    "md5": "9340b22d3b24481877ba50363871872b"
+    "md5": "c15f5026ed8d7916df9baefee1a43111"
   },
   "/data/image/cutscene/images/2457d197-bc78-413c-bdfb-fc210c2ba3e7/default/dir.json": {
     "md5": "382e330513efbce2ab0e0fc957facc95",
@@ -198,7 +201,10 @@
     "md5": "1d7273f9bd80a0361693179e0a9cef11"
   },
   "/data/image/cutscene/images/d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/default/dir.json": {
-    "md5": "cdb9ac12be592751c4153ad9e54e026d",
+    "md5": "5f75f617f16816fcfba26f45618739fb",
+    "user/20241025_182107.jpg": {
+      "sha": "5fd6a6f78cdac89ddbec0ce467f330815a807d41"
+    },
     "user/Bonita_2520Taqueria_2520Exterior.png": {
       "sha": "cb12bdca75a8148940f6a7c87c4b5de0717f0fd1"
     },
@@ -216,6 +222,9 @@
     }
   },
   "/data/image/cutscene/images/d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/default/user/dir.json": {
+    "20241025_182107.jpg": {
+      "sha": "5fd6a6f78cdac89ddbec0ce467f330815a807d41"
+    },
     "Bonita_2520Taqueria_2520Exterior.png": {
       "sha": "cb12bdca75a8148940f6a7c87c4b5de0717f0fd1"
     },
@@ -231,9 +240,12 @@
     "maxresdefault (55).jpg": {
       "sha": "5b747ea95b692b1d45528351c382794140951f82"
     },
-    "md5": "a2a17156e8b40da51f31f7c2c3cc7b99"
+    "md5": "c35f01ded8c0a0c22398d2f9ff123690"
   },
   "/data/image/cutscene/images/d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/dir.json": {
+    "default/user/20241025_182107.jpg": {
+      "sha": "5fd6a6f78cdac89ddbec0ce467f330815a807d41"
+    },
     "default/user/Bonita_2520Taqueria_2520Exterior.png": {
       "sha": "cb12bdca75a8148940f6a7c87c4b5de0717f0fd1"
     },
@@ -249,7 +261,7 @@
     "default/user/maxresdefault (55).jpg": {
       "sha": "5b747ea95b692b1d45528351c382794140951f82"
     },
-    "md5": "cb104b27fced7e90e02dc8d8d1e90493"
+    "md5": "713dce6e7e85dfbe154714d8f2379e7d"
   },
   "/data/image/cutscene/images/default/dir.json": {
     "md5": "559c719cdec12d495fcaebedfa26220a",
@@ -360,6 +372,9 @@
     "5b87fbf0-760d-4837-80b4-3b6ba07f467a/default/user/1000000612.jpg": {
       "sha": "0fc7cf6b68b95febb8ac403040aaff20f781be3a"
     },
+    "d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/default/user/20241025_182107.jpg": {
+      "sha": "5fd6a6f78cdac89ddbec0ce467f330815a807d41"
+    },
     "d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/default/user/Bonita_2520Taqueria_2520Exterior.png": {
       "sha": "cb12bdca75a8148940f6a7c87c4b5de0717f0fd1"
     },
@@ -426,7 +441,7 @@
     "e282ad40-cc95-4639-b8ec-859896f077d6/default/user/1_Pdruq8I_PxVwEOJQ-mHJHA.0.jpeg": {
       "sha": "69487880b32be1fbc2de105076c893941e959e08"
     },
-    "md5": "05700ae288412955a458c72b03e16337",
+    "md5": "c9a7a7e7473ed7545e36cc287db3c0cc",
     "newgrounds/jacklehamster/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
       "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
     },
@@ -609,6 +624,9 @@
     "cutscene/images/5b87fbf0-760d-4837-80b4-3b6ba07f467a/default/user/1000000612.jpg": {
       "sha": "0fc7cf6b68b95febb8ac403040aaff20f781be3a"
     },
+    "cutscene/images/d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/default/user/20241025_182107.jpg": {
+      "sha": "5fd6a6f78cdac89ddbec0ce467f330815a807d41"
+    },
     "cutscene/images/d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/default/user/Bonita_2520Taqueria_2520Exterior.png": {
       "sha": "cb12bdca75a8148940f6a7c87c4b5de0717f0fd1"
     },
@@ -738,7 +756,7 @@
     "example/subgroup/dobuki-logo.png": {
       "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
     },
-    "md5": "20f00b2cd8c8efede37cdcd2501b93f4"
+    "md5": "f65e16605f4eb41aa68fd95d0db83de8"
   },
   "/data/image/example/dir.json": {
     "6b6df808be08be62a8107d154a31f5f2.png": {

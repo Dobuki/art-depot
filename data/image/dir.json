@@ -5,6 +5,9 @@
   "cutscene/images/5b87fbf0-760d-4837-80b4-3b6ba07f467a/default/user/1000000612.jpg": {
     "sha": "0fc7cf6b68b95febb8ac403040aaff20f781be3a"
   },
+  "cutscene/images/d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/default/user/20241025_182107.jpg": {
+    "sha": "5fd6a6f78cdac89ddbec0ce467f330815a807d41"
+  },
   "cutscene/images/d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/default/user/Bonita_2520Taqueria_2520Exterior.png": {
     "sha": "cb12bdca75a8148940f6a7c87c4b5de0717f0fd1"
   },
@@ -134,5 +137,5 @@
   "example/subgroup/dobuki-logo.png": {
     "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
   },
-  "md5": "20f00b2cd8c8efede37cdcd2501b93f4"
+  "md5": "f65e16605f4eb41aa68fd95d0db83de8"
 }
