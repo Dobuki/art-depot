@@ -11,6 +11,9 @@
   "cutscene/images/042c78ad-804f-4fca-81f1-19d1bc5aa72d/default/user/maxresdefault (55).jpg": {
     "sha": "5b747ea95b692b1d45528351c382794140951f82"
   },
+  "cutscene/images/16147a60-c265-4915-ae53-c97425b03126/default/user/fatfkuk.png": {
+    "sha": "1a681309e181e13f085b44b02b458c56f80efb78"
+  },
   "cutscene/images/2457d197-bc78-413c-bdfb-fc210c2ba3e7/default/user/cutscene-tool11.png": {
     "sha": "1fd5f2cf75e2bed49869b403cbed06fc93e5af3a"
   },
@@ -167,5 +170,5 @@
   "example/subgroup/dobuki-logo.png": {
     "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
   },
-  "md5": "de2b2cec1ce9989700b76014e52bf837"
+  "md5": "d339e514ebcb71724da8dad1a6455937"
 }
