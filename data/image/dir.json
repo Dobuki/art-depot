@@ -17,6 +17,9 @@
   "cutscene/images/5b87fbf0-760d-4837-80b4-3b6ba07f467a/default/user/1000000612.jpg": {
     "sha": "0fc7cf6b68b95febb8ac403040aaff20f781be3a"
   },
+  "cutscene/images/a0891811-567a-427f-b331-ffb235ff8daf/default/user/スクリーンショット 2024-11-07 13.48.54.png": {
+    "sha": "5285cf2291df8f3b157da34ba70c5aec2814f6e3"
+  },
   "cutscene/images/d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/default/user/20241025_182107.jpg": {
     "sha": "5fd6a6f78cdac89ddbec0ce467f330815a807d41"
   },
@@ -161,5 +164,5 @@
   "example/subgroup/dobuki-logo.png": {
     "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
   },
-  "md5": "f287b0a79dcec61bc705a40182f05d87"
+  "md5": "7e58b71763af99c14a87c49b8446c267"
 }
