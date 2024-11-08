@@ -24,6 +24,9 @@
     "images/5576225f-71a0-4682-bf53-3a4b8e573d43/default/user/mTyko5.png": {
       "sha": "c2b911ef263935a070f08f9dc2f19f073bbe1d50"
     },
+    "images/5576225f-71a0-4682-bf53-3a4b8e573d43/default/user/the-terror-of-mongolia-v0-sb-uz-j4Dz1QwJsNwN2N3vGl4cex59mhB2QGvfyeYsQ.png": {
+      "sha": "174b2659399d8e9c3d2ad6ab574361c946593e57"
+    },
     "images/5b87fbf0-760d-4837-80b4-3b6ba07f467a/default/user/1000000612.jpg": {
       "sha": "0fc7cf6b68b95febb8ac403040aaff20f781be3a"
     },
@@ -165,7 +168,7 @@
     "images/unknown/unknown/dobuki.png": {
       "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
     },
-    "md5": "be7bc889e75342806c92356271316504"
+    "md5": "5d2b591d99965cd13f8f923fdb5be129"
   },
   "/data/image/cutscene/images/042c78ad-804f-4fca-81f1-19d1bc5aa72d/default/dir.json": {
     "md5": "7606570528b4e92d2cc9ce83ef0e5745",
@@ -267,22 +270,31 @@
     "md5": "68b9f67f34aee802220e505dff029566"
   },
   "/data/image/cutscene/images/5576225f-71a0-4682-bf53-3a4b8e573d43/default/dir.json": {
-    "md5": "4acbd19cfa20ad3620ebda97b2ff53ed",
+    "md5": "d242317eebbc8407e2da4618c3fa0dc9",
     "user/mTyko5.png": {
       "sha": "c2b911ef263935a070f08f9dc2f19f073bbe1d50"
+    },
+    "user/the-terror-of-mongolia-v0-sb-uz-j4Dz1QwJsNwN2N3vGl4cex59mhB2QGvfyeYsQ.png": {
+      "sha": "174b2659399d8e9c3d2ad6ab574361c946593e57"
     }
   },
   "/data/image/cutscene/images/5576225f-71a0-4682-bf53-3a4b8e573d43/default/user/dir.json": {
     "mTyko5.png": {
       "sha": "c2b911ef263935a070f08f9dc2f19f073bbe1d50"
     },
-    "md5": "b8c1d73d5a35b826ee0b8195e03befa7"
+    "md5": "60a146767798a65a5b7f52e0182e688f",
+    "the-terror-of-mongolia-v0-sb-uz-j4Dz1QwJsNwN2N3vGl4cex59mhB2QGvfyeYsQ.png": {
+      "sha": "174b2659399d8e9c3d2ad6ab574361c946593e57"
+    }
   },
   "/data/image/cutscene/images/5576225f-71a0-4682-bf53-3a4b8e573d43/dir.json": {
     "default/user/mTyko5.png": {
       "sha": "c2b911ef263935a070f08f9dc2f19f073bbe1d50"
     },
-    "md5": "8b2909641512b7c534c1ebfeede028db"
+    "default/user/the-terror-of-mongolia-v0-sb-uz-j4Dz1QwJsNwN2N3vGl4cex59mhB2QGvfyeYsQ.png": {
+      "sha": "174b2659399d8e9c3d2ad6ab574361c946593e57"
+    },
+    "md5": "7bcf638cd874fbf5a6bdb3ef5ca1c2c6"
   },
   "/data/image/cutscene/images/5b87fbf0-760d-4837-80b4-3b6ba07f467a/default/dir.json": {
     "md5": "f158f4f4fd1558622af1532c15aba34a",
@@ -528,6 +540,9 @@
     "5576225f-71a0-4682-bf53-3a4b8e573d43/default/user/mTyko5.png": {
       "sha": "c2b911ef263935a070f08f9dc2f19f073bbe1d50"
     },
+    "5576225f-71a0-4682-bf53-3a4b8e573d43/default/user/the-terror-of-mongolia-v0-sb-uz-j4Dz1QwJsNwN2N3vGl4cex59mhB2QGvfyeYsQ.png": {
+      "sha": "174b2659399d8e9c3d2ad6ab574361c946593e57"
+    },
     "5b87fbf0-760d-4837-80b4-3b6ba07f467a/default/user/1000000612.jpg": {
       "sha": "0fc7cf6b68b95febb8ac403040aaff20f781be3a"
     },
@@ -621,7 +636,7 @@
     "f5f2e5ee-b746-498d-b802-ee6bb18e8dd2/default/user/1730920406958.jpg": {
       "sha": "7d4a26b929526d866d287a15a6be2c72a935557c"
     },
-    "md5": "c5a0f04f3ee5169686e48470f82655b5",
+    "md5": "63c4425b0e910f53f30fe64edd143e0a",
     "newgrounds/jacklehamster/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
       "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
     },
@@ -876,6 +891,9 @@
     "cutscene/images/5576225f-71a0-4682-bf53-3a4b8e573d43/default/user/mTyko5.png": {
       "sha": "c2b911ef263935a070f08f9dc2f19f073bbe1d50"
     },
+    "cutscene/images/5576225f-71a0-4682-bf53-3a4b8e573d43/default/user/the-terror-of-mongolia-v0-sb-uz-j4Dz1QwJsNwN2N3vGl4cex59mhB2QGvfyeYsQ.png": {
+      "sha": "174b2659399d8e9c3d2ad6ab574361c946593e57"
+    },
     "cutscene/images/5b87fbf0-760d-4837-80b4-3b6ba07f467a/default/user/1000000612.jpg": {
       "sha": "0fc7cf6b68b95febb8ac403040aaff20f781be3a"
     },
@@ -1032,7 +1050,7 @@
     "example/subgroup/dobuki-logo.png": {
       "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
     },
-    "md5": "3e6be8a812cb0260a1feb88e8f44fd59",
+    "md5": "fef7e6096b506312d7b5660376f8f36b",
     "power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/inn.png": {
       "sha": "0ee88b0cc3456dcbcef258ca9272448d9c00e028"
     },
