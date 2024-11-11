@@ -56,6 +56,9 @@
   "images/d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/default/user/photo0jpg.jpg": {
     "sha": "4afd0189fcbdf637f105abeb72a42b4b7c30e66c"
   },
+  "images/dd42866f-ef21-410a-8568-35726327a2a4/default/user/game_icon_184.png": {
+    "sha": "932d2e710abd8b9836cbc9df8d7d823bbb40fc7c"
+  },
   "images/dd42866f-ef21-410a-8568-35726327a2a4/default/user/verticle_capsule.png": {
     "sha": "a6fbc48a6a070d67f209d4bcbd5f91ec6a6230ac"
   },
@@ -170,5 +173,5 @@
   "images/unknown/unknown/dobuki.png": {
     "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
   },
-  "md5": "ffcdb519a21212b5e186545f5c416088"
+  "md5": "5c9c78bf95b247ee60549196e68341f1"
 }
