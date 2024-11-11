@@ -1,7 +1,10 @@
 {
-  "md5": "95869c90376151fe0fb088d481f40fdd",
+  "md5": "d320cf49fb568d92381d4476cdc6b185",
   "user/game_icon_184.png": {
     "sha": "932d2e710abd8b9836cbc9df8d7d823bbb40fc7c"
+  },
+  "user/library_header.png": {
+    "sha": "32378afe1398d78ceee68607cc25b5cc1e224547"
   },
   "user/verticle_capsule.png": {
     "sha": "a6fbc48a6a070d67f209d4bcbd5f91ec6a6230ac"
