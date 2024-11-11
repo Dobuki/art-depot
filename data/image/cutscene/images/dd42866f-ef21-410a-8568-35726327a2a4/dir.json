@@ -1,4 +1,7 @@
 {
+  "default/user/Googleplay.png": {
+    "sha": "c349b997c783fcefe385f1c5e88c4836d2a84cd5"
+  },
   "default/user/game_icon_184.png": {
     "sha": "932d2e710abd8b9836cbc9df8d7d823bbb40fc7c"
   },
@@ -8,5 +11,5 @@
   "default/user/verticle_capsule.png": {
     "sha": "a6fbc48a6a070d67f209d4bcbd5f91ec6a6230ac"
   },
-  "md5": "809106c931a442787b41589620fcdd20"
+  "md5": "42f67ec2310f7e50ade119681828a0d5"
 }

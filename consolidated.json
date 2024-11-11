@@ -57,6 +57,9 @@
     "images/d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/default/user/photo0jpg.jpg": {
       "sha": "4afd0189fcbdf637f105abeb72a42b4b7c30e66c"
     },
+    "images/dd42866f-ef21-410a-8568-35726327a2a4/default/user/Googleplay.png": {
+      "sha": "c349b997c783fcefe385f1c5e88c4836d2a84cd5"
+    },
     "images/dd42866f-ef21-410a-8568-35726327a2a4/default/user/game_icon_184.png": {
       "sha": "932d2e710abd8b9836cbc9df8d7d823bbb40fc7c"
     },
@@ -177,7 +180,7 @@
     "images/unknown/unknown/dobuki.png": {
       "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
     },
-    "md5": "16d43809714b6d52153651a16df479d6"
+    "md5": "e1aeec8fc1a23dc4c640da61173341cc"
   },
   "/data/image/cutscene/images/042c78ad-804f-4fca-81f1-19d1bc5aa72d/default/dir.json": {
     "md5": "7606570528b4e92d2cc9ce83ef0e5745",
@@ -423,7 +426,10 @@
     "md5": "6ace8337b51a864761d8ec2c5021f9f4"
   },
   "/data/image/cutscene/images/dd42866f-ef21-410a-8568-35726327a2a4/default/dir.json": {
-    "md5": "d320cf49fb568d92381d4476cdc6b185",
+    "md5": "9eac60990d1dfe1fbd3404e0a422a389",
+    "user/Googleplay.png": {
+      "sha": "c349b997c783fcefe385f1c5e88c4836d2a84cd5"
+    },
     "user/game_icon_184.png": {
       "sha": "932d2e710abd8b9836cbc9df8d7d823bbb40fc7c"
     },
@@ -435,18 +441,24 @@
     }
   },
   "/data/image/cutscene/images/dd42866f-ef21-410a-8568-35726327a2a4/default/user/dir.json": {
+    "Googleplay.png": {
+      "sha": "c349b997c783fcefe385f1c5e88c4836d2a84cd5"
+    },
     "game_icon_184.png": {
       "sha": "932d2e710abd8b9836cbc9df8d7d823bbb40fc7c"
     },
     "library_header.png": {
       "sha": "32378afe1398d78ceee68607cc25b5cc1e224547"
     },
-    "md5": "221a068258947f84f678bdae9a6309e0",
+    "md5": "4c82d5bc5ef3255ab0d2e11b22b8a8ec",
     "verticle_capsule.png": {
       "sha": "a6fbc48a6a070d67f209d4bcbd5f91ec6a6230ac"
     }
   },
   "/data/image/cutscene/images/dd42866f-ef21-410a-8568-35726327a2a4/dir.json": {
+    "default/user/Googleplay.png": {
+      "sha": "c349b997c783fcefe385f1c5e88c4836d2a84cd5"
+    },
     "default/user/game_icon_184.png": {
       "sha": "932d2e710abd8b9836cbc9df8d7d823bbb40fc7c"
     },
@@ -456,7 +468,7 @@
     "default/user/verticle_capsule.png": {
       "sha": "a6fbc48a6a070d67f209d4bcbd5f91ec6a6230ac"
     },
-    "md5": "809106c931a442787b41589620fcdd20"
+    "md5": "42f67ec2310f7e50ade119681828a0d5"
   },
   "/data/image/cutscene/images/default/dir.json": {
     "md5": "559c719cdec12d495fcaebedfa26220a",
@@ -618,6 +630,9 @@
     "d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/default/user/photo0jpg.jpg": {
       "sha": "4afd0189fcbdf637f105abeb72a42b4b7c30e66c"
     },
+    "dd42866f-ef21-410a-8568-35726327a2a4/default/user/Googleplay.png": {
+      "sha": "c349b997c783fcefe385f1c5e88c4836d2a84cd5"
+    },
     "dd42866f-ef21-410a-8568-35726327a2a4/default/user/game_icon_184.png": {
       "sha": "932d2e710abd8b9836cbc9df8d7d823bbb40fc7c"
     },
@@ -690,7 +705,7 @@
     "f5f2e5ee-b746-498d-b802-ee6bb18e8dd2/default/user/1730920406958.jpg": {
       "sha": "7d4a26b929526d866d287a15a6be2c72a935557c"
     },
-    "md5": "01fbc6d3569d97c6f97db36a81ff1c45",
+    "md5": "aa520cbc7b0859c3e6cd2b1ae42472d9",
     "newgrounds/jacklehamster/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
       "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
     },
@@ -978,6 +993,9 @@
     "cutscene/images/d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/default/user/photo0jpg.jpg": {
       "sha": "4afd0189fcbdf637f105abeb72a42b4b7c30e66c"
     },
+    "cutscene/images/dd42866f-ef21-410a-8568-35726327a2a4/default/user/Googleplay.png": {
+      "sha": "c349b997c783fcefe385f1c5e88c4836d2a84cd5"
+    },
     "cutscene/images/dd42866f-ef21-410a-8568-35726327a2a4/default/user/game_icon_184.png": {
       "sha": "932d2e710abd8b9836cbc9df8d7d823bbb40fc7c"
     },
@@ -1113,7 +1131,7 @@
     "example/subgroup/dobuki-logo.png": {
       "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
     },
-    "md5": "c1e3ce176af5db0fa9f1b430c6b34a49",
+    "md5": "e37ef6aad822d9443d1f15f15cda1d83",
     "power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/inn.png": {
       "sha": "0ee88b0cc3456dcbcef258ca9272448d9c00e028"
     },

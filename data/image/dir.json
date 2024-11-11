@@ -56,6 +56,9 @@
   "cutscene/images/d5b8f4f6-ee73-41ce-af2c-52d716ce19ae/default/user/photo0jpg.jpg": {
     "sha": "4afd0189fcbdf637f105abeb72a42b4b7c30e66c"
   },
+  "cutscene/images/dd42866f-ef21-410a-8568-35726327a2a4/default/user/Googleplay.png": {
+    "sha": "c349b997c783fcefe385f1c5e88c4836d2a84cd5"
+  },
   "cutscene/images/dd42866f-ef21-410a-8568-35726327a2a4/default/user/game_icon_184.png": {
     "sha": "932d2e710abd8b9836cbc9df8d7d823bbb40fc7c"
   },
@@ -191,7 +194,7 @@
   "example/subgroup/dobuki-logo.png": {
     "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
   },
-  "md5": "c1e3ce176af5db0fa9f1b430c6b34a49",
+  "md5": "e37ef6aad822d9443d1f15f15cda1d83",
   "power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/inn.png": {
     "sha": "0ee88b0cc3456dcbcef258ca9272448d9c00e028"
   },
