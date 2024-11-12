@@ -29,6 +29,9 @@
   "images/0932738c-2e5f-44cf-9797-e9cebfb378f3/newgrounds/jacklehamster/troll-inn14.png": {
     "sha": "db7637779fd9ee16119b92ae62b82754949f2858"
   },
+  "images/0932738c-2e5f-44cf-9797-e9cebfb378f3/newgrounds/jacklehamster/troll-inn16.png": {
+    "sha": "86212a8a3a6fafa39435cd62156ba6bca0edc7c3"
+  },
   "images/0932738c-2e5f-44cf-9797-e9cebfb378f3/newgrounds/jacklehamster/troll-inn2.png": {
     "sha": "af26ea39d28cebff8e17b567307f75d25c4d2a6f"
   },
@@ -221,5 +224,5 @@
   "images/unknown/unknown/dobuki.png": {
     "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
   },
-  "md5": "d49bdb799799c596e28cf2ad3a53adb7"
+  "md5": "c571626e2454e443e553166929132e4c"
 }
