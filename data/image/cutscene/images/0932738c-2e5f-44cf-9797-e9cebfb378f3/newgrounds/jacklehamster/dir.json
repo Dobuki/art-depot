@@ -1,5 +1,5 @@
 {
-  "md5": "a129833d8a19503b77e93176aa6aecef",
+  "md5": "b16e4ffa5dc844d879a1da63ffc09065",
   "troll-inn1.png": {
     "sha": "36f117ce2766c9e4c464c4542624bf228ba4b541"
   },
@@ -14,5 +14,8 @@
   },
   "troll-inn5.png": {
     "sha": "ffdcbd862b5f67364e294dd1f2b5273a9e08c7c0"
+  },
+  "troll-inn6.png": {
+    "sha": "666a84c17f90f4469fba53ae96462dd85bdd9e6b"
   }
 }
