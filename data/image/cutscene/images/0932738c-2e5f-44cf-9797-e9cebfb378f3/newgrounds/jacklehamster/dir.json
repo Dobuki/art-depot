@@ -1,9 +1,12 @@
 {
-  "md5": "ce08f6d9065eba6e091413272039fe4f",
+  "md5": "7356a87a5aa564db2e3fe67e3b00dc4c",
   "troll-inn1.png": {
     "sha": "36f117ce2766c9e4c464c4542624bf228ba4b541"
   },
   "troll-inn2.png": {
     "sha": "af26ea39d28cebff8e17b567307f75d25c4d2a6f"
+  },
+  "troll-inn3.png": {
+    "sha": "05e904bb3db524172ba5840a6333b6003d06f0fd"
   }
 }
