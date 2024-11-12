@@ -20,6 +20,9 @@
   "cutscene/images/0932738c-2e5f-44cf-9797-e9cebfb378f3/newgrounds/jacklehamster/troll-inn3.png": {
     "sha": "05e904bb3db524172ba5840a6333b6003d06f0fd"
   },
+  "cutscene/images/0932738c-2e5f-44cf-9797-e9cebfb378f3/newgrounds/jacklehamster/troll-inn4.png": {
+    "sha": "f5feb39ca21b43042dd2e52a869af190765fe14c"
+  },
   "cutscene/images/16147a60-c265-4915-ae53-c97425b03126/default/user/fatfkuk.png": {
     "sha": "1a681309e181e13f085b44b02b458c56f80efb78"
   },
@@ -206,7 +209,7 @@
   "example/subgroup/dobuki-logo.png": {
     "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
   },
-  "md5": "e5e312e73281462a8d4cd132c5d2b852",
+  "md5": "19b03b0c1b16c3483d4dacceb64d0316",
   "power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/inn.png": {
     "sha": "0ee88b0cc3456dcbcef258ca9272448d9c00e028"
   },

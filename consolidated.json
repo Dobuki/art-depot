@@ -21,6 +21,9 @@
     "images/0932738c-2e5f-44cf-9797-e9cebfb378f3/newgrounds/jacklehamster/troll-inn3.png": {
       "sha": "05e904bb3db524172ba5840a6333b6003d06f0fd"
     },
+    "images/0932738c-2e5f-44cf-9797-e9cebfb378f3/newgrounds/jacklehamster/troll-inn4.png": {
+      "sha": "f5feb39ca21b43042dd2e52a869af190765fe14c"
+    },
     "images/16147a60-c265-4915-ae53-c97425b03126/default/user/fatfkuk.png": {
       "sha": "1a681309e181e13f085b44b02b458c56f80efb78"
     },
@@ -192,7 +195,7 @@
     "images/unknown/unknown/dobuki.png": {
       "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
     },
-    "md5": "bf7f8fd065b43c22ddaac0de44a7e94b"
+    "md5": "c08b18ef6b1d8af29b459ce52a2f8bef"
   },
   "/data/image/cutscene/images/042c78ad-804f-4fca-81f1-19d1bc5aa72d/default/dir.json": {
     "md5": "7606570528b4e92d2cc9ce83ef0e5745",
@@ -240,7 +243,7 @@
     "md5": "c85ae75f0f011fb215790118dbf60f7a"
   },
   "/data/image/cutscene/images/0932738c-2e5f-44cf-9797-e9cebfb378f3/dir.json": {
-    "md5": "7460e24d13dea5d63e2adcc85c33e0fe",
+    "md5": "5ccbd8185c816790770955cb76a0a5d0",
     "newgrounds/jacklehamster/troll-inn1.png": {
       "sha": "36f117ce2766c9e4c464c4542624bf228ba4b541"
     },
@@ -249,6 +252,9 @@
     },
     "newgrounds/jacklehamster/troll-inn3.png": {
       "sha": "05e904bb3db524172ba5840a6333b6003d06f0fd"
+    },
+    "newgrounds/jacklehamster/troll-inn4.png": {
+      "sha": "f5feb39ca21b43042dd2e52a869af190765fe14c"
     }
   },
   "/data/image/cutscene/images/0932738c-2e5f-44cf-9797-e9cebfb378f3/newgrounds/dir.json": {
@@ -261,10 +267,13 @@
     "jacklehamster/troll-inn3.png": {
       "sha": "05e904bb3db524172ba5840a6333b6003d06f0fd"
     },
-    "md5": "0950d5af22f414f3284a5efdf8e0ff11"
+    "jacklehamster/troll-inn4.png": {
+      "sha": "f5feb39ca21b43042dd2e52a869af190765fe14c"
+    },
+    "md5": "69cfd3869a4e201fec1e536a4cd3a984"
   },
   "/data/image/cutscene/images/0932738c-2e5f-44cf-9797-e9cebfb378f3/newgrounds/jacklehamster/dir.json": {
-    "md5": "7356a87a5aa564db2e3fe67e3b00dc4c",
+    "md5": "ce78431d8ce3ffb69330e3bc567bfdec",
     "troll-inn1.png": {
       "sha": "36f117ce2766c9e4c464c4542624bf228ba4b541"
     },
@@ -273,6 +282,9 @@
     },
     "troll-inn3.png": {
       "sha": "05e904bb3db524172ba5840a6333b6003d06f0fd"
+    },
+    "troll-inn4.png": {
+      "sha": "f5feb39ca21b43042dd2e52a869af190765fe14c"
     }
   },
   "/data/image/cutscene/images/16147a60-c265-4915-ae53-c97425b03126/default/dir.json": {
@@ -642,6 +654,9 @@
     "0932738c-2e5f-44cf-9797-e9cebfb378f3/newgrounds/jacklehamster/troll-inn3.png": {
       "sha": "05e904bb3db524172ba5840a6333b6003d06f0fd"
     },
+    "0932738c-2e5f-44cf-9797-e9cebfb378f3/newgrounds/jacklehamster/troll-inn4.png": {
+      "sha": "f5feb39ca21b43042dd2e52a869af190765fe14c"
+    },
     "16147a60-c265-4915-ae53-c97425b03126/default/user/fatfkuk.png": {
       "sha": "1a681309e181e13f085b44b02b458c56f80efb78"
     },
@@ -765,7 +780,7 @@
     "f5f2e5ee-b746-498d-b802-ee6bb18e8dd2/default/user/1730920406958.jpg": {
       "sha": "7d4a26b929526d866d287a15a6be2c72a935557c"
     },
-    "md5": "3c4a48539646b30b5fd5e01d0005f259",
+    "md5": "8686e89c6911085a1f0dfb575b90fea5",
     "newgrounds/jacklehamster/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
       "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
     },
@@ -1035,6 +1050,9 @@
     "cutscene/images/0932738c-2e5f-44cf-9797-e9cebfb378f3/newgrounds/jacklehamster/troll-inn3.png": {
       "sha": "05e904bb3db524172ba5840a6333b6003d06f0fd"
     },
+    "cutscene/images/0932738c-2e5f-44cf-9797-e9cebfb378f3/newgrounds/jacklehamster/troll-inn4.png": {
+      "sha": "f5feb39ca21b43042dd2e52a869af190765fe14c"
+    },
     "cutscene/images/16147a60-c265-4915-ae53-c97425b03126/default/user/fatfkuk.png": {
       "sha": "1a681309e181e13f085b44b02b458c56f80efb78"
     },
@@ -1221,7 +1239,7 @@
     "example/subgroup/dobuki-logo.png": {
       "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
     },
-    "md5": "e5e312e73281462a8d4cd132c5d2b852",
+    "md5": "19b03b0c1b16c3483d4dacceb64d0316",
     "power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/inn.png": {
       "sha": "0ee88b0cc3456dcbcef258ca9272448d9c00e028"
     },
