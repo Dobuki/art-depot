@@ -1,5 +1,5 @@
 {
-  "md5": "ea6842e6966a105a20e716692c734193",
+  "md5": "03df4ec3912140185279116e63db1200",
   "newgrounds/jacklehamster/bossworm-cutscene.png": {
     "sha": "0819bd8f8ffe9fd8acf88f7a84e382f0e5ef46bd"
   },
@@ -8,5 +8,8 @@
   },
   "newgrounds/jacklehamster/bossworm-cutscene2.png": {
     "sha": "647f2033df5abe912ed6c407bdee9a948fed7b52"
+  },
+  "newgrounds/jacklehamster/bossworm-cutscene3.png": {
+    "sha": "3bfa5ab5eba2b4cc7e235882f2b333c578095483"
   }
 }
