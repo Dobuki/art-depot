@@ -104,6 +104,9 @@
   "images/d8c56eed-7b87-4401-a5d5-dc6732304d19/newgrounds/jacklehamster/bossworm-cutscene1.png": {
     "sha": "ef0c75df45968805f1a7cc7747f657a41ea3c82e"
   },
+  "images/d8c56eed-7b87-4401-a5d5-dc6732304d19/newgrounds/jacklehamster/bossworm-cutscene2.png": {
+    "sha": "ebaa3f310252bd24b1196170a8722c243f2c5ca6"
+  },
   "images/dd42866f-ef21-410a-8568-35726327a2a4/default/user/Googleplay.png": {
     "sha": "c349b997c783fcefe385f1c5e88c4836d2a84cd5"
   },
@@ -230,5 +233,5 @@
   "images/unknown/unknown/dobuki.png": {
     "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
   },
-  "md5": "d7b3974c3cceaa7459256c310752b92a"
+  "md5": "5e5f90d0d45f9efb9f0d839b097e04c6"
 }
