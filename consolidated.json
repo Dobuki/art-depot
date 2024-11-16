@@ -112,7 +112,7 @@
       "sha": "d5154e10cbd2d9d3ed9538d1e2ae274dc351ab66"
     },
     "images/d8c56eed-7b87-4401-a5d5-dc6732304d19/newgrounds/jacklehamster/bossworm-cutscene3.png": {
-      "sha": "3bfa5ab5eba2b4cc7e235882f2b333c578095483"
+      "sha": "988860b51403140344fc08b639f0990c6ba7c87b"
     },
     "images/dd42866f-ef21-410a-8568-35726327a2a4/default/user/Googleplay.png": {
       "sha": "c349b997c783fcefe385f1c5e88c4836d2a84cd5"
@@ -240,7 +240,7 @@
     "images/unknown/unknown/dobuki.png": {
       "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
     },
-    "md5": "4716e656a1d63e56e6bcbd95bcb56a52"
+    "md5": "96ead23ea353232c4055f51e620b014b"
   },
   "/data/image/cutscene/images/042c78ad-804f-4fca-81f1-19d1bc5aa72d/default/dir.json": {
     "md5": "7606570528b4e92d2cc9ce83ef0e5745",
@@ -639,7 +639,7 @@
     "md5": "6ace8337b51a864761d8ec2c5021f9f4"
   },
   "/data/image/cutscene/images/d8c56eed-7b87-4401-a5d5-dc6732304d19/dir.json": {
-    "md5": "0d70f0d051730d365d3ed78ac3f82964",
+    "md5": "b3438c932065e883157a9d8ab84d46d7",
     "newgrounds/jacklehamster/bossworm-cutscene.png": {
       "sha": "0819bd8f8ffe9fd8acf88f7a84e382f0e5ef46bd"
     },
@@ -650,7 +650,7 @@
       "sha": "d5154e10cbd2d9d3ed9538d1e2ae274dc351ab66"
     },
     "newgrounds/jacklehamster/bossworm-cutscene3.png": {
-      "sha": "3bfa5ab5eba2b4cc7e235882f2b333c578095483"
+      "sha": "988860b51403140344fc08b639f0990c6ba7c87b"
     }
   },
   "/data/image/cutscene/images/d8c56eed-7b87-4401-a5d5-dc6732304d19/newgrounds/dir.json": {
@@ -664,9 +664,9 @@
       "sha": "d5154e10cbd2d9d3ed9538d1e2ae274dc351ab66"
     },
     "jacklehamster/bossworm-cutscene3.png": {
-      "sha": "3bfa5ab5eba2b4cc7e235882f2b333c578095483"
+      "sha": "988860b51403140344fc08b639f0990c6ba7c87b"
     },
-    "md5": "64746c5a3c9e6d7ee0ffa7f3ce7ab4a2"
+    "md5": "63c007c52a58fc1b185e445f04f3bc2e"
   },
   "/data/image/cutscene/images/d8c56eed-7b87-4401-a5d5-dc6732304d19/newgrounds/jacklehamster/dir.json": {
     "bossworm-cutscene.png": {
@@ -679,9 +679,9 @@
       "sha": "d5154e10cbd2d9d3ed9538d1e2ae274dc351ab66"
     },
     "bossworm-cutscene3.png": {
-      "sha": "3bfa5ab5eba2b4cc7e235882f2b333c578095483"
+      "sha": "988860b51403140344fc08b639f0990c6ba7c87b"
     },
-    "md5": "e7ca0c50ac2f2022155735d6537e9d09"
+    "md5": "cd60fd7f5c4ff8cd75e26e7e98bce5fb"
   },
   "/data/image/cutscene/images/dd42866f-ef21-410a-8568-35726327a2a4/default/dir.json": {
     "md5": "9eac60990d1dfe1fbd3404e0a422a389",
@@ -943,7 +943,7 @@
       "sha": "d5154e10cbd2d9d3ed9538d1e2ae274dc351ab66"
     },
     "d8c56eed-7b87-4401-a5d5-dc6732304d19/newgrounds/jacklehamster/bossworm-cutscene3.png": {
-      "sha": "3bfa5ab5eba2b4cc7e235882f2b333c578095483"
+      "sha": "988860b51403140344fc08b639f0990c6ba7c87b"
     },
     "dd42866f-ef21-410a-8568-35726327a2a4/default/user/Googleplay.png": {
       "sha": "c349b997c783fcefe385f1c5e88c4836d2a84cd5"
@@ -1023,7 +1023,7 @@
     "f5f2e5ee-b746-498d-b802-ee6bb18e8dd2/default/user/1730920406958.jpg": {
       "sha": "7d4a26b929526d866d287a15a6be2c72a935557c"
     },
-    "md5": "2a3a58062d7a490e137c672ff56f2509",
+    "md5": "c708834a5af1c7440a5b75cf3e0922f0",
     "newgrounds/jacklehamster/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
       "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
     },
@@ -1384,7 +1384,7 @@
       "sha": "d5154e10cbd2d9d3ed9538d1e2ae274dc351ab66"
     },
     "cutscene/images/d8c56eed-7b87-4401-a5d5-dc6732304d19/newgrounds/jacklehamster/bossworm-cutscene3.png": {
-      "sha": "3bfa5ab5eba2b4cc7e235882f2b333c578095483"
+      "sha": "988860b51403140344fc08b639f0990c6ba7c87b"
     },
     "cutscene/images/dd42866f-ef21-410a-8568-35726327a2a4/default/user/Googleplay.png": {
       "sha": "c349b997c783fcefe385f1c5e88c4836d2a84cd5"
@@ -1527,7 +1527,7 @@
     "example/subgroup/dobuki-logo.png": {
       "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
     },
-    "md5": "30101b390a0ca4ff4a85829f87c1c2ef",
+    "md5": "dd31c3d64b8c8cd880e90d1a27d0024c",
     "power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/inn.png": {
       "sha": "0ee88b0cc3456dcbcef258ca9272448d9c00e028"
     },
