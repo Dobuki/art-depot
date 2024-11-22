@@ -1,6 +1,9 @@
 {
-  "md5": "7345fc272999424d14f78692562e87bb",
+  "md5": "5a77dd5d53ac58366f79ad3ed9809a1c",
   "medusa-cutscene1.png": {
     "sha": "f31c9e37bebf571d86a00a27c5d6e2ae55a3e04e"
+  },
+  "medusa-cutscene2.png": {
+    "sha": "e6c62c698a1c9a04aaadbbbe972908d141f98eb8"
   }
 }
