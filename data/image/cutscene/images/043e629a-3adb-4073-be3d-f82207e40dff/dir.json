@@ -1,5 +1,5 @@
 {
-  "md5": "458875e85802d3c9a39ec9997a4d03f0",
+  "md5": "e6c90799b0f08d0635f1628f9cab8784",
   "newgrounds/jacklehamster/medusa-cutscene4.png": {
     "sha": "d8ee63055acc88f17ac44d7bcc58e136ceaa93b6"
   },
@@ -14,5 +14,8 @@
   },
   "newgrounds/jacklehamster/medusa-cutscene8.png": {
     "sha": "611f97223737001ab9b1535856019272424833d2"
+  },
+  "newgrounds/jacklehamster/medusa-cutscene9.png": {
+    "sha": "1b9fdeeadb39eb3fd75b8c5142e78950e29aeaf1"
   }
 }
