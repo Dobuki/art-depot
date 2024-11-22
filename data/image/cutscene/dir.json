@@ -74,6 +74,9 @@
   "images/460b6e74-33d8-4ce0-ab3c-05f63da5609d/newgrounds/jacklehamster/medusa-cutscene3.png": {
     "sha": "9d468e38c26dfc5984b3f69e06f04eb819d7a8f2"
   },
+  "images/460b6e74-33d8-4ce0-ab3c-05f63da5609d/newgrounds/jacklehamster/medusa-cutscene4.png": {
+    "sha": "d8ee63055acc88f17ac44d7bcc58e136ceaa93b6"
+  },
   "images/5576225f-71a0-4682-bf53-3a4b8e573d43/default/user/mTyko5.png": {
     "sha": "c2b911ef263935a070f08f9dc2f19f073bbe1d50"
   },
@@ -251,5 +254,5 @@
   "images/unknown/unknown/dobuki.png": {
     "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
   },
-  "md5": "f558c11a04498d8990a5b4a7df9d5f4c"
+  "md5": "a06a34f7c8b98bba5b0c9b6af3fc8a38"
 }
