@@ -1,5 +1,5 @@
 {
-  "md5": "e4d27128cdbf9759dd8248c8b88639d8",
+  "md5": "401bc4987b8df017dbfaf6f23d2ad102",
   "medusa-cutscene4.png": {
     "sha": "d8ee63055acc88f17ac44d7bcc58e136ceaa93b6"
   },
@@ -8,5 +8,8 @@
   },
   "medusa-cutscene6.png": {
     "sha": "396a23aeb6c47134e6a7df72f69c2c23e8ff147c"
+  },
+  "medusa-cutscene7.png": {
+    "sha": "077787b214eb362a0c9c9fe82490fa3703168b6f"
   }
 }
