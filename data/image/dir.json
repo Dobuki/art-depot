@@ -71,6 +71,9 @@
   "cutscene/images/460b6e74-33d8-4ce0-ab3c-05f63da5609d/newgrounds/jacklehamster/medusa-cutscene2.png": {
     "sha": "e6c62c698a1c9a04aaadbbbe972908d141f98eb8"
   },
+  "cutscene/images/460b6e74-33d8-4ce0-ab3c-05f63da5609d/newgrounds/jacklehamster/medusa-cutscene3.png": {
+    "sha": "9d468e38c26dfc5984b3f69e06f04eb819d7a8f2"
+  },
   "cutscene/images/5576225f-71a0-4682-bf53-3a4b8e573d43/default/user/mTyko5.png": {
     "sha": "c2b911ef263935a070f08f9dc2f19f073bbe1d50"
   },
@@ -263,7 +266,7 @@
   "example/subgroup/dobuki-logo.png": {
     "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
   },
-  "md5": "6129919a58222cc2677b9dee015fbbd4",
+  "md5": "f9e261ce9edd979311f8fb227468240e",
   "power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/inn.png": {
     "sha": "0ee88b0cc3456dcbcef258ca9272448d9c00e028"
   },
