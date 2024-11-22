@@ -12,6 +12,9 @@
     "images/042c78ad-804f-4fca-81f1-19d1bc5aa72d/default/user/maxresdefault (55).jpg": {
       "sha": "5b747ea95b692b1d45528351c382794140951f82"
     },
+    "images/043e629a-3adb-4073-be3d-f82207e40dff/newgrounds/jacklehamster/medusa-cutscene10.png": {
+      "sha": "9e5b1e3d6f91462871177cd0cdee6bea2bbd1769"
+    },
     "images/043e629a-3adb-4073-be3d-f82207e40dff/newgrounds/jacklehamster/medusa-cutscene4.png": {
       "sha": "d8ee63055acc88f17ac44d7bcc58e136ceaa93b6"
     },
@@ -273,7 +276,7 @@
     "images/unknown/unknown/dobuki.png": {
       "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
     },
-    "md5": "0c7e7a8c24f2dedbaa949bea457f0713"
+    "md5": "d1bfa18972a55c49ad354510251094ab"
   },
   "/data/image/cutscene/images/042c78ad-804f-4fca-81f1-19d1bc5aa72d/default/dir.json": {
     "md5": "7606570528b4e92d2cc9ce83ef0e5745",
@@ -321,7 +324,10 @@
     "md5": "c85ae75f0f011fb215790118dbf60f7a"
   },
   "/data/image/cutscene/images/043e629a-3adb-4073-be3d-f82207e40dff/dir.json": {
-    "md5": "e6c90799b0f08d0635f1628f9cab8784",
+    "md5": "f106ffa6d23d78b70b007655a1d983f8",
+    "newgrounds/jacklehamster/medusa-cutscene10.png": {
+      "sha": "9e5b1e3d6f91462871177cd0cdee6bea2bbd1769"
+    },
     "newgrounds/jacklehamster/medusa-cutscene4.png": {
       "sha": "d8ee63055acc88f17ac44d7bcc58e136ceaa93b6"
     },
@@ -342,6 +348,9 @@
     }
   },
   "/data/image/cutscene/images/043e629a-3adb-4073-be3d-f82207e40dff/newgrounds/dir.json": {
+    "jacklehamster/medusa-cutscene10.png": {
+      "sha": "9e5b1e3d6f91462871177cd0cdee6bea2bbd1769"
+    },
     "jacklehamster/medusa-cutscene4.png": {
       "sha": "d8ee63055acc88f17ac44d7bcc58e136ceaa93b6"
     },
@@ -360,10 +369,13 @@
     "jacklehamster/medusa-cutscene9.png": {
       "sha": "1b9fdeeadb39eb3fd75b8c5142e78950e29aeaf1"
     },
-    "md5": "81c97c5e9f1792ecc1e143d223883f0b"
+    "md5": "ee442406f4434135ad276ce6f2966b8a"
   },
   "/data/image/cutscene/images/043e629a-3adb-4073-be3d-f82207e40dff/newgrounds/jacklehamster/dir.json": {
-    "md5": "0a0ee96d75767bcf4c0b13aa54a222bb",
+    "md5": "16ade73ae7cf494b65a87a7f378d1e63",
+    "medusa-cutscene10.png": {
+      "sha": "9e5b1e3d6f91462871177cd0cdee6bea2bbd1769"
+    },
     "medusa-cutscene4.png": {
       "sha": "d8ee63055acc88f17ac44d7bcc58e136ceaa93b6"
     },
@@ -993,6 +1005,9 @@
     "042c78ad-804f-4fca-81f1-19d1bc5aa72d/default/user/maxresdefault (55).jpg": {
       "sha": "5b747ea95b692b1d45528351c382794140951f82"
     },
+    "043e629a-3adb-4073-be3d-f82207e40dff/newgrounds/jacklehamster/medusa-cutscene10.png": {
+      "sha": "9e5b1e3d6f91462871177cd0cdee6bea2bbd1769"
+    },
     "043e629a-3adb-4073-be3d-f82207e40dff/newgrounds/jacklehamster/medusa-cutscene4.png": {
       "sha": "d8ee63055acc88f17ac44d7bcc58e136ceaa93b6"
     },
@@ -1206,7 +1221,7 @@
     "f5f2e5ee-b746-498d-b802-ee6bb18e8dd2/default/user/1730920406958.jpg": {
       "sha": "7d4a26b929526d866d287a15a6be2c72a935557c"
     },
-    "md5": "71a0f41343c641c022587475f97c7fdc",
+    "md5": "bf33f46cd5251a1dd89efee43cddd741",
     "newgrounds/jacklehamster/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
       "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
     },
@@ -1466,6 +1481,9 @@
     },
     "cutscene/images/042c78ad-804f-4fca-81f1-19d1bc5aa72d/default/user/maxresdefault (55).jpg": {
       "sha": "5b747ea95b692b1d45528351c382794140951f82"
+    },
+    "cutscene/images/043e629a-3adb-4073-be3d-f82207e40dff/newgrounds/jacklehamster/medusa-cutscene10.png": {
+      "sha": "9e5b1e3d6f91462871177cd0cdee6bea2bbd1769"
     },
     "cutscene/images/043e629a-3adb-4073-be3d-f82207e40dff/newgrounds/jacklehamster/medusa-cutscene4.png": {
       "sha": "d8ee63055acc88f17ac44d7bcc58e136ceaa93b6"
@@ -1743,7 +1761,7 @@
     "example/subgroup/dobuki-logo.png": {
       "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
     },
-    "md5": "e62ae6dbb2d169690ccbd02838b78abf",
+    "md5": "56003360a82655d7477e17d2988220a9",
     "power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/inn.png": {
       "sha": "0ee88b0cc3456dcbcef258ca9272448d9c00e028"
     },
