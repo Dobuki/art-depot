@@ -1,5 +1,5 @@
 {
-  "md5": "e61c38aa656a63dc6c7851e8b3045fa7",
+  "md5": "a05daa792325ba717c34697529e0e84a",
   "troll-inn1.png": {
     "sha": "36f117ce2766c9e4c464c4542624bf228ba4b541"
   },
@@ -20,6 +20,9 @@
   },
   "troll-inn16.png": {
     "sha": "86212a8a3a6fafa39435cd62156ba6bca0edc7c3"
+  },
+  "troll-inn18.png": {
+    "sha": "8fffc7fb5169f5a276999d78c9875ccd231f986f"
   },
   "troll-inn2.png": {
     "sha": "af26ea39d28cebff8e17b567307f75d25c4d2a6f"
