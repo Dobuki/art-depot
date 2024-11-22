@@ -66,6 +66,9 @@
     "images/4448755c-b02a-4250-943d-7ef81215fc64/newgrounds/jacklehamster/bossworm-cutscene4.png": {
       "sha": "50b8b184c9e491dbed88f0d2c27e78ec6cb02ed8"
     },
+    "images/460b6e74-33d8-4ce0-ab3c-05f63da5609d/newgrounds/jacklehamster/medusa-cutscene1.png": {
+      "sha": "f31c9e37bebf571d86a00a27c5d6e2ae55a3e04e"
+    },
     "images/5576225f-71a0-4682-bf53-3a4b8e573d43/default/user/mTyko5.png": {
       "sha": "c2b911ef263935a070f08f9dc2f19f073bbe1d50"
     },
@@ -243,7 +246,7 @@
     "images/unknown/unknown/dobuki.png": {
       "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
     },
-    "md5": "70e0c0efb8acf4274d8d58d2caa4670d"
+    "md5": "7f42f61ab84b3d3a65f8f7c4414141a0"
   },
   "/data/image/cutscene/images/042c78ad-804f-4fca-81f1-19d1bc5aa72d/default/dir.json": {
     "md5": "7606570528b4e92d2cc9ce83ef0e5745",
@@ -496,6 +499,24 @@
       "sha": "50b8b184c9e491dbed88f0d2c27e78ec6cb02ed8"
     },
     "md5": "f61c5fc7f19803959cc6ceab1cadea18"
+  },
+  "/data/image/cutscene/images/460b6e74-33d8-4ce0-ab3c-05f63da5609d/dir.json": {
+    "md5": "b0585535142eee481f6c002bcab82b2b",
+    "newgrounds/jacklehamster/medusa-cutscene1.png": {
+      "sha": "f31c9e37bebf571d86a00a27c5d6e2ae55a3e04e"
+    }
+  },
+  "/data/image/cutscene/images/460b6e74-33d8-4ce0-ab3c-05f63da5609d/newgrounds/dir.json": {
+    "jacklehamster/medusa-cutscene1.png": {
+      "sha": "f31c9e37bebf571d86a00a27c5d6e2ae55a3e04e"
+    },
+    "md5": "3395e84de9aa5f99c3c0d7681789961a"
+  },
+  "/data/image/cutscene/images/460b6e74-33d8-4ce0-ab3c-05f63da5609d/newgrounds/jacklehamster/dir.json": {
+    "md5": "7345fc272999424d14f78692562e87bb",
+    "medusa-cutscene1.png": {
+      "sha": "f31c9e37bebf571d86a00a27c5d6e2ae55a3e04e"
+    }
   },
   "/data/image/cutscene/images/5576225f-71a0-4682-bf53-3a4b8e573d43/default/dir.json": {
     "md5": "d242317eebbc8407e2da4618c3fa0dc9",
@@ -909,6 +930,9 @@
     "4448755c-b02a-4250-943d-7ef81215fc64/newgrounds/jacklehamster/bossworm-cutscene4.png": {
       "sha": "50b8b184c9e491dbed88f0d2c27e78ec6cb02ed8"
     },
+    "460b6e74-33d8-4ce0-ab3c-05f63da5609d/newgrounds/jacklehamster/medusa-cutscene1.png": {
+      "sha": "f31c9e37bebf571d86a00a27c5d6e2ae55a3e04e"
+    },
     "5576225f-71a0-4682-bf53-3a4b8e573d43/default/user/mTyko5.png": {
       "sha": "c2b911ef263935a070f08f9dc2f19f073bbe1d50"
     },
@@ -1038,7 +1062,7 @@
     "f5f2e5ee-b746-498d-b802-ee6bb18e8dd2/default/user/1730920406958.jpg": {
       "sha": "7d4a26b929526d866d287a15a6be2c72a935557c"
     },
-    "md5": "4b1972f09eca46cd5c3e262bff0d82fb",
+    "md5": "015dcb59f89c1698e160bf21f325543d",
     "newgrounds/jacklehamster/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
       "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
     },
@@ -1353,6 +1377,9 @@
     "cutscene/images/4448755c-b02a-4250-943d-7ef81215fc64/newgrounds/jacklehamster/bossworm-cutscene4.png": {
       "sha": "50b8b184c9e491dbed88f0d2c27e78ec6cb02ed8"
     },
+    "cutscene/images/460b6e74-33d8-4ce0-ab3c-05f63da5609d/newgrounds/jacklehamster/medusa-cutscene1.png": {
+      "sha": "f31c9e37bebf571d86a00a27c5d6e2ae55a3e04e"
+    },
     "cutscene/images/5576225f-71a0-4682-bf53-3a4b8e573d43/default/user/mTyko5.png": {
       "sha": "c2b911ef263935a070f08f9dc2f19f073bbe1d50"
     },
@@ -1545,7 +1572,7 @@
     "example/subgroup/dobuki-logo.png": {
       "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
     },
-    "md5": "0974dcb6cf1ace4514df22e75f6d3fa2",
+    "md5": "6fb3a87c20b5d367a6b699e0e295bbe7",
     "power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/inn.png": {
       "sha": "0ee88b0cc3456dcbcef258ca9272448d9c00e028"
     },
