@@ -1,5 +1,5 @@
 {
-  "md5": "6f276899537fb58727ce6ad8cfd67448",
+  "md5": "37d146cab8a89dd0da8179b421cab72a",
   "newgrounds/jacklehamster/troll-inn1.png": {
     "sha": "36f117ce2766c9e4c464c4542624bf228ba4b541"
   },
@@ -53,5 +53,8 @@
   },
   "newgrounds/jacklehamster/village-burning1.png": {
     "sha": "6d00405a0dd81960fad3e5f43d5d1a667522fca2"
+  },
+  "newgrounds/jacklehamster/village-burning2.png": {
+    "sha": "7ec9340ada5df567cf09177aa4522f56f9475b4c"
   }
 }
