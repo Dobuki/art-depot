@@ -1,5 +1,5 @@
 {
-  "md5": "41d1dfb22043f90ee99b430cf2a8f1ed",
+  "md5": "4582cb24d1589896d970b5299cfce6a7",
   "troll-inn1.png": {
     "sha": "36f117ce2766c9e4c464c4542624bf228ba4b541"
   },
@@ -50,5 +50,8 @@
   },
   "troll-inn9.png": {
     "sha": "f18732daf2eab6877ca2c654e9d09d0182dc082d"
+  },
+  "village-burning1.png": {
+    "sha": "6d00405a0dd81960fad3e5f43d5d1a667522fca2"
   }
 }
