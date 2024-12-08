@@ -1,5 +1,5 @@
 {
-  "md5": "722194011a694812bd0ee4b6a84387d5",
+  "md5": "3fb52e2618ea80cd5cfadca97d68f288",
   "user/1.png": {
     "sha": "476bd67b6b76e91818a7fbeb750817ddea69bc82"
   },
@@ -8,5 +8,8 @@
   },
   "user/3.png": {
     "sha": "5ed3aecbd1a3e72144e9c5b59c2c4590fc7e864f"
+  },
+  "user/4.png": {
+    "sha": "eae62f26ca8d80a3947d6e69f6fade2ae5fb66d9"
   }
 }
