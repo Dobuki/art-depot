@@ -45,6 +45,9 @@
     "images/08d1065b-1394-4aac-bbbf-3283dcc75ced/default/user/4.png": {
       "sha": "eae62f26ca8d80a3947d6e69f6fade2ae5fb66d9"
     },
+    "images/08d1065b-1394-4aac-bbbf-3283dcc75ced/default/user/Untitled design.png": {
+      "sha": "0f21b80fe8bff0de98dae58a37b2c9b267aa1471"
+    },
     "images/0932738c-2e5f-44cf-9797-e9cebfb378f3/newgrounds/jacklehamster/troll-inn1.png": {
       "sha": "36f117ce2766c9e4c464c4542624bf228ba4b541"
     },
@@ -309,7 +312,7 @@
     "images/unknown/unknown/dobuki.png": {
       "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
     },
-    "md5": "aa164eb39a235293f64fbb8be8f22697"
+    "md5": "0081a16e7d76550161b9b25818882cdb"
   },
   "/data/image/cutscene/images/042c78ad-804f-4fca-81f1-19d1bc5aa72d/default/dir.json": {
     "md5": "7606570528b4e92d2cc9ce83ef0e5745",
@@ -429,7 +432,7 @@
     }
   },
   "/data/image/cutscene/images/08d1065b-1394-4aac-bbbf-3283dcc75ced/default/dir.json": {
-    "md5": "3fb52e2618ea80cd5cfadca97d68f288",
+    "md5": "860240690c9d8cbc0057a8236f7f0cf8",
     "user/1.png": {
       "sha": "476bd67b6b76e91818a7fbeb750817ddea69bc82"
     },
@@ -441,6 +444,9 @@
     },
     "user/4.png": {
       "sha": "eae62f26ca8d80a3947d6e69f6fade2ae5fb66d9"
+    },
+    "user/Untitled design.png": {
+      "sha": "0f21b80fe8bff0de98dae58a37b2c9b267aa1471"
     }
   },
   "/data/image/cutscene/images/08d1065b-1394-4aac-bbbf-3283dcc75ced/default/user/dir.json": {
@@ -456,7 +462,10 @@
     "4.png": {
       "sha": "eae62f26ca8d80a3947d6e69f6fade2ae5fb66d9"
     },
-    "md5": "584dc0d4598b7af76fa46c950b5d29ca"
+    "Untitled design.png": {
+      "sha": "0f21b80fe8bff0de98dae58a37b2c9b267aa1471"
+    },
+    "md5": "09fb08b66b48cd443713cd44b5c708ca"
   },
   "/data/image/cutscene/images/08d1065b-1394-4aac-bbbf-3283dcc75ced/dir.json": {
     "default/user/1.png": {
@@ -471,7 +480,10 @@
     "default/user/4.png": {
       "sha": "eae62f26ca8d80a3947d6e69f6fade2ae5fb66d9"
     },
-    "md5": "1fa103adedeb49654f89cb1d9f1544e7"
+    "default/user/Untitled design.png": {
+      "sha": "0f21b80fe8bff0de98dae58a37b2c9b267aa1471"
+    },
+    "md5": "fd9fcbb1012ee76027e0dd1e714aa6f2"
   },
   "/data/image/cutscene/images/0932738c-2e5f-44cf-9797-e9cebfb378f3/dir.json": {
     "md5": "37d146cab8a89dd0da8179b421cab72a",
@@ -1161,6 +1173,9 @@
     "08d1065b-1394-4aac-bbbf-3283dcc75ced/default/user/4.png": {
       "sha": "eae62f26ca8d80a3947d6e69f6fade2ae5fb66d9"
     },
+    "08d1065b-1394-4aac-bbbf-3283dcc75ced/default/user/Untitled design.png": {
+      "sha": "0f21b80fe8bff0de98dae58a37b2c9b267aa1471"
+    },
     "0932738c-2e5f-44cf-9797-e9cebfb378f3/newgrounds/jacklehamster/troll-inn1.png": {
       "sha": "36f117ce2766c9e4c464c4542624bf228ba4b541"
     },
@@ -1377,7 +1392,7 @@
     "fabc5f22-c1c8-4d7c-8c60-6ad7cc41af0f/newgrounds/jacklehamster/cut12.png": {
       "sha": "43996854223cdc5c7b56e6fe9653af16d64c15ae"
     },
-    "md5": "7d371842ef1caa54f2292d6db0e278b0",
+    "md5": "b34fd962628f8554834e8b6ab894b006",
     "newgrounds/jacklehamster/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
       "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
     },
@@ -1698,6 +1713,9 @@
     "cutscene/images/08d1065b-1394-4aac-bbbf-3283dcc75ced/default/user/4.png": {
       "sha": "eae62f26ca8d80a3947d6e69f6fade2ae5fb66d9"
     },
+    "cutscene/images/08d1065b-1394-4aac-bbbf-3283dcc75ced/default/user/Untitled design.png": {
+      "sha": "0f21b80fe8bff0de98dae58a37b2c9b267aa1471"
+    },
     "cutscene/images/0932738c-2e5f-44cf-9797-e9cebfb378f3/newgrounds/jacklehamster/troll-inn1.png": {
       "sha": "36f117ce2766c9e4c464c4542624bf228ba4b541"
     },
@@ -1977,7 +1995,7 @@
     "example/subgroup/dobuki-logo.png": {
       "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
     },
-    "md5": "d5dbea5224722dc10aab4d6f14590cc1",
+    "md5": "4169b9828354048cd0c8cb6d45cf763b",
     "power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/inn.png": {
       "sha": "0ee88b0cc3456dcbcef258ca9272448d9c00e028"
     },

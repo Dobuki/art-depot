@@ -1,5 +1,5 @@
 {
-  "md5": "3fb52e2618ea80cd5cfadca97d68f288",
+  "md5": "860240690c9d8cbc0057a8236f7f0cf8",
   "user/1.png": {
     "sha": "476bd67b6b76e91818a7fbeb750817ddea69bc82"
   },
@@ -11,5 +11,8 @@
   },
   "user/4.png": {
     "sha": "eae62f26ca8d80a3947d6e69f6fade2ae5fb66d9"
+  },
+  "user/Untitled design.png": {
+    "sha": "0f21b80fe8bff0de98dae58a37b2c9b267aa1471"
   }
 }
