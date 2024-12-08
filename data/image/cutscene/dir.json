@@ -32,6 +32,9 @@
   "images/043e629a-3adb-4073-be3d-f82207e40dff/newgrounds/jacklehamster/medusa-cutscene9.png": {
     "sha": "29cc3924e3809b99ea92a62d5c70cde50319db1c"
   },
+  "images/08d1065b-1394-4aac-bbbf-3283dcc75ced/default/user/1.png": {
+    "sha": "476bd67b6b76e91818a7fbeb750817ddea69bc82"
+  },
   "images/0932738c-2e5f-44cf-9797-e9cebfb378f3/newgrounds/jacklehamster/troll-inn1.png": {
     "sha": "36f117ce2766c9e4c464c4542624bf228ba4b541"
   },
@@ -296,5 +299,5 @@
   "images/unknown/unknown/dobuki.png": {
     "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
   },
-  "md5": "022c1d3939a963007ff6d3a43c440dfa"
+  "md5": "9ed3b42d1e0f744f16e1e6ff72a303c6"
 }
