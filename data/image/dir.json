@@ -47,6 +47,9 @@
   "cutscene/images/08d1065b-1394-4aac-bbbf-3283dcc75ced/default/user/Untitled design.png": {
     "sha": "0f21b80fe8bff0de98dae58a37b2c9b267aa1471"
   },
+  "cutscene/images/08d1065b-1394-4aac-bbbf-3283dcc75ced/default/user/old-black-background-grunge-texture-dark-wallpaper-blackboard-chalkboard-room-wall-free-photo.jpg": {
+    "sha": "5afef4166b4bdc8b1ccca4174766992c46426cdd"
+  },
   "cutscene/images/0932738c-2e5f-44cf-9797-e9cebfb378f3/newgrounds/jacklehamster/troll-inn1.png": {
     "sha": "36f117ce2766c9e4c464c4542624bf228ba4b541"
   },
@@ -326,7 +329,7 @@
   "example/subgroup/dobuki-logo.png": {
     "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
   },
-  "md5": "4169b9828354048cd0c8cb6d45cf763b",
+  "md5": "577430444b8a49896ccd0e25ef3a6efe",
   "power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/inn.png": {
     "sha": "0ee88b0cc3456dcbcef258ca9272448d9c00e028"
   },
