@@ -1,9 +1,12 @@
 {
-  "md5": "7f5118cf99e88a06395766679d950352",
+  "md5": "722194011a694812bd0ee4b6a84387d5",
   "user/1.png": {
     "sha": "476bd67b6b76e91818a7fbeb750817ddea69bc82"
   },
   "user/2.png": {
     "sha": "67ad589c7d1f787ef7f3d2813b0b7cf86e3ba384"
+  },
+  "user/3.png": {
+    "sha": "5ed3aecbd1a3e72144e9c5b59c2c4590fc7e864f"
   }
 }
