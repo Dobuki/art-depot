@@ -269,6 +269,9 @@
   "cutscene/images/fabc5f22-c1c8-4d7c-8c60-6ad7cc41af0f/newgrounds/jacklehamster/cut12.png": {
     "sha": "43996854223cdc5c7b56e6fe9653af16d64c15ae"
   },
+  "cutscene/images/fda8036d-650f-4409-a154-d1ba61667c35/default/user/101gamechallenge.png": {
+    "sha": "929e24423c13363ac66a812fc66a56a3fd25f594"
+  },
   "cutscene/images/newgrounds/jacklehamster/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
     "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
   },
@@ -332,7 +335,7 @@
   "example/subgroup/dobuki-logo.png": {
     "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
   },
-  "md5": "2707c84baae03ee6e1dc078328babc2a",
+  "md5": "6c8780fe7b37a32d4f66063e9f789809",
   "power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/inn.png": {
     "sha": "0ee88b0cc3456dcbcef258ca9272448d9c00e028"
   },
