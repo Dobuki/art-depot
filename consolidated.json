@@ -141,6 +141,9 @@
     "images/5576225f-71a0-4682-bf53-3a4b8e573d43/default/user/the-terror-of-mongolia-v0-sb-uz-j4Dz1QwJsNwN2N3vGl4cex59mhB2QGvfyeYsQ.png": {
       "sha": "174b2659399d8e9c3d2ad6ab574361c946593e57"
     },
+    "images/5af2f7e0-b482-4007-ab9d-241d65b2c7ae/default/user/Icon_Weapons_SK_RPG7_L.png": {
+      "sha": "37896dc944f957bec78653ab3e0d11fffd1587fb"
+    },
     "images/5b87fbf0-760d-4837-80b4-3b6ba07f467a/default/user/1000000612.jpg": {
       "sha": "0fc7cf6b68b95febb8ac403040aaff20f781be3a"
     },
@@ -324,7 +327,7 @@
     "images/unknown/unknown/dobuki.png": {
       "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
     },
-    "md5": "6d46dfdcc5182cf8981e8a8718060ee4"
+    "md5": "9a775968df358cbfdd62a18b635b84f3"
   },
   "/data/image/cutscene/images/042c78ad-804f-4fca-81f1-19d1bc5aa72d/default/dir.json": {
     "md5": "7606570528b4e92d2cc9ce83ef0e5745",
@@ -839,6 +842,24 @@
     },
     "md5": "7bcf638cd874fbf5a6bdb3ef5ca1c2c6"
   },
+  "/data/image/cutscene/images/5af2f7e0-b482-4007-ab9d-241d65b2c7ae/default/dir.json": {
+    "md5": "f082f03844c98daa80c0cd1ff1e087df",
+    "user/Icon_Weapons_SK_RPG7_L.png": {
+      "sha": "37896dc944f957bec78653ab3e0d11fffd1587fb"
+    }
+  },
+  "/data/image/cutscene/images/5af2f7e0-b482-4007-ab9d-241d65b2c7ae/default/user/dir.json": {
+    "Icon_Weapons_SK_RPG7_L.png": {
+      "sha": "37896dc944f957bec78653ab3e0d11fffd1587fb"
+    },
+    "md5": "283a684f3f50a82dab32dacee1e13d37"
+  },
+  "/data/image/cutscene/images/5af2f7e0-b482-4007-ab9d-241d65b2c7ae/dir.json": {
+    "default/user/Icon_Weapons_SK_RPG7_L.png": {
+      "sha": "37896dc944f957bec78653ab3e0d11fffd1587fb"
+    },
+    "md5": "28c1827304afbbb46ac1b78181603cee"
+  },
   "/data/image/cutscene/images/5b87fbf0-760d-4837-80b4-3b6ba07f467a/default/dir.json": {
     "md5": "f158f4f4fd1558622af1532c15aba34a",
     "user/1000000612.jpg": {
@@ -1299,6 +1320,9 @@
     "5576225f-71a0-4682-bf53-3a4b8e573d43/default/user/the-terror-of-mongolia-v0-sb-uz-j4Dz1QwJsNwN2N3vGl4cex59mhB2QGvfyeYsQ.png": {
       "sha": "174b2659399d8e9c3d2ad6ab574361c946593e57"
     },
+    "5af2f7e0-b482-4007-ab9d-241d65b2c7ae/default/user/Icon_Weapons_SK_RPG7_L.png": {
+      "sha": "37896dc944f957bec78653ab3e0d11fffd1587fb"
+    },
     "5b87fbf0-760d-4837-80b4-3b6ba07f467a/default/user/1000000612.jpg": {
       "sha": "0fc7cf6b68b95febb8ac403040aaff20f781be3a"
     },
@@ -1434,7 +1458,7 @@
     "fda8036d-650f-4409-a154-d1ba61667c35/default/user/banksy_egg.png": {
       "sha": "f05f5b50b71f53648c1c2d51cbfda2fd3f552f9b"
     },
-    "md5": "ef8e5554ec9bbb6367c744049d62f891",
+    "md5": "f874a2873262afd5556d4450839f9844",
     "newgrounds/jacklehamster/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
       "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
     },
@@ -1878,6 +1902,9 @@
     "cutscene/images/5576225f-71a0-4682-bf53-3a4b8e573d43/default/user/the-terror-of-mongolia-v0-sb-uz-j4Dz1QwJsNwN2N3vGl4cex59mhB2QGvfyeYsQ.png": {
       "sha": "174b2659399d8e9c3d2ad6ab574361c946593e57"
     },
+    "cutscene/images/5af2f7e0-b482-4007-ab9d-241d65b2c7ae/default/user/Icon_Weapons_SK_RPG7_L.png": {
+      "sha": "37896dc944f957bec78653ab3e0d11fffd1587fb"
+    },
     "cutscene/images/5b87fbf0-760d-4837-80b4-3b6ba07f467a/default/user/1000000612.jpg": {
       "sha": "0fc7cf6b68b95febb8ac403040aaff20f781be3a"
     },
@@ -2076,7 +2103,7 @@
     "example/subgroup/dobuki-logo.png": {
       "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
     },
-    "md5": "00479e2eb327ee844c63793953166b4e",
+    "md5": "a52f93ed2735e048283b7274118e3e2f",
     "power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/inn.png": {
       "sha": "0ee88b0cc3456dcbcef258ca9272448d9c00e028"
     },
