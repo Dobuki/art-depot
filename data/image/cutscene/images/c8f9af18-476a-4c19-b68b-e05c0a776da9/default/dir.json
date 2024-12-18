@@ -1,9 +1,12 @@
 {
-  "md5": "c3eb16780a4549559bbd92064a6aa7b9",
+  "md5": "b6b1fb53d0db8473ace79e19a92bdd61",
   "user/Frame 1.jpg": {
     "sha": "0ed8f3c65bcf354ea1ae3cedac3770aa51fbd485"
   },
   "user/Frame 2.jpg": {
     "sha": "448515b598c75a3f19e3783a5de266f0ad463ece"
+  },
+  "user/Frame 3.jpg": {
+    "sha": "4c0fc1cb54f8f422a4a6489ab772e8d68202e451"
   }
 }
