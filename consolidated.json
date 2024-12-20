@@ -1,4 +1,55 @@
 {
+  "/aseprite/santa-mov/dir.json": {
+    "md5": "5642e252099b29421a7ff1892558725c",
+    "santa1.png": {
+      "sha": "35fd75f44282fe4a113453c219cd8905d2a1f893"
+    },
+    "santa10.png": {
+      "sha": "b24269a659a871e8f0ec6542895b31444dfeb7c3"
+    },
+    "santa11.png": {
+      "sha": "ccef320d49ae7c824a786c664cde59997f6e514d"
+    },
+    "santa12.png": {
+      "sha": "d40e6528aef11d971bad80f40bae7b85b29730aa"
+    },
+    "santa13.png": {
+      "sha": "76b5b29aa9717fe6fa91e56943843056316c01f9"
+    },
+    "santa14.png": {
+      "sha": "7a73bc08cc192e09c94c8d17246dc9e932afe813"
+    },
+    "santa15.png": {
+      "sha": "5057407cf91a5c800d3404684b484eb495856027"
+    },
+    "santa16.png": {
+      "sha": "cd216c0ca12c2de7699fa213794512aacd6c652f"
+    },
+    "santa2.png": {
+      "sha": "10b050d73e3721c288fb5068a7511f627755cdb5"
+    },
+    "santa3.png": {
+      "sha": "965fe7346236fb0552dd6b76c6cad80fc20beb37"
+    },
+    "santa4.png": {
+      "sha": "d0c22bcc994fa516475f033ead9973d71db69442"
+    },
+    "santa5.png": {
+      "sha": "85e918314454f56937583332d083a0a639e08aec"
+    },
+    "santa6.png": {
+      "sha": "50f68ff5f8e208a23c6a8f67e704664c84ab5456"
+    },
+    "santa7.png": {
+      "sha": "65afa1149741b7814b2fd542473099f82104a33d"
+    },
+    "santa8.png": {
+      "sha": "39104ffad11a5e1858187c9c13bd778e59a9b2fe"
+    },
+    "santa9.png": {
+      "sha": "4c5aa07e24817bcef9f14d57bd14447aa6c6a688"
+    }
+  },
   "/data/image/cutscene/dir.json": {
     "images/042c78ad-804f-4fca-81f1-19d1bc5aa72d/default/user/JOiEy9.png": {
       "sha": "c76f1f9ca31de9582617c82e83dc97c3af659449"
