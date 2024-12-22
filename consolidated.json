@@ -1,6 +1,9 @@
 {
-  "/aseprite/santa-mov/dir.json": {
-    "md5": "5642e252099b29421a7ff1892558725c",
+  "/aseprite/elephant-giraffe-dog/dir.json": {
+    "aspose_video.mov": {
+      "sha": "00ec5a9598ed3d9c4693ba014575f3ef68a144a9"
+    },
+    "md5": "43f89e45f80fe8d36b15f4b8e25e8e94",
     "santa1.png": {
       "sha": "35fd75f44282fe4a113453c219cd8905d2a1f893"
     },
@@ -48,6 +51,378 @@
     },
     "santa9.png": {
       "sha": "4c5aa07e24817bcef9f14d57bd14447aa6c6a688"
+    }
+  },
+  "/aseprite/elephant-giraffe-lion/dir.json": {
+    "aspose_video.mov": {
+      "sha": "33c0a5c535f9a05c4c4cedf169addf16615de60d"
+    },
+    "md5": "465a3afb7e8cc1f6c92a71014ec25526",
+    "santa1.png": {
+      "sha": "603d04272ce1fa17e6feb29c57ef940485200246"
+    },
+    "santa10.png": {
+      "sha": "a848f46c96a69f4eb3ab298d27236b71565e4478"
+    },
+    "santa11.png": {
+      "sha": "7863efdddc1564ed30615a1698be9a7d8cb208a3"
+    },
+    "santa12.png": {
+      "sha": "4a695dc36cbad2530a537bb624d5a6acf140a52b"
+    },
+    "santa13.png": {
+      "sha": "154414128f33eff6313ff27704fc0d46ef1dc6e4"
+    },
+    "santa14.png": {
+      "sha": "bb1367713bef2ed9020cc9c453fb328e360064b8"
+    },
+    "santa15.png": {
+      "sha": "feee38181b1d571a71b4142e183a8b3c1fb06864"
+    },
+    "santa16.png": {
+      "sha": "6fbc9ace0951d5d9e600cfcc1219d75c16df5f36"
+    },
+    "santa2.png": {
+      "sha": "a5ad79454b8a4147c1424d7b970a94d670f0929c"
+    },
+    "santa3.png": {
+      "sha": "9808153e497a1df9eae243e7e0e30681e9067022"
+    },
+    "santa4.png": {
+      "sha": "54e6aeef46ee41719d801efee740740c93c45fc6"
+    },
+    "santa5.png": {
+      "sha": "f7e2bd72ffdcb61e5ac3b27436f97b5d22df783f"
+    },
+    "santa6.png": {
+      "sha": "ff24bbcebd8c9216c86d82045191d7bb6e19ba60"
+    },
+    "santa7.png": {
+      "sha": "18a1042b5fc0c0bf4f481347b970605c18e43e3e"
+    },
+    "santa8.png": {
+      "sha": "bedfc829243537677d75925ad012493bf80230e0"
+    },
+    "santa9.png": {
+      "sha": "fde0a28add9571377d304fe8f330e005e433cbb5"
+    }
+  },
+  "/aseprite/elephant-horse-dog/dir.json": {
+    "360_F_606780703_RyUJo6phNKaTvpSEsS7QHppRJNjR4Czw.webp": {
+      "sha": "110e32c972231009c6efa3f90f355ae3c1b1e0de"
+    },
+    "aspose_video.mov": {
+      "sha": "62a9617856a832984238fb6476e26cdd1fd64607"
+    },
+    "md5": "3224119abe0ab8230391e38e9c15d309",
+    "santa1.png": {
+      "sha": "1bac57ff862fda6b5f340a36b2e4aaaf71eaf024"
+    },
+    "santa10.png": {
+      "sha": "ca9a74151a546f6e32faf3fd7b0b56bccdbad172"
+    },
+    "santa11.png": {
+      "sha": "7c5aa68a92c063178b59cb8ed0a6eb73125e0dfd"
+    },
+    "santa12.png": {
+      "sha": "4e4b2a5b31b13d4c6eacdbfb3ab2ad400b60d3cd"
+    },
+    "santa13.png": {
+      "sha": "d492eafce11079d4af84a62edb6a0e241bce93a1"
+    },
+    "santa14.png": {
+      "sha": "9a8a996176523e848b63feff141f610ee3894e64"
+    },
+    "santa15.png": {
+      "sha": "752a0dd519d69b043c1d276273a368e41aaeea6d"
+    },
+    "santa16.png": {
+      "sha": "78763819c210a856ba5c4047c131f40a6823a329"
+    },
+    "santa2.png": {
+      "sha": "43b4587d4a638534477ae4137f054eb876d629f2"
+    },
+    "santa3.png": {
+      "sha": "e3777e111f5aff382791b3a7a9d1f0d235efb454"
+    },
+    "santa4.png": {
+      "sha": "57fd8e1396705c83ae3e1a33a539d2d4fafdb33e"
+    },
+    "santa5.png": {
+      "sha": "564254deaada85a0a5e5aff665bdd8048327744b"
+    },
+    "santa6.png": {
+      "sha": "cf4d1e88ab40bdd4d1c52791ba416f2daf225acd"
+    },
+    "santa7.png": {
+      "sha": "c649dfb93c8dad33e63867fdc426cf357e14f6db"
+    },
+    "santa8.png": {
+      "sha": "d0aa0f6783f9ab5bfa27007bbba36eb8bb866ca1"
+    },
+    "santa9.png": {
+      "sha": "c3d3df4ff3f7c6ca89158bfc7d15b29b531557f5"
+    }
+  },
+  "/aseprite/elephant-horse-lion/dir.json": {
+    "md5": "5ac0467b89ffb68748a19511b886dd15",
+    "santa1.png": {
+      "sha": "02e05746426c22ef06638c7a511cf1cc04002939"
+    },
+    "santa10.png": {
+      "sha": "a15346df6dd6389e95408e895ed792fc72cc7d20"
+    },
+    "santa11.png": {
+      "sha": "32909111f3b1d1f1bf91f2ba3f1c51010cd99b39"
+    },
+    "santa12.png": {
+      "sha": "47f9d9e2930dd6e46095a4d21e1393649fe6f2d3"
+    },
+    "santa13.png": {
+      "sha": "cf45a3d00d2737d96f59d84130d68649b4aa0cd9"
+    },
+    "santa14.png": {
+      "sha": "e78b639ee5c50b6b7aabac86a1da7cc57a939b68"
+    },
+    "santa15.png": {
+      "sha": "2a40dcb2048ce598186f7d3ab14554907d4a8f14"
+    },
+    "santa16.png": {
+      "sha": "25d9b867b2d9270857d5a0af574c16bc4f56116b"
+    },
+    "santa2.png": {
+      "sha": "6c23108b634bbae7fa4a85a55cc6d095896c9666"
+    },
+    "santa3.png": {
+      "sha": "2be7e416d4604a6f060b598502f1aae43d2388b8"
+    },
+    "santa4.png": {
+      "sha": "0516cddda040b48886d0c087cc8530c82b977240"
+    },
+    "santa5.png": {
+      "sha": "c3277c6f554eb56d2c71367c62943849617f02e2"
+    },
+    "santa6.png": {
+      "sha": "93b5719228f15bb89b9f56ba1ba39c4679c0e831"
+    },
+    "santa7.png": {
+      "sha": "9250e04d0709da1790dcff6145dadfe26c52d0b9"
+    },
+    "santa8.png": {
+      "sha": "e4a60e9687229e048c3fc21fe10fd6b65314dcf5"
+    },
+    "santa9.png": {
+      "sha": "e739da5a0cc069bd7c533593094ce349f19d15b9"
+    }
+  },
+  "/aseprite/rhino-giraffe-dog/dir.json": {
+    "aspose_video.mov": {
+      "sha": "0374fede799da6771c245aa6926b8d987a8d4d4b"
+    },
+    "md5": "ff4329338d0cd1fba2ab10db769ecf7e",
+    "santa1.png": {
+      "sha": "674aafa14d2671bbe58e0b368293f9e48f8a4bb5"
+    },
+    "santa10.png": {
+      "sha": "fffd4b9555be1fbc9cd0c57c93c624654fd629c1"
+    },
+    "santa11.png": {
+      "sha": "9d8692a91b5d2b44037fd507d185b9461ca220f3"
+    },
+    "santa12.png": {
+      "sha": "5b280afd5818b34d45327b260e10e0f38b6336c1"
+    },
+    "santa13.png": {
+      "sha": "90e5c6150802fa11d868486eacf7f9ca4eafdfbf"
+    },
+    "santa14.png": {
+      "sha": "44ab0662ffdf5a909bbb6fc44d3cbb22fcd564bc"
+    },
+    "santa15.png": {
+      "sha": "446177747ad55034b6785b3d2522f5f8bb4bbcef"
+    },
+    "santa16.png": {
+      "sha": "163fe6e1f9d4617919f5558e160333c53a6c803a"
+    },
+    "santa2.png": {
+      "sha": "9a4bfc6fd97150d4d85f0cc2d2783e86c957cf90"
+    },
+    "santa3.png": {
+      "sha": "6d3e3a274a33b0e59cbab35dfdf51c40fc7ddcde"
+    },
+    "santa4.png": {
+      "sha": "19b2dd4793a0d277fd01af8edadd863f35cddbd8"
+    },
+    "santa5.png": {
+      "sha": "c2a25ebbb9ef94271411f674e5d60581a24d6d0e"
+    },
+    "santa6.png": {
+      "sha": "7d7a7add56392f7d734e473a25bbd106ced24805"
+    },
+    "santa7.png": {
+      "sha": "3b69563172816f0dc2de8c62468a378d64be3931"
+    },
+    "santa8.png": {
+      "sha": "cd192e27857694fee3f74043da1f75a86a2d7cdf"
+    },
+    "santa9.png": {
+      "sha": "ddcf2ffd7da35ac748c83ece257aaf3c2832f3fa"
+    }
+  },
+  "/aseprite/rhino-giraffe-lion/dir.json": {
+    "aspose_video.mov": {
+      "sha": "112a9034f492cd4e8c5f629bab6dd8abfa6f78e1"
+    },
+    "md5": "7859674185493853c5559513876274ad",
+    "santa1.png": {
+      "sha": "7959346e262df57b6f31e2cc7a53ce3f960a00f5"
+    },
+    "santa10.png": {
+      "sha": "fd96f488e331da02f3cdfdd8d8249aa971d78d93"
+    },
+    "santa11.png": {
+      "sha": "7329fb03f5c816f787db7059ae7d86158a7629b2"
+    },
+    "santa12.png": {
+      "sha": "0cbe96b9088260f0e0ca62b9e78c1f583c27fd69"
+    },
+    "santa13.png": {
+      "sha": "3cdacdaff003fe0101ab6146aeaea214fd73868a"
+    },
+    "santa14.png": {
+      "sha": "4e8c5af32b0eaa45c16713e35eb3540bc2ff9eb1"
+    },
+    "santa15.png": {
+      "sha": "9b51b250f1d4359476336c35308a4966b61d1c58"
+    },
+    "santa16.png": {
+      "sha": "3526e924f7dafc4b3b9c4a6c07bbc87a83fda6bb"
+    },
+    "santa2.png": {
+      "sha": "143617b1dc05c29b015b81a6734c75e2b7a38227"
+    },
+    "santa3.png": {
+      "sha": "32c9c3f1ae3272ccaef6162693f04bf0902723cd"
+    },
+    "santa4.png": {
+      "sha": "5408f3e24af6899436aeb49d84c4ca95d083f55c"
+    },
+    "santa5.png": {
+      "sha": "d4aa1d0f67caa15c6b8e21b774e773924ffd89db"
+    },
+    "santa6.png": {
+      "sha": "47f91bbcbf783ba27c0d6e09fd707765ca4b381b"
+    },
+    "santa7.png": {
+      "sha": "c7225a646e9b0351b7f77e7373e17b7e62500be7"
+    },
+    "santa8.png": {
+      "sha": "1e11887e23e34957c0268321746c73413f1cbc6a"
+    },
+    "santa9.png": {
+      "sha": "b2291deb5fb56aa271c84a3ae73b46b1471536b4"
+    }
+  },
+  "/aseprite/rhino-horse-dog/dir.json": {
+    "md5": "f48fe5d9bf4c2d45146899044a39b8d7",
+    "santa1.png": {
+      "sha": "1e61796ae4e068510d5bfd9b4a00fce64b372476"
+    },
+    "santa10.png": {
+      "sha": "2d3f019a85a46199bbcc362886d9e8040b342429"
+    },
+    "santa11.png": {
+      "sha": "b6a5639a2c0b2f9b93af3f84acb089fcdc9d9cad"
+    },
+    "santa12.png": {
+      "sha": "fabbae53ab821eb38a55f72674f4585f24250020"
+    },
+    "santa13.png": {
+      "sha": "5a37c9137646c86609a43a235bc516e366ab8859"
+    },
+    "santa14.png": {
+      "sha": "c35c92ca846bc5f0dd5a8f4d83f08505af8f01ea"
+    },
+    "santa15.png": {
+      "sha": "a7429d98ef60a5fa6ce1d697acbe6fae967766d2"
+    },
+    "santa16.png": {
+      "sha": "f84331fe097be1bfc3c4b179281183c147bf0445"
+    },
+    "santa2.png": {
+      "sha": "d0b0ad8b5dc08144a583ee5cb2aca317d6e8adff"
+    },
+    "santa3.png": {
+      "sha": "153732bba85f650c504805155e7332faa2970c78"
+    },
+    "santa4.png": {
+      "sha": "8b23c6b97e1b82916ad213f0d3eadd9188e530da"
+    },
+    "santa5.png": {
+      "sha": "b2c5686181d6a6ba6973e0babcb856726a8ca9f8"
+    },
+    "santa6.png": {
+      "sha": "fc3dd1fc260b0e3bb31dfdcf5eb6b5fd7990f800"
+    },
+    "santa7.png": {
+      "sha": "e5eca4f2c0e4f893376546f77e4be381a0cbc00c"
+    },
+    "santa8.png": {
+      "sha": "a0c09edffb6ea6f6a98a06bb7c2131d241076399"
+    },
+    "santa9.png": {
+      "sha": "3e2baaa003bca2a9e56b080ca0f2db40f58d00ed"
+    }
+  },
+  "/aseprite/rhino-horse-lion/dir.json": {
+    "md5": "23c6b80ae816722aaa836573ea7cb1ae",
+    "santa1.png": {
+      "sha": "48c086a71ed7bbf26f7f714e2693ba2aeabc6569"
+    },
+    "santa10.png": {
+      "sha": "df1fdc4b08eb13f458dc6ab3f141e840fbf1ac3a"
+    },
+    "santa11.png": {
+      "sha": "f06cdf0f644efac594a7a95d45b09f4671b09a68"
+    },
+    "santa12.png": {
+      "sha": "b3d0aeab1044588c4e909482b8f6180484c370d9"
+    },
+    "santa13.png": {
+      "sha": "f02a180705ca43959723e9243f4faed1f918a46b"
+    },
+    "santa14.png": {
+      "sha": "083b234a5de2d34728bda6fcf4570b28b3684d0b"
+    },
+    "santa15.png": {
+      "sha": "1bc21f7a52aa361a72749b111feb7a462b132fd7"
+    },
+    "santa16.png": {
+      "sha": "30e9861f4e7ec75d674c0808e4a26545fb85796d"
+    },
+    "santa2.png": {
+      "sha": "6c246613fbec6f02bdc8bd4d4018014d99af1f17"
+    },
+    "santa3.png": {
+      "sha": "a969af679efaf23d274bcf9f889ef7157ce874db"
+    },
+    "santa4.png": {
+      "sha": "9d5cbc4022c2be5bbf9081f959368ad7c9ded709"
+    },
+    "santa5.png": {
+      "sha": "1d42fa067f8c4c7388d47e5be147a87a2032a23d"
+    },
+    "santa6.png": {
+      "sha": "f2c0ebb94f8357033c5668153ffd3f14426ff8d5"
+    },
+    "santa7.png": {
+      "sha": "8e61a574376cf3ffa9927bbdd74becefef8cc283"
+    },
+    "santa8.png": {
+      "sha": "ade925cfd0e7abfd6498f1207a166135ffee18cc"
+    },
+    "santa9.png": {
+      "sha": "5843cfd3f3d328f1488f547762b9320647477896"
     }
   },
   "/data/image/cutscene/dir.json": {
