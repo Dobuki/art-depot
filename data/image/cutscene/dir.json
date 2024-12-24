@@ -281,6 +281,9 @@
   "images/f57d7789-8c24-4110-936e-3587ff134719/newgrounds/jacklehamster/final1.png": {
     "sha": "27fb023089f1d9acac3d3285dce0346b4be776dc"
   },
+  "images/f57d7789-8c24-4110-936e-3587ff134719/newgrounds/jacklehamster/final2.png": {
+    "sha": "323db0b90881092669db105af28a43ba5ab036a8"
+  },
   "images/f57d7789-8c24-4110-936e-3587ff134719/newgrounds/jacklehamster/knight-boss-cutscene1.png": {
     "sha": "7f785c767e43c56d69a0b232e89f08c3f3009fcd"
   },
@@ -353,5 +356,5 @@
   "images/unknown/unknown/dobuki.png": {
     "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
   },
-  "md5": "94d30215653c321447d86ed4ced4b1f3"
+  "md5": "523a9d5171a9cf6352e23e6ab7e172a9"
 }
