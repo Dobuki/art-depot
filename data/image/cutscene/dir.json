@@ -281,6 +281,12 @@
   "images/f57d7789-8c24-4110-936e-3587ff134719/newgrounds/jacklehamster/knight-boss-cutscene1.png": {
     "sha": "7f785c767e43c56d69a0b232e89f08c3f3009fcd"
   },
+  "images/f57d7789-8c24-4110-936e-3587ff134719/newgrounds/jacklehamster/knight-boss-cutscene2.png": {
+    "sha": "93e4d01338f69e810493a9f7de6918f18e1423c2"
+  },
+  "images/f57d7789-8c24-4110-936e-3587ff134719/newgrounds/jacklehamster/knight-boss-cutscene3.png": {
+    "sha": "2ba3ef2ca2eec716075fd65f4d16ae9d3f984106"
+  },
   "images/f5f2e5ee-b746-498d-b802-ee6bb18e8dd2/default/user/1730920406958.jpg": {
     "sha": "7d4a26b929526d866d287a15a6be2c72a935557c"
   },
@@ -344,5 +350,5 @@
   "images/unknown/unknown/dobuki.png": {
     "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
   },
-  "md5": "f5540d582b68fd0fbd6fefa0b21555f3"
+  "md5": "36e33dcfcd68eff6624e0aea737520e9"
 }

@@ -1,6 +1,12 @@
 {
-  "md5": "1fa90fc2db1ee5d3a1c1b4f8cf664f07",
+  "md5": "a805036c6e5e0c4cbd7085436cff357e",
   "newgrounds/jacklehamster/knight-boss-cutscene1.png": {
     "sha": "7f785c767e43c56d69a0b232e89f08c3f3009fcd"
+  },
+  "newgrounds/jacklehamster/knight-boss-cutscene2.png": {
+    "sha": "93e4d01338f69e810493a9f7de6918f18e1423c2"
+  },
+  "newgrounds/jacklehamster/knight-boss-cutscene3.png": {
+    "sha": "2ba3ef2ca2eec716075fd65f4d16ae9d3f984106"
   }
 }

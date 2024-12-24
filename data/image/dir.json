@@ -281,6 +281,12 @@
   "cutscene/images/f57d7789-8c24-4110-936e-3587ff134719/newgrounds/jacklehamster/knight-boss-cutscene1.png": {
     "sha": "7f785c767e43c56d69a0b232e89f08c3f3009fcd"
   },
+  "cutscene/images/f57d7789-8c24-4110-936e-3587ff134719/newgrounds/jacklehamster/knight-boss-cutscene2.png": {
+    "sha": "93e4d01338f69e810493a9f7de6918f18e1423c2"
+  },
+  "cutscene/images/f57d7789-8c24-4110-936e-3587ff134719/newgrounds/jacklehamster/knight-boss-cutscene3.png": {
+    "sha": "2ba3ef2ca2eec716075fd65f4d16ae9d3f984106"
+  },
   "cutscene/images/f5f2e5ee-b746-498d-b802-ee6bb18e8dd2/default/user/1730920406958.jpg": {
     "sha": "7d4a26b929526d866d287a15a6be2c72a935557c"
   },
@@ -359,7 +365,7 @@
   "example/subgroup/dobuki-logo.png": {
     "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
   },
-  "md5": "27245ad8c2f2c92eb91f12343d1cbdde",
+  "md5": "6ba1fb93913f4090b579f0f03ec36d45",
   "power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/inn.png": {
     "sha": "0ee88b0cc3456dcbcef258ca9272448d9c00e028"
   },
