@@ -1,4 +1,7 @@
 {
+  "final1.png": {
+    "sha": "27fb023089f1d9acac3d3285dce0346b4be776dc"
+  },
   "knight-boss-cutscene1.png": {
     "sha": "7f785c767e43c56d69a0b232e89f08c3f3009fcd"
   },
@@ -8,5 +11,5 @@
   "knight-boss-cutscene3.png": {
     "sha": "2ba3ef2ca2eec716075fd65f4d16ae9d3f984106"
   },
-  "md5": "6e897b0899115d10c14f36871ee8e4cb"
+  "md5": "30cf0505cdcc263aded7edc10e1b20e4"
 }
