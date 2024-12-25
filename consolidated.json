@@ -2844,7 +2844,7 @@
     "example/subgroup/dobuki-logo.png": {
       "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
     },
-    "md5": "f12a606116ba55f9168f7e269ebef957",
+    "md5": "975f5a408af5a089eeddc1017fe7002e",
     "power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/inn.png": {
       "sha": "0ee88b0cc3456dcbcef258ca9272448d9c00e028"
     },
@@ -2859,6 +2859,9 @@
     },
     "power-troll/newgrounds/jacklehamster/minok-valentine.jpeg": {
       "sha": "29950eb5e3d7bd0bc3a1128271b6f7b3069ecc8a"
+    },
+    "power-troll/newgrounds/jacklehamster/oldman0000.png": {
+      "sha": "1a1cbd48197eee922e2a59b06df7b357e2a201de"
     },
     "power-troll/newgrounds/jacklehamster/powe-square.png": {
       "sha": "48eec0b18c017bb6517884af21ecd8828864debc"
@@ -2904,7 +2907,7 @@
     "md5": "591acb8eb3bf0bbf3c5e95c8b71099b7"
   },
   "/data/image/power-troll/dir.json": {
-    "md5": "bdd1a88130b9a3b68483d51258596670",
+    "md5": "8e6d9dc9c0c929411f8027591a43bdce",
     "newgrounds/jacklehamster/duckrun (1).jpeg": {
       "sha": "dc6b0cb6b033569451836d13e229b568141dad46"
     },
@@ -2916,6 +2919,9 @@
     },
     "newgrounds/jacklehamster/minok-valentine.jpeg": {
       "sha": "29950eb5e3d7bd0bc3a1128271b6f7b3069ecc8a"
+    },
+    "newgrounds/jacklehamster/oldman0000.png": {
+      "sha": "1a1cbd48197eee922e2a59b06df7b357e2a201de"
     },
     "newgrounds/jacklehamster/powe-square.png": {
       "sha": "48eec0b18c017bb6517884af21ecd8828864debc"
@@ -2949,6 +2955,9 @@
     "jacklehamster/minok-valentine.jpeg": {
       "sha": "29950eb5e3d7bd0bc3a1128271b6f7b3069ecc8a"
     },
+    "jacklehamster/oldman0000.png": {
+      "sha": "1a1cbd48197eee922e2a59b06df7b357e2a201de"
+    },
     "jacklehamster/powe-square.png": {
       "sha": "48eec0b18c017bb6517884af21ecd8828864debc"
     },
@@ -2967,7 +2976,7 @@
     "jacklehamster/youwin (2).jpeg": {
       "sha": "6133b04bcdf2c800e418a880b7db1643d609678e"
     },
-    "md5": "4e29a4969102170ae918377b683d36c0"
+    "md5": "d704163d1043744931199e6a51a4f553"
   },
   "/data/image/power-troll/newgrounds/jacklehamster/dir.json": {
     "duckrun (1).jpeg": {
@@ -2979,9 +2988,12 @@
     "lion.png": {
       "sha": "3685c2e219600f9c36637a14016df5e50c0d676d"
     },
-    "md5": "4f0985ce8247aeb2e0b27a50f1e24518",
+    "md5": "d6e62b8dee43c6dbd780a481cdc07095",
     "minok-valentine.jpeg": {
       "sha": "29950eb5e3d7bd0bc3a1128271b6f7b3069ecc8a"
+    },
+    "oldman0000.png": {
+      "sha": "1a1cbd48197eee922e2a59b06df7b357e2a201de"
     },
     "powe-square.png": {
       "sha": "48eec0b18c017bb6517884af21ecd8828864debc"
