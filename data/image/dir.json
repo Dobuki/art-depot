@@ -389,7 +389,7 @@
   "example/subgroup/dobuki-logo.png": {
     "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
   },
-  "md5": "8584d326cc49c81da261f24868ff4bf6",
+  "md5": "f12a606116ba55f9168f7e269ebef957",
   "power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/inn.png": {
     "sha": "0ee88b0cc3456dcbcef258ca9272448d9c00e028"
   },
@@ -419,5 +419,8 @@
   },
   "power-troll/newgrounds/jacklehamster/wizard.png": {
     "sha": "d3c5529a7b922cc0aed35466867f65a4656d79d3"
+  },
+  "power-troll/newgrounds/jacklehamster/youwin (2).jpeg": {
+    "sha": "6133b04bcdf2c800e418a880b7db1643d609678e"
   }
 }

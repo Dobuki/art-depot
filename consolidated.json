@@ -2844,7 +2844,7 @@
     "example/subgroup/dobuki-logo.png": {
       "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
     },
-    "md5": "8584d326cc49c81da261f24868ff4bf6",
+    "md5": "f12a606116ba55f9168f7e269ebef957",
     "power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/inn.png": {
       "sha": "0ee88b0cc3456dcbcef258ca9272448d9c00e028"
     },
@@ -2874,6 +2874,9 @@
     },
     "power-troll/newgrounds/jacklehamster/wizard.png": {
       "sha": "d3c5529a7b922cc0aed35466867f65a4656d79d3"
+    },
+    "power-troll/newgrounds/jacklehamster/youwin (2).jpeg": {
+      "sha": "6133b04bcdf2c800e418a880b7db1643d609678e"
     }
   },
   "/data/image/example/dir.json": {
@@ -2901,7 +2904,7 @@
     "md5": "591acb8eb3bf0bbf3c5e95c8b71099b7"
   },
   "/data/image/power-troll/dir.json": {
-    "md5": "4d27cd5093880a369b548693a26ca182",
+    "md5": "bdd1a88130b9a3b68483d51258596670",
     "newgrounds/jacklehamster/duckrun (1).jpeg": {
       "sha": "dc6b0cb6b033569451836d13e229b568141dad46"
     },
@@ -2928,6 +2931,9 @@
     },
     "newgrounds/jacklehamster/wizard.png": {
       "sha": "d3c5529a7b922cc0aed35466867f65a4656d79d3"
+    },
+    "newgrounds/jacklehamster/youwin (2).jpeg": {
+      "sha": "6133b04bcdf2c800e418a880b7db1643d609678e"
     }
   },
   "/data/image/power-troll/newgrounds/dir.json": {
@@ -2958,7 +2964,10 @@
     "jacklehamster/wizard.png": {
       "sha": "d3c5529a7b922cc0aed35466867f65a4656d79d3"
     },
-    "md5": "5fa93aa092e7d057b93ec7b19251a137"
+    "jacklehamster/youwin (2).jpeg": {
+      "sha": "6133b04bcdf2c800e418a880b7db1643d609678e"
+    },
+    "md5": "4e29a4969102170ae918377b683d36c0"
   },
   "/data/image/power-troll/newgrounds/jacklehamster/dir.json": {
     "duckrun (1).jpeg": {
@@ -2970,7 +2979,7 @@
     "lion.png": {
       "sha": "3685c2e219600f9c36637a14016df5e50c0d676d"
     },
-    "md5": "b28b7235d33ad771d01f655627d5e181",
+    "md5": "4f0985ce8247aeb2e0b27a50f1e24518",
     "minok-valentine.jpeg": {
       "sha": "29950eb5e3d7bd0bc3a1128271b6f7b3069ecc8a"
     },
@@ -2988,6 +2997,9 @@
     },
     "wizard.png": {
       "sha": "d3c5529a7b922cc0aed35466867f65a4656d79d3"
+    },
+    "youwin (2).jpeg": {
+      "sha": "6133b04bcdf2c800e418a880b7db1643d609678e"
     }
   },
   "/data/image/power-troll-level-art/dir.json": {
