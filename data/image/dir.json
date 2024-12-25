@@ -389,7 +389,7 @@
   "example/subgroup/dobuki-logo.png": {
     "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
   },
-  "md5": "f17b9d828a12a9eeaa77552bcf0af846",
+  "md5": "d7a24168780cc46ae2f418ae64d406de",
   "power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/inn.png": {
     "sha": "0ee88b0cc3456dcbcef258ca9272448d9c00e028"
   },
@@ -411,6 +411,9 @@
   "power-troll/newgrounds/jacklehamster/oldman0000.png": {
     "sha": "1a1cbd48197eee922e2a59b06df7b357e2a201de"
   },
+  "power-troll/newgrounds/jacklehamster/oliver-spritesheet-original.png": {
+    "sha": "2792f2c804e41678bc498a5c70ef1e7e2ee455c9"
+  },
   "power-troll/newgrounds/jacklehamster/powe-square.png": {
     "sha": "48eec0b18c017bb6517884af21ecd8828864debc"
   },
@@ -419,6 +422,9 @@
   },
   "power-troll/newgrounds/jacklehamster/santa6.png": {
     "sha": "f2c0ebb94f8357033c5668153ffd3f14426ff8d5"
+  },
+  "power-troll/newgrounds/jacklehamster/startgame.png": {
+    "sha": "d58bd1d23a786dbcfa07471372fee09b241a621f"
   },
   "power-troll/newgrounds/jacklehamster/troll.png": {
     "sha": "f16592624462508abed7dbc3ad045f4eea7e7bfa"

@@ -17,6 +17,9 @@
   "jacklehamster/oldman0000.png": {
     "sha": "1a1cbd48197eee922e2a59b06df7b357e2a201de"
   },
+  "jacklehamster/oliver-spritesheet-original.png": {
+    "sha": "2792f2c804e41678bc498a5c70ef1e7e2ee455c9"
+  },
   "jacklehamster/powe-square.png": {
     "sha": "48eec0b18c017bb6517884af21ecd8828864debc"
   },
@@ -25,6 +28,9 @@
   },
   "jacklehamster/santa6.png": {
     "sha": "f2c0ebb94f8357033c5668153ffd3f14426ff8d5"
+  },
+  "jacklehamster/startgame.png": {
+    "sha": "d58bd1d23a786dbcfa07471372fee09b241a621f"
   },
   "jacklehamster/troll.png": {
     "sha": "f16592624462508abed7dbc3ad045f4eea7e7bfa"
@@ -35,5 +41,5 @@
   "jacklehamster/youwin (2).jpeg": {
     "sha": "6133b04bcdf2c800e418a880b7db1643d609678e"
   },
-  "md5": "99a327f786d0ec8fe5d987a00c454bfb"
+  "md5": "972209024830628e39169c8a9afe59e5"
 }

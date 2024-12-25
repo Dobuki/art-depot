@@ -2844,7 +2844,7 @@
     "example/subgroup/dobuki-logo.png": {
       "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
     },
-    "md5": "f17b9d828a12a9eeaa77552bcf0af846",
+    "md5": "d7a24168780cc46ae2f418ae64d406de",
     "power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/inn.png": {
       "sha": "0ee88b0cc3456dcbcef258ca9272448d9c00e028"
     },
@@ -2866,6 +2866,9 @@
     "power-troll/newgrounds/jacklehamster/oldman0000.png": {
       "sha": "1a1cbd48197eee922e2a59b06df7b357e2a201de"
     },
+    "power-troll/newgrounds/jacklehamster/oliver-spritesheet-original.png": {
+      "sha": "2792f2c804e41678bc498a5c70ef1e7e2ee455c9"
+    },
     "power-troll/newgrounds/jacklehamster/powe-square.png": {
       "sha": "48eec0b18c017bb6517884af21ecd8828864debc"
     },
@@ -2874,6 +2877,9 @@
     },
     "power-troll/newgrounds/jacklehamster/santa6.png": {
       "sha": "f2c0ebb94f8357033c5668153ffd3f14426ff8d5"
+    },
+    "power-troll/newgrounds/jacklehamster/startgame.png": {
+      "sha": "d58bd1d23a786dbcfa07471372fee09b241a621f"
     },
     "power-troll/newgrounds/jacklehamster/troll.png": {
       "sha": "f16592624462508abed7dbc3ad045f4eea7e7bfa"
@@ -2910,7 +2916,7 @@
     "md5": "591acb8eb3bf0bbf3c5e95c8b71099b7"
   },
   "/data/image/power-troll/dir.json": {
-    "md5": "cd2ad2e1e6ce38f53e1c89b98a0f8a10",
+    "md5": "7e315c8c6c047d7375890521b46d5e23",
     "newgrounds/jacklehamster/duckrun (1).jpeg": {
       "sha": "dc6b0cb6b033569451836d13e229b568141dad46"
     },
@@ -2929,6 +2935,9 @@
     "newgrounds/jacklehamster/oldman0000.png": {
       "sha": "1a1cbd48197eee922e2a59b06df7b357e2a201de"
     },
+    "newgrounds/jacklehamster/oliver-spritesheet-original.png": {
+      "sha": "2792f2c804e41678bc498a5c70ef1e7e2ee455c9"
+    },
     "newgrounds/jacklehamster/powe-square.png": {
       "sha": "48eec0b18c017bb6517884af21ecd8828864debc"
     },
@@ -2937,6 +2946,9 @@
     },
     "newgrounds/jacklehamster/santa6.png": {
       "sha": "f2c0ebb94f8357033c5668153ffd3f14426ff8d5"
+    },
+    "newgrounds/jacklehamster/startgame.png": {
+      "sha": "d58bd1d23a786dbcfa07471372fee09b241a621f"
     },
     "newgrounds/jacklehamster/troll.png": {
       "sha": "f16592624462508abed7dbc3ad045f4eea7e7bfa"
@@ -2967,6 +2979,9 @@
     "jacklehamster/oldman0000.png": {
       "sha": "1a1cbd48197eee922e2a59b06df7b357e2a201de"
     },
+    "jacklehamster/oliver-spritesheet-original.png": {
+      "sha": "2792f2c804e41678bc498a5c70ef1e7e2ee455c9"
+    },
     "jacklehamster/powe-square.png": {
       "sha": "48eec0b18c017bb6517884af21ecd8828864debc"
     },
@@ -2975,6 +2990,9 @@
     },
     "jacklehamster/santa6.png": {
       "sha": "f2c0ebb94f8357033c5668153ffd3f14426ff8d5"
+    },
+    "jacklehamster/startgame.png": {
+      "sha": "d58bd1d23a786dbcfa07471372fee09b241a621f"
     },
     "jacklehamster/troll.png": {
       "sha": "f16592624462508abed7dbc3ad045f4eea7e7bfa"
@@ -2985,7 +3003,7 @@
     "jacklehamster/youwin (2).jpeg": {
       "sha": "6133b04bcdf2c800e418a880b7db1643d609678e"
     },
-    "md5": "99a327f786d0ec8fe5d987a00c454bfb"
+    "md5": "972209024830628e39169c8a9afe59e5"
   },
   "/data/image/power-troll/newgrounds/jacklehamster/dir.json": {
     "duckrun (1).jpeg": {
@@ -3000,12 +3018,15 @@
     "lion.png": {
       "sha": "3685c2e219600f9c36637a14016df5e50c0d676d"
     },
-    "md5": "6ba6220a9b93b6fb5ed12ad633ab180b",
+    "md5": "ce9f850d7c7261cac5638be2ef49c066",
     "minok-valentine.jpeg": {
       "sha": "29950eb5e3d7bd0bc3a1128271b6f7b3069ecc8a"
     },
     "oldman0000.png": {
       "sha": "1a1cbd48197eee922e2a59b06df7b357e2a201de"
+    },
+    "oliver-spritesheet-original.png": {
+      "sha": "2792f2c804e41678bc498a5c70ef1e7e2ee455c9"
     },
     "powe-square.png": {
       "sha": "48eec0b18c017bb6517884af21ecd8828864debc"
@@ -3015,6 +3036,9 @@
     },
     "santa6.png": {
       "sha": "f2c0ebb94f8357033c5668153ffd3f14426ff8d5"
+    },
+    "startgame.png": {
+      "sha": "d58bd1d23a786dbcfa07471372fee09b241a621f"
     },
     "troll.png": {
       "sha": "f16592624462508abed7dbc3ad045f4eea7e7bfa"
