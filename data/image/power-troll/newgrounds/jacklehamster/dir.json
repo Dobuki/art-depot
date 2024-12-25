@@ -5,7 +5,7 @@
   "lion.png": {
     "sha": "3685c2e219600f9c36637a14016df5e50c0d676d"
   },
-  "md5": "c18c7d593d9bb669b76e2ac848a0eca9",
+  "md5": "d7d8904d34fd877b8b8f46e85de01592",
   "powe-square.png": {
     "sha": "48eec0b18c017bb6517884af21ecd8828864debc"
   },
@@ -14,5 +14,8 @@
   },
   "troll.png": {
     "sha": "f16592624462508abed7dbc3ad045f4eea7e7bfa"
+  },
+  "wizard.png": {
+    "sha": "d3c5529a7b922cc0aed35466867f65a4656d79d3"
   }
 }

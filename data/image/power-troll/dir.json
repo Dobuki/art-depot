@@ -1,5 +1,5 @@
 {
-  "md5": "f55f902c3f731fd7052a8683cb6b4924",
+  "md5": "de82e9732bf09366faa53a642c11950b",
   "newgrounds/jacklehamster/el-capitan.png": {
     "sha": "e4e9cee391ea1a79e6916efe77ebbb057733479c"
   },
@@ -14,5 +14,8 @@
   },
   "newgrounds/jacklehamster/troll.png": {
     "sha": "f16592624462508abed7dbc3ad045f4eea7e7bfa"
+  },
+  "newgrounds/jacklehamster/wizard.png": {
+    "sha": "d3c5529a7b922cc0aed35466867f65a4656d79d3"
   }
 }
