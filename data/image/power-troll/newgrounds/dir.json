@@ -1,4 +1,7 @@
 {
+  "jacklehamster/duckrun (1).jpeg": {
+    "sha": "dc6b0cb6b033569451836d13e229b568141dad46"
+  },
   "jacklehamster/el-capitan.png": {
     "sha": "e4e9cee391ea1a79e6916efe77ebbb057733479c"
   },
@@ -7,6 +10,9 @@
   },
   "jacklehamster/powe-square.png": {
     "sha": "48eec0b18c017bb6517884af21ecd8828864debc"
+  },
+  "jacklehamster/santa (1).png": {
+    "sha": "0df99a0353dbe8d0526039dacb5947bf883031c0"
   },
   "jacklehamster/santa6.png": {
     "sha": "f2c0ebb94f8357033c5668153ffd3f14426ff8d5"
@@ -17,5 +23,5 @@
   "jacklehamster/wizard.png": {
     "sha": "d3c5529a7b922cc0aed35466867f65a4656d79d3"
   },
-  "md5": "d5c8d6a8d33028cf5dbf43822a86d443"
+  "md5": "418c76ccca8e64fac1af24af7b362da2"
 }
