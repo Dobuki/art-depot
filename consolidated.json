@@ -2844,7 +2844,7 @@
     "example/subgroup/dobuki-logo.png": {
       "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
     },
-    "md5": "4c915c608207c3b55ed3cdf52e4be6f9",
+    "md5": "8584d326cc49c81da261f24868ff4bf6",
     "power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/inn.png": {
       "sha": "0ee88b0cc3456dcbcef258ca9272448d9c00e028"
     },
@@ -2856,6 +2856,9 @@
     },
     "power-troll/newgrounds/jacklehamster/lion.png": {
       "sha": "3685c2e219600f9c36637a14016df5e50c0d676d"
+    },
+    "power-troll/newgrounds/jacklehamster/minok-valentine.jpeg": {
+      "sha": "29950eb5e3d7bd0bc3a1128271b6f7b3069ecc8a"
     },
     "power-troll/newgrounds/jacklehamster/powe-square.png": {
       "sha": "48eec0b18c017bb6517884af21ecd8828864debc"
@@ -2898,7 +2901,7 @@
     "md5": "591acb8eb3bf0bbf3c5e95c8b71099b7"
   },
   "/data/image/power-troll/dir.json": {
-    "md5": "d2513e64843ace7d6a2c47481316ae8d",
+    "md5": "4d27cd5093880a369b548693a26ca182",
     "newgrounds/jacklehamster/duckrun (1).jpeg": {
       "sha": "dc6b0cb6b033569451836d13e229b568141dad46"
     },
@@ -2907,6 +2910,9 @@
     },
     "newgrounds/jacklehamster/lion.png": {
       "sha": "3685c2e219600f9c36637a14016df5e50c0d676d"
+    },
+    "newgrounds/jacklehamster/minok-valentine.jpeg": {
+      "sha": "29950eb5e3d7bd0bc3a1128271b6f7b3069ecc8a"
     },
     "newgrounds/jacklehamster/powe-square.png": {
       "sha": "48eec0b18c017bb6517884af21ecd8828864debc"
@@ -2934,6 +2940,9 @@
     "jacklehamster/lion.png": {
       "sha": "3685c2e219600f9c36637a14016df5e50c0d676d"
     },
+    "jacklehamster/minok-valentine.jpeg": {
+      "sha": "29950eb5e3d7bd0bc3a1128271b6f7b3069ecc8a"
+    },
     "jacklehamster/powe-square.png": {
       "sha": "48eec0b18c017bb6517884af21ecd8828864debc"
     },
@@ -2949,7 +2958,7 @@
     "jacklehamster/wizard.png": {
       "sha": "d3c5529a7b922cc0aed35466867f65a4656d79d3"
     },
-    "md5": "418c76ccca8e64fac1af24af7b362da2"
+    "md5": "5fa93aa092e7d057b93ec7b19251a137"
   },
   "/data/image/power-troll/newgrounds/jacklehamster/dir.json": {
     "duckrun (1).jpeg": {
@@ -2961,7 +2970,10 @@
     "lion.png": {
       "sha": "3685c2e219600f9c36637a14016df5e50c0d676d"
     },
-    "md5": "538720f2f53bb987d8ddd1e7e33dc471",
+    "md5": "b28b7235d33ad771d01f655627d5e181",
+    "minok-valentine.jpeg": {
+      "sha": "29950eb5e3d7bd0bc3a1128271b6f7b3069ecc8a"
+    },
     "powe-square.png": {
       "sha": "48eec0b18c017bb6517884af21ecd8828864debc"
     },
