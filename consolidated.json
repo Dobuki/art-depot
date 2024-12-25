@@ -570,6 +570,9 @@
     "images/4cf180e7-a150-4d26-9980-74089e972601/newgrounds/jacklehamster/final6.png": {
       "sha": "370b5f36cae7d429cd2c1017c1e9fbfc48a19cd9"
     },
+    "images/4cf180e7-a150-4d26-9980-74089e972601/newgrounds/jacklehamster/final7.png": {
+      "sha": "a5f309ed587506e63e89551c8abd99d9f1f0231f"
+    },
     "images/5576225f-71a0-4682-bf53-3a4b8e573d43/default/user/mTyko5.png": {
       "sha": "c2b911ef263935a070f08f9dc2f19f073bbe1d50"
     },
@@ -795,7 +798,7 @@
     "images/unknown/unknown/dobuki.png": {
       "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
     },
-    "md5": "622d2d812485c604f1674fd0fa88d389"
+    "md5": "b5fe92eddbcd57ff3f39d1830a776832"
   },
   "/data/image/cutscene/images/042c78ad-804f-4fca-81f1-19d1bc5aa72d/default/dir.json": {
     "md5": "7606570528b4e92d2cc9ce83ef0e5745",
@@ -1284,7 +1287,7 @@
     }
   },
   "/data/image/cutscene/images/4cf180e7-a150-4d26-9980-74089e972601/dir.json": {
-    "md5": "9f01d118472677decdcc15548a8701f1",
+    "md5": "186ba6afb6e472889200532d809c2c52",
     "newgrounds/jacklehamster/cut12.png": {
       "sha": "4e7e4ad68d0e25d85434318a7154837287d89595"
     },
@@ -1293,6 +1296,9 @@
     },
     "newgrounds/jacklehamster/final6.png": {
       "sha": "370b5f36cae7d429cd2c1017c1e9fbfc48a19cd9"
+    },
+    "newgrounds/jacklehamster/final7.png": {
+      "sha": "a5f309ed587506e63e89551c8abd99d9f1f0231f"
     }
   },
   "/data/image/cutscene/images/4cf180e7-a150-4d26-9980-74089e972601/newgrounds/dir.json": {
@@ -1305,7 +1311,10 @@
     "jacklehamster/final6.png": {
       "sha": "370b5f36cae7d429cd2c1017c1e9fbfc48a19cd9"
     },
-    "md5": "1ba0da413e61760f401e08b90cacb878"
+    "jacklehamster/final7.png": {
+      "sha": "a5f309ed587506e63e89551c8abd99d9f1f0231f"
+    },
+    "md5": "944c47ee0a16f7110cd1d8a9c7c527f0"
   },
   "/data/image/cutscene/images/4cf180e7-a150-4d26-9980-74089e972601/newgrounds/jacklehamster/dir.json": {
     "cut12.png": {
@@ -1317,7 +1326,10 @@
     "final6.png": {
       "sha": "370b5f36cae7d429cd2c1017c1e9fbfc48a19cd9"
     },
-    "md5": "61675ef6fcdebd29eb767a815129a718"
+    "final7.png": {
+      "sha": "a5f309ed587506e63e89551c8abd99d9f1f0231f"
+    },
+    "md5": "af91f6b630d16060f19ecb0d71001a7e"
   },
   "/data/image/cutscene/images/5576225f-71a0-4682-bf53-3a4b8e573d43/default/dir.json": {
     "md5": "d242317eebbc8407e2da4618c3fa0dc9",
@@ -1863,6 +1875,9 @@
     "4cf180e7-a150-4d26-9980-74089e972601/newgrounds/jacklehamster/final6.png": {
       "sha": "370b5f36cae7d429cd2c1017c1e9fbfc48a19cd9"
     },
+    "4cf180e7-a150-4d26-9980-74089e972601/newgrounds/jacklehamster/final7.png": {
+      "sha": "a5f309ed587506e63e89551c8abd99d9f1f0231f"
+    },
     "5576225f-71a0-4682-bf53-3a4b8e573d43/default/user/mTyko5.png": {
       "sha": "c2b911ef263935a070f08f9dc2f19f073bbe1d50"
     },
@@ -2040,7 +2055,7 @@
     "fda8036d-650f-4409-a154-d1ba61667c35/default/user/banksy_egg.png": {
       "sha": "f05f5b50b71f53648c1c2d51cbfda2fd3f552f9b"
     },
-    "md5": "81be1d943a5ab18e069759a450cc5a89",
+    "md5": "6fe7f657d0e9239a0ed0ac5b81d4a224",
     "newgrounds/jacklehamster/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
       "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
     },
@@ -2568,6 +2583,9 @@
     "cutscene/images/4cf180e7-a150-4d26-9980-74089e972601/newgrounds/jacklehamster/final6.png": {
       "sha": "370b5f36cae7d429cd2c1017c1e9fbfc48a19cd9"
     },
+    "cutscene/images/4cf180e7-a150-4d26-9980-74089e972601/newgrounds/jacklehamster/final7.png": {
+      "sha": "a5f309ed587506e63e89551c8abd99d9f1f0231f"
+    },
     "cutscene/images/5576225f-71a0-4682-bf53-3a4b8e573d43/default/user/mTyko5.png": {
       "sha": "c2b911ef263935a070f08f9dc2f19f073bbe1d50"
     },
@@ -2808,7 +2826,7 @@
     "example/subgroup/dobuki-logo.png": {
       "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
     },
-    "md5": "a49c6823b06dedf38de65897e82fa218",
+    "md5": "3b3d66db03e8afd0ec4a53177bc29055",
     "power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/inn.png": {
       "sha": "0ee88b0cc3456dcbcef258ca9272448d9c00e028"
     },
