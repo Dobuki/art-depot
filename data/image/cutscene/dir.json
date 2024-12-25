@@ -140,6 +140,9 @@
   "images/4cf180e7-a150-4d26-9980-74089e972601/newgrounds/jacklehamster/cut13.png": {
     "sha": "9a642e69c652d1647eb43d0d8d6a67e1ef512776"
   },
+  "images/4cf180e7-a150-4d26-9980-74089e972601/newgrounds/jacklehamster/final6.png": {
+    "sha": "370b5f36cae7d429cd2c1017c1e9fbfc48a19cd9"
+  },
   "images/5576225f-71a0-4682-bf53-3a4b8e573d43/default/user/mTyko5.png": {
     "sha": "c2b911ef263935a070f08f9dc2f19f073bbe1d50"
   },
@@ -365,5 +368,5 @@
   "images/unknown/unknown/dobuki.png": {
     "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
   },
-  "md5": "8d97bbb294c5060c7ad4a3aa1f82225a"
+  "md5": "622d2d812485c604f1674fd0fa88d389"
 }
