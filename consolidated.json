@@ -2844,7 +2844,7 @@
     "example/subgroup/dobuki-logo.png": {
       "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
     },
-    "md5": "7a152a4417924efb39add97d6abbd252",
+    "md5": "060dac25a4c7c4f423565dcc2ac6eb0b",
     "power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/inn.png": {
       "sha": "0ee88b0cc3456dcbcef258ca9272448d9c00e028"
     },
@@ -2856,6 +2856,9 @@
     },
     "power-troll/newgrounds/jacklehamster/powe-square.png": {
       "sha": "48eec0b18c017bb6517884af21ecd8828864debc"
+    },
+    "power-troll/newgrounds/jacklehamster/santa6.png": {
+      "sha": "f2c0ebb94f8357033c5668153ffd3f14426ff8d5"
     },
     "power-troll/newgrounds/jacklehamster/troll.png": {
       "sha": "f16592624462508abed7dbc3ad045f4eea7e7bfa"
@@ -2886,7 +2889,7 @@
     "md5": "591acb8eb3bf0bbf3c5e95c8b71099b7"
   },
   "/data/image/power-troll/dir.json": {
-    "md5": "b18abb2f1398d7e71bd465d0f23f0d02",
+    "md5": "f55f902c3f731fd7052a8683cb6b4924",
     "newgrounds/jacklehamster/el-capitan.png": {
       "sha": "e4e9cee391ea1a79e6916efe77ebbb057733479c"
     },
@@ -2895,6 +2898,9 @@
     },
     "newgrounds/jacklehamster/powe-square.png": {
       "sha": "48eec0b18c017bb6517884af21ecd8828864debc"
+    },
+    "newgrounds/jacklehamster/santa6.png": {
+      "sha": "f2c0ebb94f8357033c5668153ffd3f14426ff8d5"
     },
     "newgrounds/jacklehamster/troll.png": {
       "sha": "f16592624462508abed7dbc3ad045f4eea7e7bfa"
@@ -2910,10 +2916,13 @@
     "jacklehamster/powe-square.png": {
       "sha": "48eec0b18c017bb6517884af21ecd8828864debc"
     },
+    "jacklehamster/santa6.png": {
+      "sha": "f2c0ebb94f8357033c5668153ffd3f14426ff8d5"
+    },
     "jacklehamster/troll.png": {
       "sha": "f16592624462508abed7dbc3ad045f4eea7e7bfa"
     },
-    "md5": "0bf8e48c6440a98db3a1cb7b57bcbbf6"
+    "md5": "eafbe22daf0a7aca483b5c6b67c79d20"
   },
   "/data/image/power-troll/newgrounds/jacklehamster/dir.json": {
     "el-capitan.png": {
@@ -2922,9 +2931,12 @@
     "lion.png": {
       "sha": "3685c2e219600f9c36637a14016df5e50c0d676d"
     },
-    "md5": "9fe6442e86a957fa93684b55e28fbc58",
+    "md5": "c18c7d593d9bb669b76e2ac848a0eca9",
     "powe-square.png": {
       "sha": "48eec0b18c017bb6517884af21ecd8828864debc"
+    },
+    "santa6.png": {
+      "sha": "f2c0ebb94f8357033c5668153ffd3f14426ff8d5"
     },
     "troll.png": {
       "sha": "f16592624462508abed7dbc3ad045f4eea7e7bfa"
