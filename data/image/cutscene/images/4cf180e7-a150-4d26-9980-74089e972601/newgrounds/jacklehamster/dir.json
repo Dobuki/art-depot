@@ -11,11 +11,14 @@
   "final7.png": {
     "sha": "a5f309ed587506e63e89551c8abd99d9f1f0231f"
   },
-  "md5": "a579f9127a9bbb1d72ae01795a323851",
+  "md5": "084d3e26c3a5d2b0e6d8ed3cb21e1f31",
   "troll-inn21.png": {
     "sha": "4202243848e0ccd4cf91b4156d67bba106cca946"
   },
   "troll-inn22.png": {
     "sha": "b3aaf6ae86fcda1ec432b3c7ddb370cd65f6e5a9"
+  },
+  "troll-inn23.png": {
+    "sha": "b0bbd52a02c75dd34db5d135e79225634392fefd"
   }
 }
