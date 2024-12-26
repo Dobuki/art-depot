@@ -11,7 +11,7 @@
   "final7.png": {
     "sha": "a5f309ed587506e63e89551c8abd99d9f1f0231f"
   },
-  "md5": "1ce80e889618f036973b1fd230e01ac0",
+  "md5": "c2df054b8f3edac98c02f73db9eb90f9",
   "troll-inn21.png": {
     "sha": "4202243848e0ccd4cf91b4156d67bba106cca946"
   },
@@ -53,5 +53,8 @@
   },
   "troll-inn36.png": {
     "sha": "afec912e6981b767557d99e0c6ba484e18edb7ca"
+  },
+  "troll-inn37.png": {
+    "sha": "acc0f72b840eae812ecef5a393217d273dd0d91a"
   }
 }
