@@ -1,5 +1,5 @@
 {
-  "md5": "80062ab60a209ce3eeabfbfc7860be9f",
+  "md5": "0c1a8c55b7d9d07fd7db7b6308c263d2",
   "newgrounds/jacklehamster/cut12.png": {
     "sha": "4e7e4ad68d0e25d85434318a7154837287d89595"
   },
@@ -41,5 +41,8 @@
   },
   "newgrounds/jacklehamster/troll-inn32.png": {
     "sha": "1ac3b7bf588f5c87f3adfad9a33a0eb4023f4763"
+  },
+  "newgrounds/jacklehamster/troll-inn33.png": {
+    "sha": "4ae844b999d641dc762a4d72c3af918b6f10ae8c"
   }
 }
