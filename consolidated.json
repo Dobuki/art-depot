@@ -597,6 +597,9 @@
     "images/36e42c9c-923d-4b05-b8fe-89e2822d63a1/default/user/j_rom19_a_video_game_cartridge_cover_with_j13kgames_as_the_br_f5d734de-c986-4b9b-8164-9b84faf27f82_2.png": {
       "sha": "bc2e6fa341a30dbb87765a3cb608779674f5571c"
     },
+    "images/3fb94ec1-bcec-4dcf-bd99-4da726a5f948/default/user/pngtree-merry-christmas-2024-hand-drawn-colorful-vector-transparent-background-image-png-image_13535259.png": {
+      "sha": "15b8af8ada80cba77b8a845f53dbe4dec4cc0280"
+    },
     "images/4448755c-b02a-4250-943d-7ef81215fc64/newgrounds/jacklehamster/bossworm-cutscene4.png": {
       "sha": "50b8b184c9e491dbed88f0d2c27e78ec6cb02ed8"
     },
@@ -909,7 +912,7 @@
     "images/unknown/unknown/dobuki.png": {
       "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
     },
-    "md5": "c3453bc5117966848d372487bd083ee6"
+    "md5": "ab00655996484325e053b5cfc1a28f25"
   },
   "/data/image/cutscene/images/042c78ad-804f-4fca-81f1-19d1bc5aa72d/default/dir.json": {
     "md5": "7606570528b4e92d2cc9ce83ef0e5745",
@@ -1333,6 +1336,24 @@
       "sha": "bc2e6fa341a30dbb87765a3cb608779674f5571c"
     },
     "md5": "68b9f67f34aee802220e505dff029566"
+  },
+  "/data/image/cutscene/images/3fb94ec1-bcec-4dcf-bd99-4da726a5f948/default/dir.json": {
+    "md5": "872db0857c3ea62322f0f0d28d892bad",
+    "user/pngtree-merry-christmas-2024-hand-drawn-colorful-vector-transparent-background-image-png-image_13535259.png": {
+      "sha": "15b8af8ada80cba77b8a845f53dbe4dec4cc0280"
+    }
+  },
+  "/data/image/cutscene/images/3fb94ec1-bcec-4dcf-bd99-4da726a5f948/default/user/dir.json": {
+    "md5": "1e13c3ccbe2fa577d00fdbf2f12c5db1",
+    "pngtree-merry-christmas-2024-hand-drawn-colorful-vector-transparent-background-image-png-image_13535259.png": {
+      "sha": "15b8af8ada80cba77b8a845f53dbe4dec4cc0280"
+    }
+  },
+  "/data/image/cutscene/images/3fb94ec1-bcec-4dcf-bd99-4da726a5f948/dir.json": {
+    "default/user/pngtree-merry-christmas-2024-hand-drawn-colorful-vector-transparent-background-image-png-image_13535259.png": {
+      "sha": "15b8af8ada80cba77b8a845f53dbe4dec4cc0280"
+    },
+    "md5": "3c1279b7fd6c9fae7050fa68dcb98ae4"
   },
   "/data/image/cutscene/images/4448755c-b02a-4250-943d-7ef81215fc64/dir.json": {
     "md5": "a176085a0bc097dc87036c088701435b",
@@ -2142,6 +2163,9 @@
     "36e42c9c-923d-4b05-b8fe-89e2822d63a1/default/user/j_rom19_a_video_game_cartridge_cover_with_j13kgames_as_the_br_f5d734de-c986-4b9b-8164-9b84faf27f82_2.png": {
       "sha": "bc2e6fa341a30dbb87765a3cb608779674f5571c"
     },
+    "3fb94ec1-bcec-4dcf-bd99-4da726a5f948/default/user/pngtree-merry-christmas-2024-hand-drawn-colorful-vector-transparent-background-image-png-image_13535259.png": {
+      "sha": "15b8af8ada80cba77b8a845f53dbe4dec4cc0280"
+    },
     "4448755c-b02a-4250-943d-7ef81215fc64/newgrounds/jacklehamster/bossworm-cutscene4.png": {
       "sha": "50b8b184c9e491dbed88f0d2c27e78ec6cb02ed8"
     },
@@ -2406,7 +2430,7 @@
     "fda8036d-650f-4409-a154-d1ba61667c35/default/user/banksy_egg.png": {
       "sha": "f05f5b50b71f53648c1c2d51cbfda2fd3f552f9b"
     },
-    "md5": "507fe1233feb1680b73a3f1dfc641f37",
+    "md5": "990d3e462220c3d59f3b0c7a58f15416",
     "newgrounds/jacklehamster/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
       "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
     },
@@ -2910,6 +2934,9 @@
     "cutscene/images/36e42c9c-923d-4b05-b8fe-89e2822d63a1/default/user/j_rom19_a_video_game_cartridge_cover_with_j13kgames_as_the_br_f5d734de-c986-4b9b-8164-9b84faf27f82_2.png": {
       "sha": "bc2e6fa341a30dbb87765a3cb608779674f5571c"
     },
+    "cutscene/images/3fb94ec1-bcec-4dcf-bd99-4da726a5f948/default/user/pngtree-merry-christmas-2024-hand-drawn-colorful-vector-transparent-background-image-png-image_13535259.png": {
+      "sha": "15b8af8ada80cba77b8a845f53dbe4dec4cc0280"
+    },
     "cutscene/images/4448755c-b02a-4250-943d-7ef81215fc64/newgrounds/jacklehamster/bossworm-cutscene4.png": {
       "sha": "50b8b184c9e491dbed88f0d2c27e78ec6cb02ed8"
     },
@@ -3237,7 +3264,7 @@
     "example/subgroup/dobuki-logo.png": {
       "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
     },
-    "md5": "61e4344f017c8454c6219ccdab3270bb",
+    "md5": "77f097a8c83c5dfcd4da5bc7a6ce1bf8",
     "power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/inn.png": {
       "sha": "0ee88b0cc3456dcbcef258ca9272448d9c00e028"
     },
