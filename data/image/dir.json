@@ -215,6 +215,9 @@
   "cutscene/images/5576225f-71a0-4682-bf53-3a4b8e573d43/default/user/the-terror-of-mongolia-v0-sb-uz-j4Dz1QwJsNwN2N3vGl4cex59mhB2QGvfyeYsQ.png": {
     "sha": "174b2659399d8e9c3d2ad6ab574361c946593e57"
   },
+  "cutscene/images/56183ae8-f8cb-4286-889d-8ff44b7ea3a0/default/user/Sprite-004.png": {
+    "sha": "b4a62199a2793d555cb4adf50aeec4592a435e96"
+  },
   "cutscene/images/5af2f7e0-b482-4007-ab9d-241d65b2c7ae/default/user/Icon_Weapons_SK_RPG7_L.png": {
     "sha": "37896dc944f957bec78653ab3e0d11fffd1587fb"
   },
@@ -449,7 +452,7 @@
   "example/subgroup/dobuki-logo.png": {
     "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
   },
-  "md5": "77f097a8c83c5dfcd4da5bc7a6ce1bf8",
+  "md5": "ed15b3fa3ad48823dd9be8722c94bc7a",
   "power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/inn.png": {
     "sha": "0ee88b0cc3456dcbcef258ca9272448d9c00e028"
   },
