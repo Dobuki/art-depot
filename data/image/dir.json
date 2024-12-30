@@ -215,6 +215,9 @@
   "cutscene/images/5576225f-71a0-4682-bf53-3a4b8e573d43/default/user/the-terror-of-mongolia-v0-sb-uz-j4Dz1QwJsNwN2N3vGl4cex59mhB2QGvfyeYsQ.png": {
     "sha": "174b2659399d8e9c3d2ad6ab574361c946593e57"
   },
+  "cutscene/images/56183ae8-f8cb-4286-889d-8ff44b7ea3a0/default/user/SNES - Super Buster Bros Super Pang - Backgrounds.png": {
+    "sha": "b993fe9a8924b600a1681b09537d1d336ba0440b"
+  },
   "cutscene/images/56183ae8-f8cb-4286-889d-8ff44b7ea3a0/default/user/Sprite-004.png": {
     "sha": "b4a62199a2793d555cb4adf50aeec4592a435e96"
   },
@@ -452,7 +455,7 @@
   "example/subgroup/dobuki-logo.png": {
     "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
   },
-  "md5": "ed15b3fa3ad48823dd9be8722c94bc7a",
+  "md5": "ad51158917e14f20a1e4bcb9846cb5b3",
   "power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/inn.png": {
     "sha": "0ee88b0cc3456dcbcef258ca9272448d9c00e028"
   },

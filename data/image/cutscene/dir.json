@@ -215,6 +215,9 @@
   "images/5576225f-71a0-4682-bf53-3a4b8e573d43/default/user/the-terror-of-mongolia-v0-sb-uz-j4Dz1QwJsNwN2N3vGl4cex59mhB2QGvfyeYsQ.png": {
     "sha": "174b2659399d8e9c3d2ad6ab574361c946593e57"
   },
+  "images/56183ae8-f8cb-4286-889d-8ff44b7ea3a0/default/user/SNES - Super Buster Bros Super Pang - Backgrounds.png": {
+    "sha": "b993fe9a8924b600a1681b09537d1d336ba0440b"
+  },
   "images/56183ae8-f8cb-4286-889d-8ff44b7ea3a0/default/user/Sprite-004.png": {
     "sha": "b4a62199a2793d555cb4adf50aeec4592a435e96"
   },
@@ -437,5 +440,5 @@
   "images/unknown/unknown/dobuki.png": {
     "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
   },
-  "md5": "01a9acf13d7902fb3de37326209a403d"
+  "md5": "040c2195b9924eea02a4fb4f8c13c0df"
 }
