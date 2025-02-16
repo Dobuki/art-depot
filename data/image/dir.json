@@ -236,6 +236,9 @@
   "cutscene/images/5b87fbf0-760d-4837-80b4-3b6ba07f467a/default/user/1000000612.jpg": {
     "sha": "0fc7cf6b68b95febb8ac403040aaff20f781be3a"
   },
+  "cutscene/images/7c404518-cf63-486c-9270-5336a14c5304/default/user/bild_2025-02-16_145019155.png": {
+    "sha": "56ba9df4828b72f341df9c860c181878f99b81d4"
+  },
   "cutscene/images/a0891811-567a-427f-b331-ffb235ff8daf/default/user/スクリーンショット 2024-11-07 13.48.54.png": {
     "sha": "5285cf2291df8f3b157da34ba70c5aec2814f6e3"
   },
@@ -464,7 +467,7 @@
   "example/subgroup/dobuki-logo.png": {
     "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
   },
-  "md5": "12035b520f7107972b6d635c1344be88",
+  "md5": "d844ade73f999de0df84e61ef6e5fd45",
   "power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/inn.png": {
     "sha": "0ee88b0cc3456dcbcef258ca9272448d9c00e028"
   },
