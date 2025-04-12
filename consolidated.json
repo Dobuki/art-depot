@@ -717,6 +717,9 @@
     "images/5b87fbf0-760d-4837-80b4-3b6ba07f467a/default/user/1000000612.jpg": {
       "sha": "0fc7cf6b68b95febb8ac403040aaff20f781be3a"
     },
+    "images/76686425-0cbf-434e-8a1e-6c84cdc5ea5c/default/user/.trashed-1722191584-257463783_2527522797391725_341645980074369497_n.jpg": {
+      "sha": "f918fd780fbece0a10c7f5442ab402d29b6de184"
+    },
     "images/76686425-0cbf-434e-8a1e-6c84cdc5ea5c/default/user/.trashed-1722191584-258184719_2527524794058192_6850674915121812183_n.jpg": {
       "sha": "d11ce531da8e646db0df921cb55dab32b4ce7b05"
     },
@@ -942,7 +945,7 @@
     "images/unknown/unknown/dobuki.png": {
       "sha": "05bb882f83d2cd99336578c2b1f8ed86fbb64cc9"
     },
-    "md5": "cd4f4e23e3e3b485bf3bbafeaec33559"
+    "md5": "fa6ecccaee30cdbe77fe92a72c761ca2"
   },
   "/data/image/cutscene/images/042c78ad-804f-4fca-81f1-19d1bc5aa72d/default/dir.json": {
     "md5": "7606570528b4e92d2cc9ce83ef0e5745",
@@ -1836,22 +1839,31 @@
     "md5": "1d7273f9bd80a0361693179e0a9cef11"
   },
   "/data/image/cutscene/images/76686425-0cbf-434e-8a1e-6c84cdc5ea5c/default/dir.json": {
-    "md5": "17d70bfe14f7c7135429a313209806ac",
+    "md5": "eb563bbec45008cc1bb3943cae64bc91",
+    "user/.trashed-1722191584-257463783_2527522797391725_341645980074369497_n.jpg": {
+      "sha": "f918fd780fbece0a10c7f5442ab402d29b6de184"
+    },
     "user/.trashed-1722191584-258184719_2527524794058192_6850674915121812183_n.jpg": {
       "sha": "d11ce531da8e646db0df921cb55dab32b4ce7b05"
     }
   },
   "/data/image/cutscene/images/76686425-0cbf-434e-8a1e-6c84cdc5ea5c/default/user/dir.json": {
+    ".trashed-1722191584-257463783_2527522797391725_341645980074369497_n.jpg": {
+      "sha": "f918fd780fbece0a10c7f5442ab402d29b6de184"
+    },
     ".trashed-1722191584-258184719_2527524794058192_6850674915121812183_n.jpg": {
       "sha": "d11ce531da8e646db0df921cb55dab32b4ce7b05"
     },
-    "md5": "ea1e9b2464c3d206941e3089dc0f6b8c"
+    "md5": "36c47273108b71f781249c6bd23157ae"
   },
   "/data/image/cutscene/images/76686425-0cbf-434e-8a1e-6c84cdc5ea5c/dir.json": {
+    "default/user/.trashed-1722191584-257463783_2527522797391725_341645980074369497_n.jpg": {
+      "sha": "f918fd780fbece0a10c7f5442ab402d29b6de184"
+    },
     "default/user/.trashed-1722191584-258184719_2527524794058192_6850674915121812183_n.jpg": {
       "sha": "d11ce531da8e646db0df921cb55dab32b4ce7b05"
     },
-    "md5": "4d71febe89347979aa0417f14d953ebe"
+    "md5": "f3a54c3260eb774058719eba680b17d0"
   },
   "/data/image/cutscene/images/7c404518-cf63-486c-9270-5336a14c5304/default/dir.json": {
     "md5": "e321e7fef2093e1110d1b447ec330c52",
@@ -2466,6 +2478,9 @@
     "5b87fbf0-760d-4837-80b4-3b6ba07f467a/default/user/1000000612.jpg": {
       "sha": "0fc7cf6b68b95febb8ac403040aaff20f781be3a"
     },
+    "76686425-0cbf-434e-8a1e-6c84cdc5ea5c/default/user/.trashed-1722191584-257463783_2527522797391725_341645980074369497_n.jpg": {
+      "sha": "f918fd780fbece0a10c7f5442ab402d29b6de184"
+    },
     "76686425-0cbf-434e-8a1e-6c84cdc5ea5c/default/user/.trashed-1722191584-258184719_2527524794058192_6850674915121812183_n.jpg": {
       "sha": "d11ce531da8e646db0df921cb55dab32b4ce7b05"
     },
@@ -2643,7 +2658,7 @@
     "fda8036d-650f-4409-a154-d1ba61667c35/default/user/banksy_egg.png": {
       "sha": "f05f5b50b71f53648c1c2d51cbfda2fd3f552f9b"
     },
-    "md5": "6d86025333eff13ecc06eb4903729628",
+    "md5": "b439d274e195fd659f3063ee39a06e99",
     "newgrounds/jacklehamster/1_POOZLca73g_cMSVnmDHw2A.jpeg": {
       "sha": "486f0061a07a0182ca733c62667f048fb7c8e030"
     },
@@ -3285,6 +3300,9 @@
     "cutscene/images/5b87fbf0-760d-4837-80b4-3b6ba07f467a/default/user/1000000612.jpg": {
       "sha": "0fc7cf6b68b95febb8ac403040aaff20f781be3a"
     },
+    "cutscene/images/76686425-0cbf-434e-8a1e-6c84cdc5ea5c/default/user/.trashed-1722191584-257463783_2527522797391725_341645980074369497_n.jpg": {
+      "sha": "f918fd780fbece0a10c7f5442ab402d29b6de184"
+    },
     "cutscene/images/76686425-0cbf-434e-8a1e-6c84cdc5ea5c/default/user/.trashed-1722191584-258184719_2527524794058192_6850674915121812183_n.jpg": {
       "sha": "d11ce531da8e646db0df921cb55dab32b4ce7b05"
     },
@@ -3525,7 +3543,7 @@
     "example/subgroup/dobuki-logo.png": {
       "sha": "950d0816cedc2eb42e2a0dcb90324c895d88754b"
     },
-    "md5": "74adeb1b4ae4d07d5cd503de9cf13d91",
+    "md5": "ef6efd4ebfd33590e49e1a27558e8904",
     "power-troll-level-art/newgrounds/jacklehamster/newgrounds/jacklehamster/inn.png": {
       "sha": "0ee88b0cc3456dcbcef258ca9272448d9c00e028"
     },
